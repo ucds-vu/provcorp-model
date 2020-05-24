@@ -1,0 +1,26 @@
+# Return an instance where ‘to surprise’ is a cue. We don’t know when ‘verrassen’ can be a cue in Dutch. "
+# When there are doubts while annotating, it is useful to be able to check whether a certain word is a cue in order to get examples.
+
+prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/>
+prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+prefix pvcp: <https://w3id.org/provcorp/vocab/general/>
+prefix olia: <http://purl.org/olia/sfb632.owl#>
+
+select distinct ?Document ?Word ?Sentence_Number
+where
+{
+   ?offset nif:lemma "surprise";
+          olia:POS ?pos;
+          nif:anchorOf ?Word;
+          pvcp:isPartOfText ?text;
+          pvcp:hasSentenceNumber ?num.
+   ?panno pvcpp:hasCueAnnotatedWord  ?offset.
+
+FILTER(?pos IN ("VBP","VBG","VBZ","VBN","VB","VBD")).
+bind(str(?num) as ?Sentence_Number).
+FILTER REGEX(?Sentence_Number, "[0-9]").
+bind(str(?text) as ?textstr).
+bind(strbefore(?textstr, '.R') as ?str1).
+bind(substr(?str1,45) as ?Document).
+
+}

@@ -1,0 +1,27 @@
+# L1
+# Who talked about an event, and what is their belief about that event?
+
+prefix pvcp: <https://w3id.org/provcorp/vocab/general/>
+prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/>
+prefix oa: <http://www.w3.org/ns/oa#>
+prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/>
+prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+
+select ?filename ?eID ?event ?fact_value ?relative_source (group_concat(?sourceliteral;separator=" ") as ?sourcePhrase) where {
+select distinct ?filename ?eID ?event ?fact_value ?relative_source ?sourceliteral where {
+     ?e oa:hasTarget ?eventOffset; pvcpf:hasEID ?eID.
+     ?eventOffset pvcp:isPartOfText ?text;
+            nif:anchorOf ?event.
+     ?panno (pvcpp:hasContentAnnotatedWord|pvcpp:hasCueAnnotatedWord|pvcpp:hasSourceAnnotatedWord) ?eventOffset;
+            pvcpp:hasSourceAnnotatedWord [nif:anchorOf ?sourceliteral; nif:beginIndex ?beginIndex].
+     ?fanno pvcpf:hasTargetEvent ?e;
+            pvcpf:hasRelSourceText ?relative_source;
+            pvcpf:hasFactvalue ?fact_value.
+     bind(str(?text) as ?textstr).
+     bind(strbefore(?textstr,'.R') as ?str1).
+     bind(substr(?str1, 45) as ?filename).
+}
+order by ?filename?eID ?event ?fact_value ?relative_source ?beginIndex
+}
+group by ?filename ?eID ?event ?fact_value ?relative_source
+order by ?filename ?eID ?event ?fact_value ?relative_source
