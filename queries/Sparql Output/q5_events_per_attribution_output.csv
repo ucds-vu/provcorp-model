@@ -1,7 +1,7 @@
-Document,Word,Sentence_Number
-wsj_0158,surprised,11
-,,
-,,
+Predicate,Count,
+https://w3id.org/provcorp/np/public/vocab/parc/hasSourceAnnotatedWord,3,
+https://w3id.org/provcorp/np/public/vocab/parc/hasCueAnnotatedWord,130,
+https://w3id.org/provcorp/np/public/vocab/parc/hasContentAnnotatedWord,284,
 ,,
 ,,
 ,,
