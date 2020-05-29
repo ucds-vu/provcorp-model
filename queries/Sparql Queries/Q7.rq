@@ -1,0 +1,26 @@
+# Q7
+# Where in the corpus is a specific word (or lemma) a type of annotation, e.g. where is the verb `to surprise' a cue annotation?
+
+prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/>
+prefix pvcpp: <https://w3id.org/provcorp/np/public/vocab/parc/>
+prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+prefix olia: <http://purl.org/olia/sfb632.owl#>
+
+select distinct ?Document ?Word ?Sentence_Number
+where
+{
+   ?offset nif:lemma "surprise";
+          olia:POS ?pos;
+          nif:anchorOf ?Word;
+          pvcp:isPartOfText ?text;
+          pvcp:hasSentenceNumber ?num.
+   ?panno pvcpp:hasCueAnnotatedWord  ?offset.
+
+FILTER(?pos IN ("VBP","VBG","VBZ","VBN","VB","VBD")).
+bind(str(?num) as ?Sentence_Number).
+FILTER REGEX(?Sentence_Number, "[0-9]").
+bind(str(?text) as ?textstr).
+bind(strbefore(?textstr, '.R') as ?str1).
+bind(substr(?str1,45) as ?Document).
+
+}
