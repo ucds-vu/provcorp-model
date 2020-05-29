@@ -1,0 +1,37 @@
+@prefix this: <https://w3id.org/provcorp/np/public/document/APW19980213.1310.RAWcep4N50xpTD0itGUINN26KRTlo1C2FiaBtYInc6Sto> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/APW19980213.1310.RAWcep4N50xpTD0itGUINN26KRTlo1C2FiaBtYInc6Sto#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:document dct:created "1998-02-13T14:26:00"^^xsd:dateTime;
+    dct:creator <http://dbpedia.org/resource/Associated_Press>;
+    dct:identifier "APW19980213.1310";
+    dct:title "Constitutional convention votes for republic, against links to ";
+    a foaf:Document;
+    rdfs:comment "British monarchy QL UR Eds: ADDS 2 grafs at end with reaction from former prime minister Paul Keating QL UR AP Photo CANB101,102,103 QL UR By ALAN THORNHILL QC UR Associated Press Writer QC ";
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/APW19980213.1310.RAjUyfBzjTPvGeN2ndWZrCYN_NG0m-QufwQXFqXEmFSto#text> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/provcorp/corpus/factbank-texts> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T11:55:36.999+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}

@@ -1,0 +1,37 @@
+@prefix this: <https://w3id.org/provcorp/np/public/corpus/factbank-annotations.RAnWxiyPcTNlpFODRKC7Q4Vi_y1W8hphaW151iqsjf6Rw> .
+@prefix sub: <https://w3id.org/provcorp/np/public/corpus/factbank-annotations.RAnWxiyPcTNlpFODRKC7Q4Vi_y1W8hphaW151iqsjf6Rw#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://w3id.org/provcorp/corpus/factbank-annotations> dct:description "FactBank 1.0, Linguistic Data Consortium (LDC) catalog number LDC2009T23 and isbn 1-58563-522-7, consists of 194 documents from newswire and broadcast news reports in which event mentions are annotated with their degree of factuality, that is, the degree to which they correspond to those events.";
+    dct:language "en";
+    dct:title "Factbank 1.0 Annotation corpus";
+    a pvcp:AnnotationCorpus;
+    rdfs:comment "FactBank 1.0 was built on top of TimeBank 1.2 and a fragment of the AQUAINT TimeML Corpus, both of which used the TimeML specification language. This resulted in a double-layered annotation of event factuality.";
+    rdfs:seeAlso <https://catalog.ldc.upenn.edu/LDC2009T23>;
+    dcat:distribution <https://w3id.org/provcorp/np/public/index/annotation-corpus/RAZTkhYcAo0d71z0MMIlla0gWoqlltOpB9vTaBYu_-o5I> .
+}
+
+sub:provenance {
+  sub:assertion dct:bibliographicCitation <https://doi.org/10.1007/s10579-009-9089-9>;
+    dct:creator <http://jamespusto.com/>, <https://sites.google.com/site/rosersauri/> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T12:00:02.200+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}

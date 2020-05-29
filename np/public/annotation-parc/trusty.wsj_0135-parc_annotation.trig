@@ -1,0 +1,270 @@
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_Attribution_relation_level.xml_set_1.RAe3XH-Q9L7ptQ7T01e4MRUApO87zGgntbcaz2BeNvw0s> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_Attribution_relation_level.xml_set_1.RAe3XH-Q9L7ptQ7T01e4MRUApO87zGgntbcaz2BeNvw0s#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0135.RArDV56IcdIPgMkk4NJXTycDlsXlCaQou-e7ySQ2_NkRs.offset.> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:annotation dct:isPartOf <https://w3id.org/provcorp/corpus/parc-annotations>;
+    a oa:Annotation;
+    oa:hasBody this:;
+    pvcpp:hasAttrID "wsj_0135_Attribution_relation_level.xml_set_1";
+    pvcpp:hasContentAnnotatedWord textoffset:101-107, textoffset:108-115, textoffset:115-118,
+      textoffset:119-127, textoffset:128-130, textoffset:131-132, textoffset:132-136, textoffset:137-138,
+      textoffset:139-144, textoffset:29-31, textoffset:32-39, textoffset:40-43, textoffset:44-50,
+      textoffset:51-53, textoffset:54-57, textoffset:58-62, textoffset:63-69, textoffset:70-74,
+      textoffset:75-77, textoffset:77-78, textoffset:79-83, textoffset:83-84, textoffset:85-87,
+      textoffset:88-92, textoffset:93-98, textoffset:99-100;
+    pvcpp:hasCueAnnotatedWord textoffset:24-28;
+    pvcpp:hasSourceAnnotatedWord textoffset:19-23, textoffset:3-7, textoffset:8-18 .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2016-05-01T00:00:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0003-0955-6104> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T11:53:53.014+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>;
+    rdfs:comment "You are free to use this information when referencing the above paper and creator.";
+    rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_Nested_relation_level.xml_set_2.RAXh1NCjKsCImc88lPdkroH9yjdw-gERoXsGNX8xkmpJo> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_Nested_relation_level.xml_set_2.RAXh1NCjKsCImc88lPdkroH9yjdw-gERoXsGNX8xkmpJo#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0135.RArDV56IcdIPgMkk4NJXTycDlsXlCaQou-e7ySQ2_NkRs.offset.> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  dct:isPartOf <https://w3id.org/provcorp/corpus/parc-annotations> ""^^xsd:integer .
+  
+  sub:annotation a oa:Annotation;
+    oa:hasBody this:;
+    pvcpp:hasAttrID "wsj_0135_Nested_relation_level.xml_set_2";
+    pvcpp:hasContentAnnotatedWord textoffset:101-107, textoffset:108-115, textoffset:115-118,
+      textoffset:119-127, textoffset:128-130, textoffset:131-132, textoffset:132-136, textoffset:137-138,
+      textoffset:139-144, textoffset:40-43, textoffset:44-50, textoffset:51-53, textoffset:54-57,
+      textoffset:58-62, textoffset:63-69, textoffset:70-74, textoffset:75-77, textoffset:77-78,
+      textoffset:79-83, textoffset:83-84, textoffset:85-87, textoffset:88-92, textoffset:93-98,
+      textoffset:99-100;
+    pvcpp:hasCueAnnotatedWord textoffset:32-39;
+    pvcpp:hasNestedRelationWith <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_Attribution_relation_level.xml_set_1.RAe3XH-Q9L7ptQ7T01e4MRUApO87zGgntbcaz2BeNvw0s>;
+    pvcpp:hasSourceAnnotatedWord textoffset:29-31 .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2016-05-01T00:00:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0003-0955-6104> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T11:53:53.014+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>;
+    rdfs:comment "You are free to use this information when referencing the above paper and creator.";
+    rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_PDTB_annotation_level.xml_set_0.RAvWGAcOnlgUUUlT5H_hC8RVxuBzhRiUBghOdJQkxlncs> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_PDTB_annotation_level.xml_set_0.RAvWGAcOnlgUUUlT5H_hC8RVxuBzhRiUBghOdJQkxlncs#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0135.RArDV56IcdIPgMkk4NJXTycDlsXlCaQou-e7ySQ2_NkRs.offset.> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:annotation dct:isPartOf <https://w3id.org/provcorp/corpus/parc-annotations>;
+    a oa:Annotation;
+    oa:hasBody this:;
+    pvcpp:hasAttrID "wsj_0135_PDTB_annotation_level.xml_set_0";
+    pvcpp:hasContentAnnotatedWord textoffset:198-200, textoffset:201-208, textoffset:209-211,
+      textoffset:212-216, textoffset:217-222, textoffset:223-225, textoffset:226-229, textoffset:230-237,
+      textoffset:238-244, textoffset:245-249, textoffset:250-254, textoffset:255-258, textoffset:260-261,
+      textoffset:262-270, textoffset:271-276, textoffset:277-278, textoffset:279-285, textoffset:286-290,
+      textoffset:291-296, textoffset:297-299, textoffset:300-301, textoffset:301-304, textoffset:305-312;
+    pvcpp:hasCueAnnotatedWord textoffset:188-192, textoffset:193-197;
+    pvcpp:hasSourceAnnotatedWord textoffset:149-152, textoffset:153-161, textoffset:161-162,
+      textoffset:163-167, textoffset:167-168, textoffset:169-174, textoffset:175-177, textoffset:178-187 .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2016-05-01T00:00:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0003-0955-6104> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T11:53:53.014+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>;
+    rdfs:comment "You are free to use this information when referencing the above paper and creator.";
+    rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_Nested_relation_level.xml_set_4.RAvmNvRltn0ealZOo11w8kaKGa7v0jtmNT5QISBeEsIyo> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_Nested_relation_level.xml_set_4.RAvmNvRltn0ealZOo11w8kaKGa7v0jtmNT5QISBeEsIyo#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0135.RArDV56IcdIPgMkk4NJXTycDlsXlCaQou-e7ySQ2_NkRs.offset.> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  dct:isPartOf <https://w3id.org/provcorp/corpus/parc-annotations> ""^^xsd:integer .
+  
+  sub:annotation a oa:Annotation;
+    oa:hasBody this:;
+    pvcpp:hasAttrID "wsj_0135_Nested_relation_level.xml_set_4";
+    pvcpp:hasContentAnnotatedWord textoffset:209-211, textoffset:212-216, textoffset:217-222,
+      textoffset:223-225, textoffset:226-229, textoffset:230-237, textoffset:238-244, textoffset:245-249,
+      textoffset:250-254, textoffset:255-258, textoffset:260-261, textoffset:262-270, textoffset:271-276,
+      textoffset:277-278, textoffset:279-285, textoffset:286-290, textoffset:291-296, textoffset:297-299,
+      textoffset:300-301, textoffset:301-304, textoffset:305-312;
+    pvcpp:hasCueAnnotatedWord textoffset:201-208;
+    pvcpp:hasNestedRelationWith this:;
+    pvcpp:hasSourceAnnotatedWord textoffset:198-200 .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2016-05-01T00:00:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0003-0955-6104> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T11:53:53.014+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>;
+    rdfs:comment "You are free to use this information when referencing the above paper and creator.";
+    rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_Nested_relation_level.xml_set_5.RAo1fnlO0lkSxCGWG1qEN3fFQpnVtkyKP1Jg8pbUsXQnE> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_Nested_relation_level.xml_set_5.RAo1fnlO0lkSxCGWG1qEN3fFQpnVtkyKP1Jg8pbUsXQnE#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0135.RArDV56IcdIPgMkk4NJXTycDlsXlCaQou-e7ySQ2_NkRs.offset.> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  dct:isPartOf <https://w3id.org/provcorp/corpus/parc-annotations> ""^^xsd:integer .
+  
+  sub:annotation a oa:Annotation;
+    oa:hasBody this:;
+    pvcpp:hasAttrID "wsj_0135_Nested_relation_level.xml_set_5";
+    pvcpp:hasContentAnnotatedWord textoffset:217-222, textoffset:223-225, textoffset:226-229,
+      textoffset:230-237, textoffset:238-244, textoffset:245-249, textoffset:250-254, textoffset:255-258,
+      textoffset:260-261, textoffset:262-270, textoffset:271-276, textoffset:277-278, textoffset:279-285,
+      textoffset:286-290, textoffset:291-296, textoffset:297-299, textoffset:300-301, textoffset:301-304,
+      textoffset:305-312;
+    pvcpp:hasCueAnnotatedWord textoffset:209-211, textoffset:212-216;
+    pvcpp:hasNestedRelationWith <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_Nested_relation_level.xml_set_4.RAvmNvRltn0ealZOo11w8kaKGa7v0jtmNT5QISBeEsIyo> .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2016-05-01T00:00:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0003-0955-6104> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T11:53:53.014+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>;
+    rdfs:comment "You are free to use this information when referencing the above paper and creator.";
+    rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_PDTB_annotation_level.xml_set_1.RAKuzhDSLjSkRPKTB_2NyO-dy4u5BquZlL_76XwWC3Dgw> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/wsj_0135_PDTB_annotation_level.xml_set_1.RAKuzhDSLjSkRPKTB_2NyO-dy4u5BquZlL_76XwWC3Dgw#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0135.RArDV56IcdIPgMkk4NJXTycDlsXlCaQou-e7ySQ2_NkRs.offset.> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:annotation dct:isPartOf <https://w3id.org/provcorp/corpus/parc-annotations>;
+    a oa:Annotation;
+    oa:hasBody this:;
+    pvcpp:hasAttrID "wsj_0135_PDTB_annotation_level.xml_set_1";
+    pvcpp:hasContentAnnotatedWord textoffset:331-334, textoffset:335-345, textoffset:346-350,
+      textoffset:351-360, textoffset:361-363, textoffset:364-368, textoffset:369-375, textoffset:376-385,
+      textoffset:386-389, textoffset:390-395, textoffset:396-402;
+    pvcpp:hasCueAnnotatedWord textoffset:326-330;
+    pvcpp:hasSourceAnnotatedWord textoffset:314-317, textoffset:318-325 .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2016-05-01T00:00:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0003-0955-6104> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T11:53:53.014+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>;
+    rdfs:comment "You are free to use this information when referencing the above paper and creator.";
+    rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
+}

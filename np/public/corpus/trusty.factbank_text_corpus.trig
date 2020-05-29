@@ -1,0 +1,37 @@
+@prefix this: <https://w3id.org/provcorp/np/public/corpus/factbank-texts.RAwTXR-YCb_nfnN5Whjdyg9ZLYkTeUTCqHs7NDS4v2vYY> .
+@prefix sub: <https://w3id.org/provcorp/np/public/corpus/factbank-texts.RAwTXR-YCb_nfnN5Whjdyg9ZLYkTeUTCqHs7NDS4v2vYY#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  <https://w3id.org/provcorp/corpus/factbank-texts> dct:description "A Corpus of Texts used in Factbank 1.0";
+    dct:language "en";
+    dct:title "Factbank 1.0 Text corpus";
+    a pvcp:TextCorpus;
+    rdfs:comment "Contains 194 documents";
+    rdfs:seeAlso <https://catalog.ldc.upenn.edu/LDC2009T23>;
+    dcat:distribution <https://w3id.org/provcorp/np/public/index/text-corpus/RA9iBVqZgZlVeCHACIz86e-2my8ytY7MqUxuf17p4_Lio> .
+}
+
+sub:provenance {
+  sub:assertion dct:bibliographicCitation <https://doi.org/10.1007/s10579-009-9089-9>;
+    dct:creator <http://jamespusto.com/>, <https://sites.google.com/site/rosersauri/> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T12:00:02.200+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}

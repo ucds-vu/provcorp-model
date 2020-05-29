@@ -1,0 +1,478 @@
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/ProvcorpVocabFactbank/RA52e-rpgahhAzi9FwntNXm8rEqqgUAKEaNX01HsKBIng> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/ProvcorpVocabFactbank/RA52e-rpgahhAzi9FwntNXm8rEqqgUAKEaNX01HsKBIng#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/ProvcorpVocabFactbank> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:ProvcorpVocabFactbank dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469;
+    dct:description "This is the vocabulairy describing the Factbank implementation choices of the provcorp nanopublications.";
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+    dct:title "Factbank definitions for provcorp nanopublications";
+    vann:preferredNamespacePrefix "pvcpf";
+    vann:preferredNamespaceUri "https://w3id.org/provcorp/vocab/factbank/";
+    a owl:ontology;
+    rdfs:isDefinedBy latest: .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/AuthorAsSourceAnnotation/RAgaiOEw_LZFaCR_16dM5fo3zPEGAPkgc1UNnZCiLOO8s> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/AuthorAsSourceAnnotation/RAgaiOEw_LZFaCR_16dM5fo3zPEGAPkgc1UNnZCiLOO8s#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/AuthorAsSourceAnnotation> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:AuthorAsSourceAnnotation rdfs:isDefinedBy latest:;
+    rdfs:label "Author as source annotation"@en;
+    rdfs:subClassOf oa:Annotation;
+    skos:definition "The Author of the text is seen as the source of the annotation"@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/GenAsSourceAnnotation/RAeg7r8jzFrIE2EoyIBKlujmGw5mW94PCdW_vMjN7EvVQ> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/GenAsSourceAnnotation/RAeg7r8jzFrIE2EoyIBKlujmGw5mW94PCdW_vMjN7EvVQ#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/GenAsSourceAnnotation> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:GenAsSourceAnnotation rdfs:isDefinedBy latest:;
+    rdfs:label "Gen as source annotation"@en;
+    rdfs:subClassOf oa:Annotation;
+    skos:definition "The source of the annotation is a generic source"@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/DummyAsSourceAnnotation/RASNerrrCKplJl5d7p-MhbI0fx7JpHspWJpPp_TKJzLx4> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/DummyAsSourceAnnotation/RASNerrrCKplJl5d7p-MhbI0fx7JpHspWJpPp_TKJzLx4#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/DummyAsSourceAnnotation> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:DummyAsSourceAnnotation rdfs:isDefinedBy latest:;
+    rdfs:label "Dummy as source annotation"@en;
+    rdfs:subClassOf oa:Annotation;
+    skos:definition "The source of the annotation is not explicitly mentioned in the text"@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/hasEiID/RAuEBvnyGoYxuJb0S_FIkgh1z8mNR9UvyCl-MWcsDHLi4> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/hasEiID/RAuEBvnyGoYxuJb0S_FIkgh1z8mNR9UvyCl-MWcsDHLi4#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/hasEiID> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:hasEiID a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has eiID"@en;
+    skos:definition "Gives the event instance id of the annotated event."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/hasSourceID/RA3SEnID-srxHPw3z00XWJJ55yOrubQctIwmikRxx49hw> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/hasSourceID/RA3SEnID-srxHPw3z00XWJJ55yOrubQctIwmikRxx49hw#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/hasSourceID> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:hasSourceID a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has Source ID"@en;
+    skos:definition "Gives the source id of the annotated source."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/hasFactvalue/RAIwOe49_ucgGh2f9JdOK_jI4d4HYokxc8PgMILOWKj3Q> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/hasFactvalue/RAIwOe49_ucgGh2f9JdOK_jI4d4HYokxc8PgMILOWKj3Q#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/hasFactvalue> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:hasFactvalue a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has factvalue"@en;
+    skos:definition "Gives the factuality value of the annotation."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/hasRelSourceID/RA2S8_83vlhXACVPg1RiC9V6poXcWsz_IF3FjLZemh-2I> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/hasRelSourceID/RA2S8_83vlhXACVPg1RiC9V6poXcWsz_IF3FjLZemh-2I#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/hasRelSourceID> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:hasRelSourceID a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has rel sourceID"@en;
+    skos:definition "Gives the relevant sourceID of the annotation."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/hasTargetEvent/RAYE--PFHAkWjgobetYsh3MEFGwmTpZ9PKomT-Z22vqPc> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/hasTargetEvent/RAYE--PFHAkWjgobetYsh3MEFGwmTpZ9PKomT-Z22vqPc#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/hasTargetEvent> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:hasTargetEvent a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has target event"@en;
+    rdfs:subPropertyOf oa:hasTarget;
+    skos:definition "Links to the nanopublication of the event to which this factvalue applies."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/hasSourceAnnotation/RA-myJ7puSmbxzmfMMgINpE2lkBs3ZbYWQr7n8zXDviJg> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/hasSourceAnnotation/RA-myJ7puSmbxzmfMMgINpE2lkBs3ZbYWQr7n8zXDviJg#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/hasSourceAnnotation> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:hasSourceAnnotation a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has source annotation"@en;
+    skos:definition "Links to the seperate source parts of the relevant source."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/hasRelSourceText/RA6G5RF5SuF1diYmfV1OS5pCR8MteccS_0KLTRpOV97CU> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/hasRelSourceText/RA6G5RF5SuF1diYmfV1OS5pCR8MteccS_0KLTRpOV97CU#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/hasRelSourceText> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:hasRelSourceText a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has relative source text"@en;
+    skos:definition "The combined text of all the sources of this factvalue"@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/hasSourceText/RAnkAt_Y2LSzd5BBvDM_LOxHvMyisPv02a_BAjjQeF18k> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/hasSourceText/RAnkAt_Y2LSzd5BBvDM_LOxHvMyisPv02a_BAjjQeF18k#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/hasSourceText> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpf:hasSourceText a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has source text"@en;
+    skos:definition "The specific source in the text."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}

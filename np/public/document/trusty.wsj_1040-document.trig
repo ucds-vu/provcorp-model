@@ -1,0 +1,37 @@
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_1040.RAWHwdGSNu_r7jMffn5F8youMMctjssGq2yoLPrktMbgQ> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_1040.RAWHwdGSNu_r7jMffn5F8youMMctjssGq2yoLPrktMbgQ#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:document dct:created "1989-10-26T00:00:00"^^xsd:dateTime;
+    dct:creator <http://dbpedia.org/resource/The_Wall_Street_Journal>;
+    dct:identifier "WSJ891026-0016";
+    dct:title "Dividend News: @  Oneida Ltd.";
+    a foaf:Document;
+    rdfs:comment "OCQ  DIVIDENDS (DIV)";
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_1040.RAGooWN9KGXmAhIdlCveFqfa-JijP0UwgM2JNWyTjAtTA#text> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/provcorp/corpus/factbank-texts> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T11:55:20.208+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}

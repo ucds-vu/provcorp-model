@@ -1,0 +1,44 @@
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0150/wsj_0150_PDTB_annotation_level.xml_set_0.RAwOpfJt8uDE8jmNcPJ7nV0gWGWnjorRaYLGvoZ60_7DQ> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0150/wsj_0150_PDTB_annotation_level.xml_set_0.RAwOpfJt8uDE8jmNcPJ7nV0gWGWnjorRaYLGvoZ60_7DQ#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0150.RAxg1bODG2QoVHoVFt-Md0ImdBbMJaCSoKYB1EpAAanIw.offset.> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:annotation dct:isPartOf <https://w3id.org/provcorp/corpus/parc-annotations>;
+    a oa:Annotation;
+    oa:hasBody this:;
+    pvcpp:hasAttrID "wsj_0150_PDTB_annotation_level.xml_set_0";
+    pvcpp:hasContentAnnotatedWord textoffset:102-114, textoffset:115-122, textoffset:123-126,
+      textoffset:127-138, textoffset:17-22, textoffset:23-26, textoffset:27-33, textoffset:3-7,
+      textoffset:34-38, textoffset:39-48, textoffset:49-54, textoffset:54-55, textoffset:56-59,
+      textoffset:60-64, textoffset:64-65, textoffset:66-71, textoffset:72-73, textoffset:74-81,
+      textoffset:8-16, textoffset:82-89, textoffset:90-92, textoffset:93-101;
+    pvcpp:hasCueAnnotatedWord textoffset:154-158;
+    pvcpp:hasSourceAnnotatedWord textoffset:140-143, textoffset:144-153 .
+}
+
+sub:provenance {
+  sub:assertion dct:created "2016-05-01T00:00:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0003-0955-6104> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T11:53:50.266+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>;
+    rdfs:comment "You are free to use this information when referencing the above paper and creator.";
+    rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
+}

@@ -1,0 +1,35 @@
+@prefix this: <https://w3id.org/provcorp/np/public/document/XIE19990313.0229.RACig5is_Yd8M4ME4JJRH_prgIOA1wy7CsCIzbcwqzNhI> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/XIE19990313.0229.RACig5is_Yd8M4ME4JJRH_prgIOA1wy7CsCIzbcwqzNhI#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  sub:document dct:created "1999-03-13T00:00:00"^^xsd:dateTime;
+    dct:creator <http://dbpedia.org/resource/News_broadcasting>;
+    dct:identifier "XIE19990313.0229";
+    dct:title "NEWS STORY Poland, Hungary, Czech Formally Join NATO ";
+    a foaf:Document;
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/XIE19990313.0229.RADgvl6b_a5HYM9ulKpXR2yeeu7PnBnOt3gzpYUt4LBtw#text> .
+}
+
+sub:provenance {
+  sub:assertion prov:wasDerivedFrom <https://w3id.org/provcorp/corpus/factbank-texts> .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-05-29T11:54:09.750+02:00"^^xsd:dateTime;
+    dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
+      <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
+    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+}

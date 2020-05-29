@@ -1,0 +1,196 @@
+@prefix this: <https://w3id.org/provcorp/np/public/index/annotation-corpus/RAdITwApmv1eSqOwnOqLJwl9WlQ5INSjGDC36LAkl5JS8> .
+@prefix sub: <https://w3id.org/provcorp/np/public/index/annotation-corpus/RAdITwApmv1eSqOwnOqLJwl9WlQ5INSjGDC36LAkl5JS8#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dce: <http://purl.org/dc/elements/1.1/> .
+@prefix pav: <http://purl.org/pav/> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
+@prefix ns1: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0026/> .
+@prefix ns2: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0027/> .
+@prefix ns3: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0068/> .
+@prefix ns4: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0073/> .
+@prefix ns5: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0106/> .
+@prefix ns6: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0122/> .
+@prefix ns7: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0127/> .
+@prefix ns8: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0132/> .
+@prefix ns9: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0135/> .
+@prefix ns10: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0136/> .
+@prefix ns11: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0144/> .
+@prefix ns12: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0151/> .
+@prefix ns13: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0158/> .
+@prefix ns14: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0160/> .
+@prefix ns15: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0161/> .
+@prefix ns16: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0165/> .
+@prefix ns17: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0167/> .
+@prefix ns18: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0168/> .
+@prefix ns19: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0169/> .
+@prefix ns20: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0171/> .
+@prefix ns21: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/> .
+@prefix ns22: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0175/> .
+@prefix ns23: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0176/> .
+@prefix ns24: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0184/> .
+@prefix ns25: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0187/> .
+@prefix ns26: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0189/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  this: npx:includesElement ns1:wsj_0026_Attribution_relation_level.xml_set_1.RApUOBcciNxeG78c2NDR60danihhKJWMhykpGmRVTtzR0,
+      ns1:wsj_0026_Attribution_relation_level.xml_set_2.RAOMq-X1TMZcNA9qn3sDW-_lTVfpiE9M7jfXSFnGrJPTI,
+      ns1:wsj_0026_Attribution_relation_level.xml_set_3.RAXgmprpP4Ji4U-9LPlbuSaW91vIfFqhClFBanr0zZD6s,
+      ns1:wsj_0026_Nested_relation_level.xml_set_4.RAdF1xDCUayeW0Wb1BtUc8CXFI8Tmn3RtFjMD8LXXb3dw,
+      ns1:wsj_0026_Nested_relation_level.xml_set_5.RA814VKd23DXquTgKinTUDj63P13W7HGUkTaLzz4eMlO0,
+      ns1:wsj_0026_PDTB_annotation_level.xml_set_0.RAQbO4tLgWK4pgaPhoXqoZKu9JX4eado6vw0qd7ctNbJM,
+      ns1:wsj_0026_PDTB_annotation_level.xml_set_1.RACbaLCMJbUiSOlw6QFO2j5DOAfMCUR0MEwI7wLYCXYHw,
+      ns2:wsj_0027_Attribution_relation_level.xml_set_1.RAMZTEd_9M27IWLFZ-cWQrvuFzwqfboP24N02ikCMoPc0,
+      ns2:wsj_0027_Attribution_relation_level.xml_set_2.RAv5hggpTRscb5lK94IwSKcuDMCVNXl8hLhpF7xX5VjoQ,
+      ns2:wsj_0027_Attribution_relation_level.xml_set_3.RAOm96pev19ev5tXXtnhLigiM9bN2MQVJroOdYIcPPW00,
+      ns2:wsj_0027_Attribution_relation_level.xml_set_4.RAnydsBM8Bo-nGPL8u8SJURNatzrwGZFt-omoJEH95ysk,
+      ns2:wsj_0027_Attribution_relation_level.xml_set_5.RAqoCgZoocA39CP-CAEV3RGeWHMHWMALYa9R8Od0PTEKs,
+      ns2:wsj_0027_Nested_relation_level.xml_set_6.RAjc6nO8LozrJjNQBee3ErLxAwBOVJIAOeYmr1lNBTH_A,
+      ns2:wsj_0027_PDTB_annotation_level.xml_set_0.RAasYrmtl9hyTOXvtkxT89msDy7CmG4U4fHP-lmR-_ZpQ,
+      ns2:wsj_0027_PDTB_annotation_level.xml_set_1.RASFWBd59AWBVsDQ8YLGxmBI9InV8OZ8AOo_d69Nt3SkE,
+      ns3:wsj_0068_Attribution_relation_level.xml_set_1.RASpcj-5qxzEk3oIWal6hBAuWJGJDr8VUDH0s9gmFHHo8,
+      ns3:wsj_0068_Attribution_relation_level.xml_set_2.RA4Dmw2odyJAcu6CnCAdo9i1ALZeqJqIhE5wamSA2UYF0,
+      ns4:wsj_0073_Attribution_relation_level.xml_set_1.RAvu3yrFUf5T3J85YWhHKNPiq5eoymnh-_PEMyqCY2Gk0,
+      ns4:wsj_0073_Nested_relation_level.xml_set_2.RAldcKa6zehAiERz6DTlNnHHCZa_x5129d3LSMBd6wDgQ,
+      ns4:wsj_0073_PDTB_annotation_level.xml_set_0.RASVtkMghsgTj5RYU2Zd2E2BHg1hXlrr2NZkTvcPO5RAg,
+      ns5:wsj_0106_Attribution_relation_level.xml_set_1.RAG8v-XIiWDn4ucUGzaoLNPbp2zqIYHKeoUT3L4-k1L6Q,
+      ns5:wsj_0106_Attribution_relation_level.xml_set_2.RAE50g-spNCyopBGMHJBB2lLEf0cjolPR4x-ICSJUmXOc,
+      ns5:wsj_0106_Attribution_relation_level.xml_set_3.RA0LK1A3EN-DtxTqC-eRAkM8CGrKJK_NSzqnlGmr8ZUrY,
+      ns5:wsj_0106_Nested_relation_level.xml_set_4.RAyOUIDtnoHMWJNWkVUH2xyr9AgHn7E0pHfJKnDGt-F7c,
+      ns5:wsj_0106_PDTB_annotation_level.xml_set_0.RAShoYgmZASZkGdgs3-9QOb7iLsdXSgBMSBKL5u14JPWA,
+      ns5:wsj_0106_PDTB_annotation_level.xml_set_1.RA9TcQ5Gs4hXDZFZDkwGgjsOZ4CrTr8A5YRZPzOaYbFnA,
+      ns6:wsj_0122_Attribution_relation_level.xml_set_1.RAr2JXDzCYqBzPbXsK-KAectRFGuMi-DClqfKxt3XeelA,
+      ns6:wsj_0122_Attribution_relation_level.xml_set_2.RAEPKO8a2XTq_gyGhFKeYK2XOkpi4LOqNixbh-9uWaNwQ,
+      ns6:wsj_0122_Attribution_relation_level.xml_set_3.RAuUebN9BoLu86G5110ZaUHwrQmjXtOjbKJxH-nhm7T4w,
+      ns6:wsj_0122_Attribution_relation_level.xml_set_4.RArZ5AyFPm7QrNXCNITsJLu1qFc2kC14ddxSMynxOlJ2U,
+      ns7:wsj_0127_Attribution_relation_level.xml_set_1.RA9IkXOEsKHs5lvUcR6V57CDL3f64hF2Lp43x86bOnb7s,
+      ns7:wsj_0127_Attribution_relation_level.xml_set_2.RAFeqVNNzEzO-wlVbWlHLsC-pyfGo15er4VtHROzAsWJw,
+      ns7:wsj_0127_Attribution_relation_level.xml_set_3.RAOqpzxZrw38veFxaD-eE49nGw0njbPvCNbeA9196Ibjk,
+      ns7:wsj_0127_Attribution_relation_level.xml_set_4.RAFxvUApx-FD3dfKZJtyye7M7qhyaIUeXbr2l4liRSC18,
+      ns8:wsj_0132_Attribution_relation_level.xml_set_1.RAQr6nCAvHvTRvud4qiRKSNSYs5HJ1fMNVcIQAagIwK9E,
+      ns8:wsj_0132_PDTB_annotation_level.xml_set_0.RATTMtsiKL74EcasiCkHjRMX_TgiV3v-ib4Jt5rYn8Xkk,
+      ns8:wsj_0132_PDTB_annotation_level.xml_set_1.RA4vaylybmn-kp1Fan8wz5zb307yz1vLBYFUev5TcmO_k,
+      ns9:wsj_0135_Attribution_relation_level.xml_set_1.RAe3XH-Q9L7ptQ7T01e4MRUApO87zGgntbcaz2BeNvw0s,
+      ns9:wsj_0135_Nested_relation_level.xml_set_2.RAXh1NCjKsCImc88lPdkroH9yjdw-gERoXsGNX8xkmpJo,
+      ns9:wsj_0135_Nested_relation_level.xml_set_4.RAvmNvRltn0ealZOo11w8kaKGa7v0jtmNT5QISBeEsIyo,
+      ns9:wsj_0135_Nested_relation_level.xml_set_5.RAo1fnlO0lkSxCGWG1qEN3fFQpnVtkyKP1Jg8pbUsXQnE,
+      ns9:wsj_0135_PDTB_annotation_level.xml_set_0.RAvWGAcOnlgUUUlT5H_hC8RVxuBzhRiUBghOdJQkxlncs,
+      ns9:wsj_0135_PDTB_annotation_level.xml_set_1.RAKuzhDSLjSkRPKTB_2NyO-dy4u5BquZlL_76XwWC3Dgw,
+      ns10:wsj_0136_Attribution_relation_level.xml_set_1.RAz7Hec6G_w--1ABEbZary1FMG_LNQ15qYCS6Gsr7WBUM,
+      ns10:wsj_0136_Attribution_relation_level.xml_set_2.RA5eZ6rOU6F5cgNDIvnDH9qTVQt6KnbB35VOQP7AfRs08,
+      ns10:wsj_0136_Attribution_relation_level.xml_set_3.RARmuKzcszhWDD922PL6yhlR4DrHdrLPD5Ly9ApAdZ8Xg,
+      ns10:wsj_0136_PDTB_annotation_level.xml_set_0.RAfCdCi3U20QP6237g9C8Go89Z-scYuS4fTrJbvM4xmqI,
+      ns10:wsj_0136_PDTB_annotation_level.xml_set_1.RAli0K0UrDkLLj-XLWQhK7i8X6SIiqYBmd98PMiL8KRG8,
+      ns11:wsj_0144_Attribution_relation_level.xml_set_1.RA4BjSOlIyxOhDt5Mn3QDRkYq1_JKBwjJ-S2EUkauBoQg,
+      ns11:wsj_0144_Attribution_relation_level.xml_set_2.RAa2EixNUHmo0iClSRlJcy17_1TOv9l20luILS51Cw7IM,
+      <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0150/wsj_0150_PDTB_annotation_level.xml_set_0.RAwOpfJt8uDE8jmNcPJ7nV0gWGWnjorRaYLGvoZ60_7DQ>,
+      ns12:wsj_0151_Nested_relation_level.xml_set_6.RAeWCeyzWG-FAwPET3ADn2UVvLz4yPEz9GDm63L_L6A3M,
+      ns12:wsj_0151_PDTB_annotation_level.xml_set_0.RAxCo0kyKLgsfUs-Nmyblg5vxk1f9EcVzjN9FvEpPlcTw,
+      ns12:wsj_0151_PDTB_annotation_level.xml_set_1.RAcGKFv-nYaRN6fUOMdP6Q121h3EdtUdTIYZvvjN_wfa0,
+      <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0152/wsj_0152_Nested_relation_level.xml_set_4.RAAn_4pPfsaDQRf6yy2XfFC7P3lTznXV88Qqd7N1m-mrk>,
+      <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0157/wsj_0157_Nested_relation_level.xml_set_5.RAxDE3GvUUm_i_OC7yoaWnQ5BSyZ3_TzivhgHcPe6rBFw>,
+      ns13:wsj_0158_Nested_relation_level.xml_set_5.RABv1Chr4IuN0NrTo3umO5n1kWftGexhNL42GdmpG38pk,
+      ns13:wsj_0158_Nested_relation_level.xml_set_6.RA6GqAxiX38V-T2NJLWKkqwBHGPj8JJ1JadpEx3BSV0OA,
+      ns13:wsj_0158_Nested_relation_level.xml_set_7.RANEkyBGp5JI0UZe8-ESkjs98enLm-71cgsy2LzRz_Mxk,
+      ns13:wsj_0158_Nested_relation_level.xml_set_9.RAnUVAURoofBB7sbCJ8TfZZst5dbDzsu5s1pGpHzw1EgE,
+      ns13:wsj_0158_PDTB_annotation_level.xml_set_0.RAi-m46DwigaMepTjLVEavOzSbjgbbtMCcSHTZrVVcGWU,
+      ns13:wsj_0158_PDTB_annotation_level.xml_set_1.RA4SkBW-YoF4C7yXdGaC25yYoPu-jpRdWh9BEKQGZHV84,
+      ns13:wsj_0158_PDTB_annotation_level.xml_set_2.RAAZvjMZ4UUg-4XHHdVfgQ2qNrLk95mhOpbnM8kCnm2YM,
+      ns13:wsj_0158_PDTB_annotation_level.xml_set_3.RAOodlWqn-e3WIb8JEpX8ktGVA9G0XgpJ3TQP1NGuy888,
+      ns13:wsj_0158_PDTB_annotation_level.xml_set_4.RAnRP21g7rdjE7nAy6i_dzT1Y5G_TgXn7YpIH7tX0lV6o,
+      <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0159/wsj_0159_Nested_relation_level.xml_set_6.RAA1rkfyVkwn263-ZIVMwkgC3QNkb_tt9Ift5xC19Gpj0>,
+      ns14:wsj_0160_Attribution_relation_level.xml_set_3.RArdu6Qxk5uMTTEaF1GRicwhOTnEfBNUlelRGPTQ5F18w,
+      ns14:wsj_0160_Attribution_relation_level.xml_set_4.RA74JzuBUVDzGE86K5ZYJ3xyyVByXQIGlFJbdrxrsoVoA,
+      ns14:wsj_0160_PDTB_annotation_level.xml_set_0.RA8OAjVrpQEADsGzx07O23SIESuAkPAiyIGxJv7FAkMZk,
+      ns14:wsj_0160_PDTB_annotation_level.xml_set_1.RAa56tfRFN97_SNo3mvdkRk2CcWZ17wovsTDxaWxvDZwQ,
+      ns14:wsj_0160_PDTB_annotation_level.xml_set_2.RAVeSpGH3bX7bVkw1nMq37c_ovmCaz90dW_Zal__LgSFA,
+      ns15:wsj_0161_Attribution_relation_level.xml_set_2.RAqYipG0jsZf1YKTp1wcuxL4g42YsNpo8gzzzLJloyUmA,
+      ns15:wsj_0161_Attribution_relation_level.xml_set_3.RAjS6IFLjnNY6ahgycNBKNCezUepxWwzJIrbtFiJFKZ_k,
+      ns15:wsj_0161_Nested_relation_level.xml_set_4.RAJkZeruR_EPzZhRcRPKNdj8P1dkOxvK5_6qMLFu_8VHI,
+      ns15:wsj_0161_PDTB_annotation_level.xml_set_0.RABXxtRnvub7ZUtIuQ7aUiP4NvKy7Ia06lQdiglsQYQ1I,
+      ns15:wsj_0161_PDTB_annotation_level.xml_set_1.RAJf-x9_5N4Oh1w8-wI6adN-S1idBVn5fTYMsYNadGFN0,
+      ns16:wsj_0165_Attribution_relation_level.xml_set_2.RAlfLBpPXc_-a8NbfGTQBKO_F0VWSCyjL0_-K0rDk1TnY,
+      ns16:wsj_0165_Nested_relation_level.xml_set_3.RAH3tYzLSptEz8PMDr7q3g_sWqC40QMY8ASVgTDOjkYrw,
+      ns16:wsj_0165_PDTB_annotation_level.xml_set_0.RAQ498pm44upAFs0Y2ZEPlGDI9EXlljSWn4_AcNYsKG1Y,
+      ns16:wsj_0165_PDTB_annotation_level.xml_set_1.RAC-FA5FCp81YmWmjMpYqBXvgbyC-bjZi9k-SVre7u8R8,
+      ns17:wsj_0167_Attribution_relation_level.xml_set_0.RABF0afihaa9PBGzw5bRheG12UrNvU6j7I0XgZjVqgmNA,
+      ns17:wsj_0167_Attribution_relation_level.xml_set_1.RAm8GcEwUrC_q1M8wiyOlnzpsIgnA-B5Ffma_ZpcO0qfc,
+      ns17:wsj_0167_Attribution_relation_level.xml_set_2.RAZNN2kRc7qDhtkLcrjN96BOy8BBKQFRsI6iLVrcpliAk,
+      ns17:wsj_0167_Attribution_relation_level.xml_set_3.RAISVVb5U6O4yAOaMpF-JjjD7GKysIpIr8dBclJnVJpfU,
+      ns17:wsj_0167_Nested_relation_level.xml_set_4.RAObEe7GYrzru0XQ1dnbP7JrgEbLckhOn-4wGF55uMMgY,
+      ns18:wsj_0168_Attribution_relation_level.xml_set_1.RAqGuZghiya1Z9aXpEqfCqhKBbrZjB1gjb5pFAiTulUjU,
+      ns18:wsj_0168_PDTB_annotation_level.xml_set_0.RAOgP-lKg9gJ4eEe8PDgmXuaV1905LJfHl3d7yx2JeIjI,
+      ns19:wsj_0169_Attribution_relation_level.xml_set_0.RAX0aF4v1WZ9Qb04RBzaJrtI9herf-IRF9z1gNJxiATOE,
+      ns19:wsj_0169_Attribution_relation_level.xml_set_1.RA0EpNrH5JyuAHLKDHeIoKkj8tZbIgUEL3fUzQvHjo1iY,
+      ns20:wsj_0171_Attribution_relation_level.xml_set_3.RAtA1Qmc_yLfkyK9UdzDRxDjz-X82n7G9rql-0Sk1Adcs,
+      ns20:wsj_0171_Attribution_relation_level.xml_set_4.RAgASxt_HsMRsLsU9FjXOC4JwevALseO_Jo_qrnwfCIoc,
+      ns20:wsj_0171_Nested_relation_level.xml_set_0.RAb_oTh0uPE94dSthxr995TUs5hUGkMM_LUjQuWk2QoP8,
+      ns20:wsj_0171_Nested_relation_level.xml_set_5.RAw_v2IJoW_wDM0eYLIy7nedyAFuUG3_4FLZHEnepyw3E,
+      ns20:wsj_0171_PDTB_annotation_level.xml_set_0.RAKzhhrdAIT-80tvtlsQGRa5rbuYbedkhwLtqFbA1M_p0,
+      ns20:wsj_0171_PDTB_annotation_level.xml_set_2.RASY8Ty3wplcogZ3-bReMnq5a5kAFfkT41x3O172ggN5c,
+      ns21:wsj_0172_Attribution_relation_level.xml_set_2.RAeC1AlJDHxXG5H2_vJdJlBt6y3X367q0H_9lzSpZ8_KM,
+      ns21:wsj_0172_Attribution_relation_level.xml_set_3.RASct3w47-yINrDanetbG28_O3zUoY_RokBtz712MNYjo,
+      ns21:wsj_0172_Attribution_relation_level.xml_set_4.RAvgNboVoupwMdlFnHsRzbt6ZkiPqVbwxCTrUcpWWu4ss,
+      ns21:wsj_0172_PDTB_annotation_level.xml_set_0.RArwYlhSp71q1DC2J-m8NBnhj9i9LzRzkd2ajv425jmgo,
+      ns21:wsj_0172_PDTB_annotation_level.xml_set_1.RAZ_8_X0qEnWaR26QdxSKwL2SnBV80Gfp7pqtd5hMte0E,
+      ns22:wsj_0175_Attribution_relation_level.xml_set_0.RADU5gEHVd6IfpsSYa_pq8wNLaV0nodZV3mhkcwyk_GXI,
+      ns22:wsj_0175_Attribution_relation_level.xml_set_1.RA6Y3s-tSOeGzltwrONurk4SxLGSBskfar7zE6Xw7oaQc,
+      ns22:wsj_0175_Attribution_relation_level.xml_set_2.RANFqzrK7ILv_Xzy0ndxbnG9t1pLem30m-XjpCCmoj9KQ,
+      ns23:wsj_0176_Attribution_relation_level.xml_set_1.RA9rgkYxCcWXQjUXvSfr0p5WmO0BHb_Iz2wxMzg7r__qI,
+      ns23:wsj_0176_Attribution_relation_level.xml_set_2.RAyiWe0qoGJJ5Qpo9qKxshHEDkd-fUlIF5bvVFJ14ocK0,
+      ns23:wsj_0176_Nested_relation_level.xml_set_3.RA0Ukhj127xC-Wgbq5iuDje9d8zgDwzeu4sCBWcBZQKqA,
+      ns23:wsj_0176_PDTB_annotation_level.xml_set_0.RAnl9y24uULUL6IxiEni_vtPbpu3idlWGKbRZ2BO1OYlQ,
+      ns24:wsj_0184_Attribution_relation_level.xml_set_5.RAjfr-EGvy2kyUGgykte2hMr65k-XI7_Ehvgveb9Z10C4,
+      ns24:wsj_0184_Attribution_relation_level.xml_set_6.RAEkOhfersHwDx9alX2LFdJxaAH1qVtxWapu7EiC7xWr4,
+      ns24:wsj_0184_Attribution_relation_level.xml_set_7.RAVlWUQjQTFCDWeRSv1ZD8gfbEK2UrM5jCdkbZQ3PH3RE,
+      ns24:wsj_0184_Attribution_relation_level.xml_set_8.RAAMmTrBH0SPEr_ufXcQ_kvxdZAJ0OsrFI2mVs86ren1M,
+      ns24:wsj_0184_Attribution_relation_level.xml_set_9.RAKyXUU-SUASh2nbLmDu_XmhM8rQgm8cqHtkEMAFWDBbw,
+      ns24:wsj_0184_Nested_relation_level.xml_set_10.RA8WMNecl_zwzg0sUW9I8rbI3VUJYa2n7QqpQIOWRa5MM,
+      ns24:wsj_0184_Nested_relation_level.xml_set_11.RA-fg8iAAzOtQTBVhTTJzMhJtd5p8eISkW7UCffKYWICU,
+      ns24:wsj_0184_Nested_relation_level.xml_set_12.RA7_pdDUiG4WXmvvy2BjOlCG2rdMyfoct1pgblPJ2EPzM,
+      ns24:wsj_0184_Nested_relation_level.xml_set_13.RAQf0SX-KJ5VZkbmYkL6Jq1ZWLfU-OaMwQc0kKFV7vvfM,
+      ns24:wsj_0184_Nested_relation_level.xml_set_14.RAixDQ52SpZ5g-XeaBY5QHH-8l4G5LNllo1OCemK8ULPI,
+      ns24:wsj_0184_PDTB_annotation_level.xml_set_0.RAaUI5VDlDHI013XPuZU35GIBiMa_6suQqpRmeoLEhdIM,
+      ns24:wsj_0184_PDTB_annotation_level.xml_set_1.RAg9hVliYOLkXFdSrEswxvPLWE_KjfUEZb_XjZXyoI8us,
+      ns24:wsj_0184_PDTB_annotation_level.xml_set_2.RA1hxqrFloON5F23-Vy7NKCWbL-bmbi-5JkwtlNP4Rbq0,
+      ns24:wsj_0184_PDTB_annotation_level.xml_set_3.RAjtVSzzTl74KAtqDBuYELjb6Q1VcdoMDM5krlYBPve4Q,
+      ns24:wsj_0184_PDTB_annotation_level.xml_set_4.RAn7Kj5qhnQ62ymPMxxxn-UtE_eJHC309_IALdzPKcZvQ,
+      ns25:wsj_0187_Attribution_relation_level.xml_set_2.RAaHH5Wv2_YPP-2zlszSPxz7NE8WZZAOsFoSSHnWiNvjw,
+      ns25:wsj_0187_Attribution_relation_level.xml_set_3.RAJIWqMoeHzPKLkeZnG7eM4AuhDz20SooQet4xMbYs2mI,
+      ns25:wsj_0187_Attribution_relation_level.xml_set_4.RAXILrBYUIf4F34vG94XkaTu99nqSuYd2O_n27LvFkoJE,
+      ns25:wsj_0187_Attribution_relation_level.xml_set_5.RATNCDuFjMVuojT9JHqrtw0oRIGZue0ew9cw_M-a-NNM8,
+      ns25:wsj_0187_Nested_relation_level.xml_set_6.RA8bx6i9JKa62-4kXhp3U2cwhwMbQox8_kAXdvfVoKKxw,
+      ns25:wsj_0187_Nested_relation_level.xml_set_7.RAIFMrAxoQAaJ_RXCb3Nh1pt2q7QbdJbscnQYRLvCFVzA,
+      ns25:wsj_0187_PDTB_annotation_level.xml_set_0.RA6jJqGGBm55T-B_1duQsOAN-7gGt0DdWqwjP2qUsIowQ,
+      ns25:wsj_0187_PDTB_annotation_level.xml_set_1.RANpcPbMN84-OMTsGZPBg05rJ9kq6aCa-lgBk8MIcYx90,
+      ns26:wsj_0189_Attribution_relation_level.xml_set_2.RACVOUpL9D2WA_Jk1rK0k0JjvtwL4BT5PiWQ87l53gR3s,
+      ns26:wsj_0189_Attribution_relation_level.xml_set_3.RAei-m_mAlUPHowx45G-Hwe2Dies_O8-1dSjch6qU-Gdg,
+      ns26:wsj_0189_Attribution_relation_level.xml_set_4.RAHUjN-l6mDJOUbNk8jXbtkrXR6qXmesVsID6oMPiF3CU,
+      ns26:wsj_0189_Attribution_relation_level.xml_set_5.RAEcoXw99KnTVHqa2JPrfC_usVjXFxIwXe612jTdrnZLE,
+      ns26:wsj_0189_PDTB_annotation_level.xml_set_0.RA5QYvSd0HKvfnr46TiaeF3sRC_txzRsqeSVx1mvuu40k,
+      ns26:wsj_0189_PDTB_annotation_level.xml_set_1.RASubh2Faz6VQEJ38fDDRFPIWI2FUlbTl5zRJFcJ_QDq8 .
+}
+
+sub:provenance {
+  sub:assertion a npx:IndexAssertion .
+}
+
+sub:pubinfo {
+  this: dce:description "Index nanopublication containing all annotation nanopublications of the parc corpus.";
+    dce:title "PARC annotations nanopublications";
+    dct:created "2020-05-29T11:53:58.489+02:00"^^xsd:dateTime;
+    pav:createdBy <https://orcid.org/0000-0002-3429-2879>;
+    a npx:NanopubIndex;
+    rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
+}
+
+

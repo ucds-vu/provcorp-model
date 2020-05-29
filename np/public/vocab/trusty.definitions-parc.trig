@@ -1,0 +1,366 @@
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/ProvcorpVocabParc/RA8vgizzYgyg9XwLCnsOp36ULL1AWSy5pOur_J7r0ieuE> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/ProvcorpVocabParc/RA8vgizzYgyg9XwLCnsOp36ULL1AWSy5pOur_J7r0ieuE#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/ProvcorpVocabParc> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpp:ProvcorpVocabFactbank dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469;
+    dct:description "This is the vocabulairy describing the PARC implementation choices of the provcorp nanopublications.";
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+    dct:title "PARC definitions for provcorp nanopublications";
+    vann:preferredNamespacePrefix "pvcpp";
+    vann:preferredNamespaceUri "https://w3id.org/provcorp/vocab/parc/";
+    a owl:ontology;
+    rdfs:isDefinedBy latest: .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-03-06T11:26:40.511+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasSentenceWordNumber/RA5bnC_F8bkMjHZeWxEGRCek7KfIKcuqjxEO0RXvu685o> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasSentenceWordNumber/RA5bnC_F8bkMjHZeWxEGRCek7KfIKcuqjxEO0RXvu685o#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasSentenceWordNumber> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpp:hasSentenceWordNumber a owl:DatatypeProperty;
+    rdfs:domain nif:OffsetBasedString;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has sentence word number "@en;
+    skos:definition "Indicates what the number of the word is in a sentence."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasTextWordNumber/RAFX2YT2bx_mSUFKLDSk-jVd9abzW4hj3POetA-fXAFwQ> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasTextWordNumber/RAFX2YT2bx_mSUFKLDSk-jVd9abzW4hj3POetA-fXAFwQ#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasTextWordNumber> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpp:hasTextWordNumber a owl:DatatypeProperty;
+    rdfs:domain nif:OffsetBasedString;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has word number"@en;
+    skos:definition "Indicates what the number of the word is in a text."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasGorn/RA7SdJX_PdgMeS7McsUuuDT9RlOzNjLlchecSw0nLvdT8> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasGorn/RA7SdJX_PdgMeS7McsUuuDT9RlOzNjLlchecSw0nLvdT8#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasGorn> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpp:hasGorn a owl:DatatypeProperty;
+    rdfs:domain nif:OffsetBasedString;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has gorn"@en;
+    skos:definition "This is used to identify and address the nodes, most likely words, in the parse tree."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasContentAnnotatedWords/RAcU8mAf5Q4ytr6JXKhfwYEvSWjy_aT_N5VrK5y8-p5H4> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasContentAnnotatedWords/RAcU8mAf5Q4ytr6JXKhfwYEvSWjy_aT_N5VrK5y8-p5H4#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasContentAnnotatedWords> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpp:hasContentAnnotatedWords a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has content annotated words"@en;
+    rdfs:subPropertyOf oa:hasTarget;
+    skos:definition "This links to all the words that are part of the content of the attribution relation."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasCueAnnotatedWords/RAsd__ywfQJd5xThYTUlmh6tOnW6AwuCf_brahTuJ_UCw> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasCueAnnotatedWords/RAsd__ywfQJd5xThYTUlmh6tOnW6AwuCf_brahTuJ_UCw#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasCueAnnotatedWords> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpp:hasCueAnnotatedWords a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has cue annotated words"@en;
+    rdfs:subPropertyOf oa:hasTarget;
+    skos:definition "This links to all the words that are part of the cue of the attribution relation."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasSourceAnnotatedWords/RAl82yD0iMTXb24ELw4GVNy22T8__DYRvw2ExWMZv4AIs> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasSourceAnnotatedWords/RAl82yD0iMTXb24ELw4GVNy22T8__DYRvw2ExWMZv4AIs#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasSourceAnnotatedWords> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpp:hasSourceAnnotatedWords a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has source annotated words"@en;
+    rdfs:subPropertyOf oa:hasTarget;
+    skos:definition "This links to all the words that are part of the source of the attribution relation."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasAttrID/RA3dE_GykDmxm4-yJXlNDTip_mNTXePMQisKx9HMrOcRY> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasAttrID/RA3dE_GykDmxm4-yJXlNDTip_mNTXePMQisKx9HMrOcRY#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasAttrID> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpp:hasAttrID a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has attributionID"@en;
+    skos:definition "Describes what the attributionID is of the set in this nanopub."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasNestedRelationWith/RAlTHgVQluZPsrN2bl2T2zqnTv-ynz3B-rQv1Z7xw0lQg> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasNestedRelationWith/RAlTHgVQluZPsrN2bl2T2zqnTv-ynz3B-rQv1Z7xw0lQg#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasNestedRelationWith> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix pav: <http://purl.org/pav#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix orcid: <https://orcid.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+sub:Head {
+  this: np:hasAssertion sub:assertion;
+    np:hasProvenance sub:provenance;
+    np:hasPublicationInfo sub:pubinfo;
+    a np:Nanopublication .
+}
+
+sub:assertion {
+  pvcpp:hasNestedRelationWith a owl:DatatypeProperty;
+    rdfs:domain oa:Annotation;
+    rdfs:isDefinedBy latest:;
+    rdfs:label "has nested relation with"@en;
+    skos:definition "Links to the nanopublication to which this nanopub is nested."@en .
+}
+
+sub:provenance {
+  sub:assertion pav:authoredBy orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+      orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469 .
+}
+
+sub:pubinfo {
+  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+    dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
+      orcid:0000-0002-8356-6469;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+}
