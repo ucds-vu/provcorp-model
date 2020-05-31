@@ -1,9 +1,9 @@
-# Return an instance where ‘to surprise’ is a cue. We don’t know when ‘verrassen’ can be a cue in Dutch. "
-# When there are doubts while annotating, it is useful to be able to check whether a certain word is a cue in order to get examples.
+# Q7
+# Where in the corpus is a specific word (or lemma) a type of annotation, e.g. where is the verb `to surprise' a cue annotation?
 
-prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/>
+prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/>
+prefix pvcpp: <https://w3id.org/provcorp/np/public/vocab/parc/>
 prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
-prefix pvcp: <https://w3id.org/provcorp/vocab/general/>
 prefix olia: <http://purl.org/olia/sfb632.owl#>
 
 select distinct ?Document ?Word ?Sentence_Number

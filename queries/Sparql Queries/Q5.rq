@@ -1,11 +1,11 @@
-# M1
+# Q5
 # Counts for certain annotation values.
 
 # Fact Value Count
 # We could look at this info on a document level by specifying a specific document (uncomment the hashed lines)
 
-prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/>
-prefix pvcp: <https://w3id.org/provcorp/vocab/general/>
+prefix pvcpf: <https://w3id.org/provcorp/np/public/vocab/factbank/>
+prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/>
 prefix oa: <http://www.w3.org/ns/oa#>
 
 SELECT ?fv (count(?fv) as ?count)
@@ -13,7 +13,7 @@ WHERE {
      ?anno pvcpf:hasFactvalue ?fv.
      #?anno pvcpf:hasTargetEvent ?e.
      #?e oa:hasTarget ?offset.
-     #?offset pvcp:isPartOfText <https://w3id.org/provcorp/np/protected/text/wsj_0160.RAT7CIyQlBhKEyEkBZiBqggrLx9EFN7IrlLT5IZ5j4YxA#text>.
+     #?offset pvcp:isPartOfText <https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text>.
 }
 ORDER BY DESC(?count)
 
@@ -22,7 +22,7 @@ ORDER BY DESC(?count)
 
 # Source Count
 
-prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/>
+prefix pvcpf: <https://w3id.org/provcorp/np/public/vocab/factbank/>
 SELECT ?text (count(?text) as ?count)
 WHERE {
      ?source pvcpf:hasSourceText ?text.
@@ -33,11 +33,8 @@ ORDER BY DESC(?count)
 
 
 # Event Count
-# Metadata query
 
-prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/>
-
-#SELECT (count(distinct ?event) as ?count)
+prefix pvcpf: <https://w3id.org/provcorp/np/public/vocab/factbank/>
 select (count(?event) as ?count)
 where{
 
@@ -62,21 +59,18 @@ ORDER BY DESC(?count)
 
 # Count the amount of events per a specific attribution
 
-prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/>
-prefix pvcpf: <https://w3id.org/provcorp/vocab/factbank/>
+prefix pvcpp: <https://w3id.org/provcorp/np/public/vocab/parc/>
+prefix pvcpf: <https://w3id.org/provcorp/np/public/vocab/factbank/>
 prefix oa: <http://www.w3.org/ns/oa#>
 prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
-
 select ?Predicate (count(distinct ?offset) as ?Count)
 where {
      ?event pvcpf:hasEID ?eid.
      ?event oa:hasTarget ?offset.
-     ?panno ?predicate ?offset.
+     ?panno ?Predicate ?offset.
      ?offset nif:anchorOf ?literal.
-     VALUES ?predicate { pvcpp:hasContentAnnotatedWord pvcpp:hasCueAnnotatedWord pvcpp:hasSourceAnnotatedWord }.
+     VALUES ?Predicate { pvcpp:hasContentAnnotatedWord pvcpp:hasCueAnnotatedWord pvcpp:hasSourceAnnotatedWord }.
 
-     bind(str(?predicate) as ?pred_str).
-     bind(substr(?pred_str, 37) as ?Predicate).
 
  }
 group by ?Predicate

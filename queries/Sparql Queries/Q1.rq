@@ -1,0 +1,24 @@
+# Q1
+# Who talked about an event, and what is the factuality value of that event?
+
+prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/>
+prefix pvcpp: <https://w3id.org/provcorp/np/public/vocab/parc/>
+prefix oa: <http://www.w3.org/ns/oa#>
+prefix pvcpf: <https://w3id.org/provcorp/np/public/vocab/factbank/>
+prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+
+select ?text ?eID ?event ?fact_value ?relative_source (group_concat(?sourceliteral;separator=" ") as ?sourcePhrase) where {
+select distinct ?text ?eID ?event ?fact_value ?relative_source ?sourceliteral where {
+     ?e oa:hasTarget ?eventOffset; pvcpf:hasEID ?eID.
+     ?eventOffset pvcp:isPartOfText ?text;
+            nif:anchorOf ?event.
+     ?panno (pvcpp:hasContentAnnotatedWord|pvcpp:hasCueAnnotatedWord|pvcpp:hasSourceAnnotatedWord) ?eventOffset;
+            pvcpp:hasSourceAnnotatedWord [nif:anchorOf ?sourceliteral; nif:beginIndex ?beginIndex].
+     ?fanno pvcpf:hasTargetEvent ?e;
+            pvcpf:hasRelSourceText ?relative_source;
+            pvcpf:hasFactvalue ?fact_value.
+}
+order by ?text ?eID ?event ?fact_value ?relative_source ?beginIndex
+}
+group by ?text ?eID ?event ?fact_value ?relative_source
+order by ?text ?eID ?event ?fact_value ?relative_source
