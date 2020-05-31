@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/ProvcorpVocabFactbank/RA52e-rpgahhAzi9FwntNXm8rEqqgUAKEaNX01HsKBIng> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/ProvcorpVocabFactbank/RA52e-rpgahhAzi9FwntNXm8rEqqgUAKEaNX01HsKBIng#> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/factbank/ProvcorpVocabFactbank/RAoke33aU_N2plsrKHFUfJZuOniTNEka3RVrygzx_cd44> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/factbank/ProvcorpVocabFactbank/RAoke33aU_N2plsrKHFUfJZuOniTNEka3RVrygzx_cd44#> .
 @prefix latest: <https://w3id.org/provcorp/np/public/vocab/factbank/latest/ProvcorpVocabFactbank> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix pav: <http://purl.org/pav#> .
@@ -25,7 +25,7 @@ sub:assertion {
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
     dct:title "Factbank definitions for provcorp nanopublications";
     vann:preferredNamespacePrefix "pvcpf";
-    vann:preferredNamespaceUri "https://w3id.org/provcorp/vocab/factbank/";
+    vann:preferredNamespaceUri "https://w3id.org/provcorp/np/public/vocab/factbank/";
     a owl:ontology;
     rdfs:isDefinedBy latest: .
 }

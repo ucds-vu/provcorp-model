@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/provcorpVocab/RAiAFUvM9arlnMCPx6r8bSrb5QzVe1EeS87IXb8BP_7rs> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/provcorpVocab/RAiAFUvM9arlnMCPx6r8bSrb5QzVe1EeS87IXb8BP_7rs#> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/provcorpVocab/RAC24hgXp2AqqLaDGIt7LQCSFkYvAkjQ7y9IwZUqP2zjk> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/provcorpVocab/RAC24hgXp2AqqLaDGIt7LQCSFkYvAkjQ7y9IwZUqP2zjk#> .
 @prefix latest: <https://w3id.org/provcorp/np/public/vocab/general/latest/provcorpVocab> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix pav: <http://purl.org/pav#> .
@@ -25,7 +25,7 @@ sub:assertion {
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
     dct:title "General definitions for provcorp nanopublications";
     vann:preferredNamespacePrefix "pvcp";
-    vann:preferredNamespaceUri "https://w3id.org/provcorp/vocab/general/";
+    vann:preferredNamespaceUri "https://w3id.org/provcorp/np/public/vocab/general/";
     a owl:ontology;
     rdfs:isDefinedBy latest: .
 }
