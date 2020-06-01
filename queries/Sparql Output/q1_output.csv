@@ -1,0 +1,657 @@
+text,eID,event,fact_value,relative_source,sourcePhrase
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e1,said,CT+,AUTHOR,The White House
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e11,requested,CT+,AUTHOR,Timex
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e123,beneficiaries,CT+,officials_AUTHOR,U.S. trade officials
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e123,beneficiaries,Uu,AUTHOR,U.S. trade officials
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e13,said,CT+,AUTHOR,The White House
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e14,decided,CT+,House_AUTHOR,The White House Mr. Bush
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e14,decided,Uu,AUTHOR,The White House Mr. Bush
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e15,grant,CT+,House_AUTHOR,The White House Mr. Bush
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e15,grant,Uu,AUTHOR,The White House Mr. Bush
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e16,turned,CT+,House_AUTHOR,The White House Mr. Bush
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e16,turned,Uu,AUTHOR,The White House Mr. Bush
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e2,approved,CT+,House_AUTHOR,The White House
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e2,approved,Uu,AUTHOR,The White House
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e22,said,CT+,AUTHOR,U.S. trade officials
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e23,totaled,CT+,aide_AUTHOR,an aide to U.S. Trade Representative Carla Hills
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e23,totaled,Uu,AUTHOR,an aide to U.S. Trade Representative Carla Hills
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e25,treatment,CT+,House_AUTHOR,The White House
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e25,treatment,Uu,AUTHOR,The White House
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e31,treatment,CT-,House_AUTHOR,The White House Mr. Bush
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e31,treatment,Uu,AUTHOR,The White House Mr. Bush
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e34,action,CT+,officials_AUTHOR,U.S. trade officials
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e34,action,Uu,AUTHOR,U.S. trade officials
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e39,eligible,CT+,AUTHOR,an aide to U.S. Trade Representative Carla Hills
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e39,eligible,CT+,aide_AUTHOR,an aide to U.S. Trade Representative Carla Hills
+https://w3id.org/provcorp/np/protected/text/wsj_0026.RAqVDliQg7089ljabZboxeufk6O0UJHuDiETOmVwpKtL4#text,e40,according,CT+,AUTHOR,an aide to U.S. Trade Representative Carla Hills
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e1,resigned,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e1,resigned,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e10,reduce,Uu,AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e10,reduce,Uu,Magna_AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e11,curb,Uu,AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e11,curb,Uu,Magna_AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e12,spending,CT+,AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e12,spending,CT+,Magna_AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e14,achieved,Uu,AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e14,achieved,Uu,Magna_AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e15,maintained,Uu,AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e15,maintained,Uu,Magna_AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e16,said,CT+,AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e2,stepping,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e2,stepping,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e25,reported,CT+,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e289,restructuring,CT+,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e289,restructuring,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e35,said,CT+,AUTHOR,Analysts
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e36,wants,CT+,Analysts_AUTHOR,Analysts Mr. Stronach
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e36,wants,Uu,AUTHOR,Analysts Mr. Stronach
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e38,resume,Uu,AUTHOR,Analysts Mr. Stronach
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e38,resume,Uu,Analysts_AUTHOR,Analysts Mr. Stronach
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e41,running,CT+,Analysts_AUTHOR,Analysts Mr. Stronach
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e41,running,Uu,AUTHOR,Analysts Mr. Stronach
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e42,expect,CT+,AUTHOR,They
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e44,cut,PR+,They_AUTHOR,They
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e44,cut,Uu,AUTHOR,They
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e45,said,CT+,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e46,direct,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e46,direct,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e47,assisted,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e47,assisted,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e5,help,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e5,help,Uu,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e51,said,CT+,AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e52,resigned,CT+,Magna_AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e52,resigned,Uu,AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e54,pursue,Uu,AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e54,pursue,Uu,Magna_AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e6,said,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e60,turn,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e60,turn,Uu,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e62,declines,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e62,declines,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e7,direct,CT+,Magna_AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e7,direct,Uu,AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e8,effort,CT+,Magna_AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0027.RAwIBPvHEIUT6i5Xbb_c5ikPmWNR1GQrBB_u3mEzENcTY#text,e8,effort,Uu,AUTHOR,Magna
+https://w3id.org/provcorp/np/protected/text/wsj_0068.RAAajUMVik9cKzahSirbarPrUcXNaGAbkq0NHMzy2D4v4#text,e3,said,CT+,AUTHOR,"The Kearny , N.J.-based maker of hair accessories and other cosmetic products"
+https://w3id.org/provcorp/np/protected/text/wsj_0068.RAAajUMVik9cKzahSirbarPrUcXNaGAbkq0NHMzy2D4v4#text,e4,cut,CT+,maker_AUTHOR,"The Kearny , N.J.-based maker of hair accessories and other cosmetic products"
+https://w3id.org/provcorp/np/protected/text/wsj_0068.RAAajUMVik9cKzahSirbarPrUcXNaGAbkq0NHMzy2D4v4#text,e4,cut,Uu,AUTHOR,"The Kearny , N.J.-based maker of hair accessories and other cosmetic products"
+https://w3id.org/provcorp/np/protected/text/wsj_0068.RAAajUMVik9cKzahSirbarPrUcXNaGAbkq0NHMzy2D4v4#text,e5,loss,CT+,AUTHOR,"The Kearny , N.J.-based maker of hair accessories and other cosmetic products"
+https://w3id.org/provcorp/np/protected/text/wsj_0068.RAAajUMVik9cKzahSirbarPrUcXNaGAbkq0NHMzy2D4v4#text,e5,loss,CT+,maker_AUTHOR,"The Kearny , N.J.-based maker of hair accessories and other cosmetic products"
+https://w3id.org/provcorp/np/protected/text/wsj_0068.RAAajUMVik9cKzahSirbarPrUcXNaGAbkq0NHMzy2D4v4#text,e6,reported,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e1,said,CT+,AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e15,said,CT+,AUTHOR,"Integra , which owns and operates hotels"
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e16,agreed,CT+,Integra_AUTHOR,"Integra , which owns and operates hotels Hallwood Group Inc."
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e16,agreed,Uu,AUTHOR,"Integra , which owns and operates hotels Hallwood Group Inc."
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e17,exercise,Uu,AUTHOR,"Integra , which owns and operates hotels Hallwood Group Inc."
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e17,exercise,Uu,Integra_AUTHOR,"Integra , which owns and operates hotels Hallwood Group Inc."
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e18,exercised,CT-,Integra_AUTHOR,"Integra , which owns and operates hotels Hallwood Group Inc."
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e18,exercised,Uu,AUTHOR,"Integra , which owns and operates hotels Hallwood Group Inc."
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e1995,offering,CT+,AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e1995,offering,CT+,Co._AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e1995,offering,CT+,GEN_AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e1995,offering,CT+,GEN_Co._AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e1996,mailing,Uu,AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e2,raise,Uu,AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e2,raise,Uu,Co._AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e2,raise,Uu,GEN_AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e2,raise,Uu,GEN_Co._AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e2044,planned,CT+,AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e2044,planned,CT+,Co._AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e2044,planned,CT+,GEN_AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e2044,planned,CT+,GEN_Co._AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e3,declared,CT+,Co._AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e3,declared,Uu,AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0073.RAw2-0fxwxRq5yhBYseOxBHp2gsbwEvd_xityrjYG0rvg#text,e4,begin,CT+,AUTHOR,Integra-A Hotel & Restaurant Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e1,said,CT+,AUTHOR,ROGERS COMMUNICATIONS Inc.
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e11,option,CT+,Rogers_AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e11,option,Uu,AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e13,redeem,Uu,AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e13,redeem,Uu,Rogers_AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e14,conversion,Uu,AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e14,conversion,Uu,Rogers_AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e16,takes,Uu,AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e16,takes,Uu,Rogers_AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e17,said,CT+,AUTHOR,A spokesman for the Toronto cable television and telecommunications concern
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e18,fixed,CT-,spokesman_AUTHOR,A spokesman for the Toronto cable television and telecommunications concern
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e18,fixed,Uu,AUTHOR,A spokesman for the Toronto cable television and telecommunications concern
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e2,plans,CT+,Inc._AUTHOR,ROGERS COMMUNICATIONS Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e2,plans,Uu,AUTHOR,ROGERS COMMUNICATIONS Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e20,set,PR+,spokesman_AUTHOR,A spokesman for the Toronto cable television and telecommunications concern
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e20,set,Uu,AUTHOR,A spokesman for the Toronto cable television and telecommunications concern
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e21,declined,CT+,AUTHOR,He
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e23,discuss,CT-,AUTHOR,He
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e27,convertible,CT+,Rogers_AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e27,convertible,Uu,AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e29,has,CT+,Rogers_AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e29,has,Uu,AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e4,raise,PR+,Inc._AUTHOR,ROGERS COMMUNICATIONS Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e4,raise,Uu,AUTHOR,ROGERS COMMUNICATIONS Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e5,placement,CT+,Inc._AUTHOR,ROGERS COMMUNICATIONS Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e5,placement,Uu,AUTHOR,ROGERS COMMUNICATIONS Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e7,said,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0106.RANkA5vcpEBTWNjdi6GELsfrgazGJzmwbzc4UiMfy7B68#text,e8,said,CT+,AUTHOR,Rogers
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e1,said,CT+,AUTHOR,"Young 's Market Co. , a wholesaler of spirits wines and other goods"
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e10,approved,CT+,family_AUTHOR,The Underwood family
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e10,approved,Uu,AUTHOR,The Underwood family
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e11,agreement,CT+,AUTHOR,the agreement
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e14,transaction,CT+,AUTHOR,The Underwood family
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e14,transaction,CT+,family_AUTHOR,The Underwood family
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e2,merge,CT+,Co._AUTHOR,"Young 's Market Co. , a wholesaler of spirits wines and other goods"
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e2,merge,Uu,AUTHOR,"Young 's Market Co. , a wholesaler of spirits wines and other goods"
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e3,formed,CT+,Co._AUTHOR,"Young 's Market Co. , a wholesaler of spirits wines and other goods"
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e3,formed,Uu,AUTHOR,"Young 's Market Co. , a wholesaler of spirits wines and other goods"
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e5,receive,Uu,AUTHOR,the agreement
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e6,closing,CT+,AUTHOR,the agreement
+https://w3id.org/provcorp/np/protected/text/wsj_0122.RA8sosUoMNH6Mn7buuTUaizUYvxlvQJnhubLQ4eMqk3yg#text,e9,said,CT+,AUTHOR,The Underwood family
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e1,said,CT+,AUTHOR,Reed International PLC
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e2,ended,CT+,AUTHOR,Reed International PLC
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e2,ended,CT+,PLC_AUTHOR,Reed International PLC
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e20,hurt,CT+,Reed_AUTHOR,Reed
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e20,hurt,Uu,AUTHOR,Reed
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e2014,income,CT+,PLC_AUTHOR,Reed International PLC
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e2014,income,Uu,AUTHOR,Reed International PLC
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e2136,disposal,CT+,Reed_AUTHOR,Reed
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e2136,disposal,Uu,AUTHOR,Reed
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e2140,restructuring,CT+,Reed_AUTHOR,Reed
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e2140,restructuring,Uu,AUTHOR,Reed
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e22,said,CT+,AUTHOR,Reed
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e3,slipped,CT+,PLC_AUTHOR,Reed International PLC
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e3,slipped,Uu,AUTHOR,Reed International PLC
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e4,said,CT+,AUTHOR,The British paper
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e7,fell,CT+,paper_AUTHOR,The British paper
+https://w3id.org/provcorp/np/protected/text/wsj_0127.RAPGz8jHAv293pZn3opfMW1bqhSUc0zmtp7191SOvl_-8#text,e7,fell,Uu,AUTHOR,The British paper
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e1,said,CT+,AUTHOR,N.V . DSM
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e2,jumped,CT+,DSM_AUTHOR,N.V . DSM
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e2,jumped,Uu,AUTHOR,N.V . DSM
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e26,helped,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e26,helped,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e27,keep,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e27,keep,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e29,added,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e3,charges,CT+,DSM_AUTHOR,N.V . DSM
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e3,charges,Uu,AUTHOR,N.V . DSM
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e5,account,Uu,AUTHOR,N.V . DSM
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e5,account,Uu,DSM_AUTHOR,N.V . DSM
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e6,said,CT+,AUTHOR,The Dutch chemical group
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e7,gained,CT+,group_AUTHOR,The Dutch chemical group
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e7,gained,Uu,AUTHOR,The Dutch chemical group
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e73,had,CT+,DSM_AUTHOR,N.V . DSM
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e73,had,Uu,AUTHOR,N.V . DSM
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e74,235,CT+,group_AUTHOR,The Dutch chemical group
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e74,235,Uu,AUTHOR,The Dutch chemical group
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e75,144,CT+,group_AUTHOR,The Dutch chemical group
+https://w3id.org/provcorp/np/protected/text/wsj_0132.RAUsGS7gkDXKpA6eFWsV5lippVwYllw-SUGfKm4_EvKuw#text,e75,144,Uu,AUTHOR,The Dutch chemical group
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e1,said,CT+,AUTHOR,Elco Industries Inc.
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e10,said,CT+,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e11,continues,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e11,continues,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e136,pressures,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e136,pressures,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e137,demand,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e137,demand,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e19,fall,PR+,Inc._AUTHOR,Elco Industries Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e19,fall,Uu,AUTHOR,Elco Industries Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e2,expects,CT+,Inc._AUTHOR,Elco Industries Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e2,expects,Uu,AUTHOR,Elco Industries Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e26,ending,CT+,AUTHOR,Elco Industries Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e26,ending,CT+,Inc._AUTHOR,Elco Industries Inc. it
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e33,face,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e33,face,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e5,said,CT+,AUTHOR,"The Rockford , Ill. maker of fasteners"
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e6,expects,CT+,maker_AUTHOR,"The Rockford , Ill. maker of fasteners it"
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e6,expects,Uu,AUTHOR,"The Rockford , Ill. maker of fasteners it"
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e8,post,PR+,it=maker_AUTHOR,"The Rockford , Ill. maker of fasteners it"
+https://w3id.org/provcorp/np/protected/text/wsj_0135.RAFyyMa0zlqQjzM3gnV0JZEhg1wB_VTkyWjLA78LhM7l8#text,e8,post,Uu,AUTHOR,"The Rockford , Ill. maker of fasteners it"
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e10,phasing,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e10,phasing,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e11,said,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e12,built,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e12,built,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e13,carry,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e13,carry,Uu,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e14,transition,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e14,transition,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e17,estimated,CT+,AUTHOR,"Truck Corp. , Oshkosh Wis."
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e2,fell,PR+,Corp._AUTHOR,"Truck Corp. , Oshkosh Wis."
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e2,fell,Uu,AUTHOR,"Truck Corp. , Oshkosh Wis."
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e21,drop,CT+,AUTHOR,The truck maker
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e21,drop,CT+,maker_AUTHOR,The truck maker
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e26,downturn,CT+,AUTHOR,Oshkosh Truck
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e26,downturn,CT+,Truck_AUTHOR,Oshkosh Truck
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e27,start-up,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e29,start-up,CT+,Truck_AUTHOR,Oshkosh Truck
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e29,start-up,Uu,AUTHOR,Oshkosh Truck
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e3,said,CT+,AUTHOR,The truck maker
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e4,result,CT+,maker_AUTHOR,The truck maker
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e4,result,Uu,AUTHOR,The truck maker
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e6,attributed,CT+,AUTHOR,Oshkosh Truck
+https://w3id.org/provcorp/np/protected/text/wsj_0136.RAD5OAiR9QP1UCS81pkkBDqLLRGo4Y82Po5R9lQGXyxTM#text,e7,said,CT+,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0144.RAvIEzkmYpjnFOAw65qWL5tlNQdb4oQoaX_i8vgFw499M#text,e10,result,PR+,Travelers_AUTHOR,Travelers
+https://w3id.org/provcorp/np/protected/text/wsj_0144.RAvIEzkmYpjnFOAw65qWL5tlNQdb4oQoaX_i8vgFw499M#text,e10,result,Uu,AUTHOR,Travelers
+https://w3id.org/provcorp/np/protected/text/wsj_0144.RAvIEzkmYpjnFOAw65qWL5tlNQdb4oQoaX_i8vgFw499M#text,e19,posted,CT+,AUTHOR,Travelers 's employee benefits group
+https://w3id.org/provcorp/np/protected/text/wsj_0144.RAvIEzkmYpjnFOAw65qWL5tlNQdb4oQoaX_i8vgFw499M#text,e21,loss,CT+,AUTHOR,Travelers 's employee benefits group
+https://w3id.org/provcorp/np/protected/text/wsj_0144.RAvIEzkmYpjnFOAw65qWL5tlNQdb4oQoaX_i8vgFw499M#text,e2162,earnings,CT+,group_AUTHOR,Travelers 's employee benefits group
+https://w3id.org/provcorp/np/protected/text/wsj_0144.RAvIEzkmYpjnFOAw65qWL5tlNQdb4oQoaX_i8vgFw499M#text,e2162,earnings,Uu,AUTHOR,Travelers 's employee benefits group
+https://w3id.org/provcorp/np/protected/text/wsj_0144.RAvIEzkmYpjnFOAw65qWL5tlNQdb4oQoaX_i8vgFw499M#text,e45,estimated,CT+,AUTHOR,Travelers
+https://w3id.org/provcorp/np/protected/text/wsj_0144.RAvIEzkmYpjnFOAw65qWL5tlNQdb4oQoaX_i8vgFw499M#text,e46,earthquake,CT+,AUTHOR,Travelers
+https://w3id.org/provcorp/np/protected/text/wsj_0144.RAvIEzkmYpjnFOAw65qWL5tlNQdb4oQoaX_i8vgFw499M#text,e46,earthquake,CT+,Travelers_AUTHOR,Travelers
+https://w3id.org/provcorp/np/protected/text/wsj_0144.RAvIEzkmYpjnFOAw65qWL5tlNQdb4oQoaX_i8vgFw499M#text,e49,charge,PR+,Travelers_AUTHOR,Travelers
+https://w3id.org/provcorp/np/protected/text/wsj_0144.RAvIEzkmYpjnFOAw65qWL5tlNQdb4oQoaX_i8vgFw499M#text,e49,charge,Uu,AUTHOR,Travelers
+https://w3id.org/provcorp/np/protected/text/wsj_0150.RAW2Xj4yGF7Z1A597alAXGHNu5X9VZF0B7HT6z0igXe9U#text,e1,merged,CT+,companies_AUTHOR,the companies
+https://w3id.org/provcorp/np/protected/text/wsj_0150.RAW2Xj4yGF7Z1A597alAXGHNu5X9VZF0B7HT6z0igXe9U#text,e1,merged,Uu,AUTHOR,the companies
+https://w3id.org/provcorp/np/protected/text/wsj_0150.RAW2Xj4yGF7Z1A597alAXGHNu5X9VZF0B7HT6z0igXe9U#text,e2,meeting,CT+,companies_AUTHOR,the companies
+https://w3id.org/provcorp/np/protected/text/wsj_0150.RAW2Xj4yGF7Z1A597alAXGHNu5X9VZF0B7HT6z0igXe9U#text,e2,meeting,Uu,AUTHOR,the companies
+https://w3id.org/provcorp/np/protected/text/wsj_0150.RAW2Xj4yGF7Z1A597alAXGHNu5X9VZF0B7HT6z0igXe9U#text,e23,transaction,CT+,companies_AUTHOR,the companies
+https://w3id.org/provcorp/np/protected/text/wsj_0150.RAW2Xj4yGF7Z1A597alAXGHNu5X9VZF0B7HT6z0igXe9U#text,e23,transaction,Uu,AUTHOR,the companies
+https://w3id.org/provcorp/np/protected/text/wsj_0150.RAW2Xj4yGF7Z1A597alAXGHNu5X9VZF0B7HT6z0igXe9U#text,e4,cleared,CT+,companies_AUTHOR,the companies
+https://w3id.org/provcorp/np/protected/text/wsj_0150.RAW2Xj4yGF7Z1A597alAXGHNu5X9VZF0B7HT6z0igXe9U#text,e4,cleared,Uu,AUTHOR,the companies
+https://w3id.org/provcorp/np/protected/text/wsj_0150.RAW2Xj4yGF7Z1A597alAXGHNu5X9VZF0B7HT6z0igXe9U#text,e5,said,CT+,AUTHOR,the companies
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e29,specify,CT-,AUTHOR,Mr. Edelman
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e30,prompted,CT+,AUTHOR,Mr. Edelman
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e30,prompted,CT+,Edelman_AUTHOR,Mr. Edelman
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e31,moves,CT+,AUTHOR,Mr. Edelman
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e31,moves,CT+,Edelman_AUTHOR,Mr. Edelman
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e39,has,CT-,He_AUTHOR,He
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e39,has,Uu,AUTHOR,He
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e41,designed,CT-,He_AUTHOR,He
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e41,designed,Uu,AUTHOR,He
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e43,take,Uu,AUTHOR,He
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e43,take,Uu,He_AUTHOR,He
+https://w3id.org/provcorp/np/protected/text/wsj_0151.RAOEXDE3od-_V2EoVUqGTTTj6mLQJlu1hN97BsLh-AumE#text,e61,added,CT+,AUTHOR,He
+https://w3id.org/provcorp/np/protected/text/wsj_0152.RABOY75ByHvve2Ke2JfRPmrmLYDQEMejI8VWWzy6ccm9M#text,e13,tendered,CT+,Jones_AUTHOR,its offer
+https://w3id.org/provcorp/np/protected/text/wsj_0152.RABOY75ByHvve2Ke2JfRPmrmLYDQEMejI8VWWzy6ccm9M#text,e13,tendered,Uu,AUTHOR,its offer
+https://w3id.org/provcorp/np/protected/text/wsj_0152.RABOY75ByHvve2Ke2JfRPmrmLYDQEMejI8VWWzy6ccm9M#text,e14,offer,CT+,AUTHOR,its offer
+https://w3id.org/provcorp/np/protected/text/wsj_0152.RABOY75ByHvve2Ke2JfRPmrmLYDQEMejI8VWWzy6ccm9M#text,e14,offer,CT+,Jones_AUTHOR,its offer
+https://w3id.org/provcorp/np/protected/text/wsj_0157.RAhRPp_EzU_xi_PiJfcpMp5GUBIvP42YVzuwE5znVNWG0#text,e1995,offer,CT+,AUTHOR,Equus Investment II Limited Partnership
+https://w3id.org/provcorp/np/protected/text/wsj_0157.RAhRPp_EzU_xi_PiJfcpMp5GUBIvP42YVzuwE5znVNWG0#text,e1995,offer,CT+,Co._AUTHOR,Equus Investment II Limited Partnership
+https://w3id.org/provcorp/np/protected/text/wsj_0157.RAhRPp_EzU_xi_PiJfcpMp5GUBIvP42YVzuwE5znVNWG0#text,e2,proposed,CT+,Co._AUTHOR,Equus Investment II Limited Partnership
+https://w3id.org/provcorp/np/protected/text/wsj_0157.RAhRPp_EzU_xi_PiJfcpMp5GUBIvP42YVzuwE5znVNWG0#text,e2,proposed,Uu,AUTHOR,Equus Investment II Limited Partnership
+https://w3id.org/provcorp/np/protected/text/wsj_0157.RAhRPp_EzU_xi_PiJfcpMp5GUBIvP42YVzuwE5znVNWG0#text,e2030,changing,Uu,AUTHOR,Equus Investment II Limited Partnership
+https://w3id.org/provcorp/np/protected/text/wsj_0157.RAhRPp_EzU_xi_PiJfcpMp5GUBIvP42YVzuwE5znVNWG0#text,e2030,changing,Uu,Co._AUTHOR,Equus Investment II Limited Partnership
+https://w3id.org/provcorp/np/protected/text/wsj_0157.RAhRPp_EzU_xi_PiJfcpMp5GUBIvP42YVzuwE5znVNWG0#text,e4,transaction,CT+,Co._AUTHOR,Equus Investment II Limited Partnership
+https://w3id.org/provcorp/np/protected/text/wsj_0157.RAhRPp_EzU_xi_PiJfcpMp5GUBIvP42YVzuwE5znVNWG0#text,e4,transaction,Uu,AUTHOR,Equus Investment II Limited Partnership
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e10,said,CT+,AUTHOR,Mr. Reupke
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e14,added,CT+,AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e168,duties,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e168,duties,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e23,choosing,Uu,AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e23,choosing,Uu,he_AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e24,chosen,Uu,AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e24,chosen,Uu,he_AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e27,said,CT+,AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e30,said,CT+,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e31,suspect,CT+,Shepperd_AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e31,suspect,Uu,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e32,surprised,Uu,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e32,surprised,Uu,DUMMY_AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e363,on,CT+,he_AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e363,on,Uu,AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e55,departure,CT+,AUTHOR,Mr. Reupke
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e55,departure,CT+,Reupke_AUTHOR,Mr. Reupke
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e57,departure,CT+,he_AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e57,departure,Uu,AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e66,departure,CT+,I=Shepperd_AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e66,departure,Uu,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e67,irrelevant,PR+,I=Shepperd_AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e67,irrelevant,Uu,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e75,departure,CT+,DUMMY_AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e75,departure,Uu,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e76,signals,PR-,DUMMY_AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e76,signals,Uu,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e77,change,PR-,DUMMY_AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e77,change,Uu,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e78,strategy,CT+,DUMMY_AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e78,strategy,Uu,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e79,change,PR-,DUMMY_AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e79,change,Uu,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e8,split,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e8,split,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e80,profit,CT+,DUMMY_AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e80,profit,Uu,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e81,expectations,CT+,DUMMY_AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e81,expectations,Uu,AUTHOR,"Mark Shepperd , an analyst at UBS Phillips & Drew in London I"
+https://w3id.org/provcorp/np/protected/text/wsj_0158.RAIRkkx1m-i0QuCtr75Ojc0SGOYRgJCQVmDV4UKL9s-7Q#text,e9,said,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0159.RAwb4twCXIKHeF8QB_UxhRAfbWzpIq82aek-EiaICfZW0#text,e21,tendered,CT+,Acquisition_AUTHOR,its offer
+https://w3id.org/provcorp/np/protected/text/wsj_0159.RAwb4twCXIKHeF8QB_UxhRAfbWzpIq82aek-EiaICfZW0#text,e21,tendered,Uu,AUTHOR,its offer
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e1,reported,CT+,AUTHOR,Savin Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e137,softening,CT+,Savin_AUTHOR,Savin
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e137,softening,Uu,AUTHOR,Savin
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e18,offset,CT+,he_AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e18,offset,Uu,AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e19,sale,CT+,he_AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e19,sale,Uu,AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e2,loss,CT+,Corp._AUTHOR,Savin Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e2,loss,Uu,AUTHOR,Savin Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e23,said,CT+,AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e25,cited,CT+,AUTHOR,Savin
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e32,profit,CT+,AUTHOR,Savin Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e4,said,CT+,AUTHOR,"A spokesman for the Stamford , Conn.based company"
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e40,gain,CT+,he_AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e40,gain,Uu,AUTHOR,he
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e6,loss,CT+,spokesman_AUTHOR,"A spokesman for the Stamford , Conn.based company"
+https://w3id.org/provcorp/np/protected/text/wsj_0160.RAMcYyM0g7vbT58xhbYw0M4ZrVcZk6bvzeSamEskxjCBA#text,e6,loss,Uu,AUTHOR,"A spokesman for the Stamford , Conn.based company"
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e1,said,CT+,AUTHOR,Hadson Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e12,reimbursed,CT-,energy_AUTHOR,The Oklahoma City energy and defense concern
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e12,reimbursed,Uu,AUTHOR,The Oklahoma City energy and defense concern
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e15,said,CT+,AUTHOR,Hadson
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e16,write,CT+,Hadson_AUTHOR,Hadson
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e16,write,Uu,AUTHOR,Hadson
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e2,expects,CT+,Corp._AUTHOR,Hadson Corp. it
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e2,expects,Uu,AUTHOR,Hadson Corp. it
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e20,cited,CT+,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e21,amortization,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e21,amortization,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e23,loss,CT+,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e23,loss,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e29,unsuccessful,CT+,Hadson_AUTHOR,Hadson
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e29,unsuccessful,Uu,AUTHOR,Hadson
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e30,exploration,CT+,Hadson_AUTHOR,Hadson
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e30,exploration,Uu,AUTHOR,Hadson
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e33,costs,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e33,costs,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e4,report,PR+,it=Corp._AUTHOR,Hadson Corp. it
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e4,report,Uu,AUTHOR,Hadson Corp. it
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e5,loss,PR+,it=Corp._AUTHOR,Hadson Corp. it
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e5,loss,Uu,AUTHOR,Hadson Corp. it
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e64,reserve,CT+,energy_AUTHOR,The Oklahoma City energy and defense concern
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e64,reserve,Uu,AUTHOR,The Oklahoma City energy and defense concern
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e65,charge,CT+,energy_AUTHOR,The Oklahoma City energy and defense concern
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e65,charge,Uu,AUTHOR,The Oklahoma City energy and defense concern
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e66,costs,CT+,energy_AUTHOR,The Oklahoma City energy and defense concern
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e66,costs,Uu,AUTHOR,The Oklahoma City energy and defense concern
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e7,said,CT+,AUTHOR,The Oklahoma City energy and defense concern
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e8,record,CT+,energy_AUTHOR,The Oklahoma City energy and defense concern
+https://w3id.org/provcorp/np/protected/text/wsj_0161.RA8aBMzICicS-d7M-xGmI5GPhrv1Com2i9E1oqMW0Wnww#text,e8,record,Uu,AUTHOR,The Oklahoma City energy and defense concern
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e1,said,CT+,AUTHOR,"Heritage Media Corp. , New York"
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e14,exercised,Uu,AUTHOR,a Heritage spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e14,exercised,Uu,spokesman_AUTHOR,a Heritage spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e15,issue,PR+,spokesman_AUTHOR,a Heritage spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e15,issue,Uu,AUTHOR,a Heritage spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e17,estimated,CT+,AUTHOR,a Heritage spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e2,offered,CT+,Corp._AUTHOR,"Heritage Media Corp. , New York it"
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e2,offered,Uu,AUTHOR,"Heritage Media Corp. , New York it"
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e29,completion,Uu,AUTHOR,a Heritage spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e29,completion,Uu,spokesman_AUTHOR,a Heritage spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e3,buy,Uu,AUTHOR,"Heritage Media Corp. , New York it"
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e3,buy,Uu,Corp._AUTHOR,"Heritage Media Corp. , New York it"
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e30,transaction,Uu,AUTHOR,a Heritage spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e30,transaction,Uu,spokesman_AUTHOR,a Heritage spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e6,swap,Uu,AUTHOR,"Heritage Media Corp. , New York it"
+https://w3id.org/provcorp/np/protected/text/wsj_0165.RAXjPZI60YSjcBZ-kDGc0Lxp9LTIddGqqeAuUhCfSZLAM#text,e6,swap,Uu,Corp._AUTHOR,"Heritage Media Corp. , New York it"
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e12,said,CT+,AUTHOR,RMS
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e16,reported,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e1991,requirements,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e1991,requirements,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e1994,had,CT+,RMS_AUTHOR,RMS
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e1994,had,Uu,AUTHOR,RMS
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e1996,loss,CT+,RMS_AUTHOR,RMS
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e1996,loss,Uu,AUTHOR,RMS
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e1997,loss,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e1997,loss,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e1998,income,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e2,said,CT+,AUTHOR,"RMS International Inc. , Hasbrouk Heights N.J."
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e3,seeking,CT+,Inc._AUTHOR,"RMS International Inc. , Hasbrouk Heights N.J. it"
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e3,seeking,Uu,AUTHOR,"RMS International Inc. , Hasbrouk Heights N.J. it"
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e4,said,CT+,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e7,maintain,CT-,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0167.RA-Y26UiQoMd5U9VS1ZgTREK_UV6-3-9b1IlrnHABiZII#text,e7,maintain,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0168.RAwTJvUVO_uA7dpmJVSXiotdcRjWPh9aHHcxu-4Vq5omE#text,e1,said,CT+,AUTHOR,Meridian National Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0168.RAwTJvUVO_uA7dpmJVSXiotdcRjWPh9aHHcxu-4Vq5omE#text,e14,sale,CT+,AUTHOR,"William Feniger , chief executive officer of Toledo Ohio-based Meridian"
+https://w3id.org/provcorp/np/protected/text/wsj_0168.RAwTJvUVO_uA7dpmJVSXiotdcRjWPh9aHHcxu-4Vq5omE#text,e14,sale,CT+,Feniger_AUTHOR,"William Feniger , chief executive officer of Toledo Ohio-based Meridian"
+https://w3id.org/provcorp/np/protected/text/wsj_0168.RAwTJvUVO_uA7dpmJVSXiotdcRjWPh9aHHcxu-4Vq5omE#text,e15,sale,CT+,AUTHOR,"William Feniger , chief executive officer of Toledo Ohio-based Meridian"
+https://w3id.org/provcorp/np/protected/text/wsj_0168.RAwTJvUVO_uA7dpmJVSXiotdcRjWPh9aHHcxu-4Vq5omE#text,e15,sale,CT+,Feniger_AUTHOR,"William Feniger , chief executive officer of Toledo Ohio-based Meridian"
+https://w3id.org/provcorp/np/protected/text/wsj_0168.RAwTJvUVO_uA7dpmJVSXiotdcRjWPh9aHHcxu-4Vq5omE#text,e16,offering,CT+,AUTHOR,"William Feniger , chief executive officer of Toledo Ohio-based Meridian"
+https://w3id.org/provcorp/np/protected/text/wsj_0168.RAwTJvUVO_uA7dpmJVSXiotdcRjWPh9aHHcxu-4Vq5omE#text,e17,increased,CT+,Feniger_AUTHOR,"William Feniger , chief executive officer of Toledo Ohio-based Meridian"
+https://w3id.org/provcorp/np/protected/text/wsj_0168.RAwTJvUVO_uA7dpmJVSXiotdcRjWPh9aHHcxu-4Vq5omE#text,e17,increased,Uu,AUTHOR,"William Feniger , chief executive officer of Toledo Ohio-based Meridian"
+https://w3id.org/provcorp/np/protected/text/wsj_0168.RAwTJvUVO_uA7dpmJVSXiotdcRjWPh9aHHcxu-4Vq5omE#text,e18,said,CT+,AUTHOR,"William Feniger , chief executive officer of Toledo Ohio-based Meridian"
+https://w3id.org/provcorp/np/protected/text/wsj_0168.RAwTJvUVO_uA7dpmJVSXiotdcRjWPh9aHHcxu-4Vq5omE#text,e2,sold,CT+,Corp._AUTHOR,Meridian National Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0168.RAwTJvUVO_uA7dpmJVSXiotdcRjWPh9aHHcxu-4Vq5omE#text,e2,sold,Uu,AUTHOR,Meridian National Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0169.RAFM7CeV0JQwZALf-BxSLTzkoG9qdwk3uHCW4R6A869Ec#text,e11,said,CT+,AUTHOR,"Ratners 's chairman , Gerald Ratner"
+https://w3id.org/provcorp/np/protected/text/wsj_0169.RAFM7CeV0JQwZALf-BxSLTzkoG9qdwk3uHCW4R6A869Ec#text,e3,said,CT+,AUTHOR,another concern
+https://w3id.org/provcorp/np/protected/text/wsj_0169.RAFM7CeV0JQwZALf-BxSLTzkoG9qdwk3uHCW4R6A869Ec#text,e37,benefit,CT+,chairman_AUTHOR,"Ratners 's chairman , Gerald Ratner"
+https://w3id.org/provcorp/np/protected/text/wsj_0169.RAFM7CeV0JQwZALf-BxSLTzkoG9qdwk3uHCW4R6A869Ec#text,e37,benefit,Uu,AUTHOR,"Ratners 's chairman , Gerald Ratner"
+https://w3id.org/provcorp/np/protected/text/wsj_0169.RAFM7CeV0JQwZALf-BxSLTzkoG9qdwk3uHCW4R6A869Ec#text,e7,outbid,Uu,AUTHOR,another concern
+https://w3id.org/provcorp/np/protected/text/wsj_0169.RAFM7CeV0JQwZALf-BxSLTzkoG9qdwk3uHCW4R6A869Ec#text,e7,outbid,Uu,concern_AUTHOR,another concern
+https://w3id.org/provcorp/np/protected/text/wsj_0169.RAFM7CeV0JQwZALf-BxSLTzkoG9qdwk3uHCW4R6A869Ec#text,e8,offer,CT+,AUTHOR,another concern
+https://w3id.org/provcorp/np/protected/text/wsj_0169.RAFM7CeV0JQwZALf-BxSLTzkoG9qdwk3uHCW4R6A869Ec#text,e8,offer,CT+,concern_AUTHOR,another concern
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e14,said,CT+,AUTHOR,The thrift
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e15,charges,CT+,thrift_AUTHOR,The thrift
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e15,charges,Uu,AUTHOR,The thrift
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1995,loss,CT+,it_AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1995,loss,Uu,AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1997,fluctuation,CT-,association_thrift_AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1997,fluctuation,CT-,thrift_AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1997,fluctuation,Uu,AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1997,fluctuation,Uu,association_AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1998,earnings,PR+,association_thrift_AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1998,earnings,Uu,AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1998,earnings,Uu,association_AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1998,earnings,Uu,thrift_AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1999,provision,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e1999,provision,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e2,reported,CT+,AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e20,achieve,PR+,association_thrift_AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e20,achieve,Uu,AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e20,achieve,Uu,association_AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e20,achieve,Uu,thrift_AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e2000,losses,CT-,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e2000,losses,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e2001,expects,CT+,thrift_AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e2001,expects,Uu,AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e2056,earnings,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e2056,earnings,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e2126,assuming,CT+,thrift_AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e2126,assuming,Uu,AUTHOR,The thrift the association
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e5,said,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e6,drain,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e6,drain,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e7,said,CT+,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e8,eliminate,CT+,company_AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0171.RANPZyX9cn7WOeJf5ZWAZRGogxnRovKsgdezfvf6QVQME#text,e8,eliminate,Uu,AUTHOR,The company
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e1,said,CT+,AUTHOR,First of America Bank Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e124,severance,CT+,it_AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e124,severance,Uu,AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e17,said,CT+,AUTHOR,"Kalamazoo , Mich.-based First of America"
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e18,eliminate,CT+,First_AUTHOR,"Kalamazoo , Mich.-based First of America"
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e18,eliminate,Uu,AUTHOR,"Kalamazoo , Mich.-based First of America"
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e19,said,CT+,AUTHOR,First of America
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e2,completed,CT+,First_AUTHOR,First of America Bank Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e2,completed,Uu,AUTHOR,First of America Bank Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e20,take,CT+,First_AUTHOR,First of America
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e20,take,Uu,AUTHOR,First of America
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e22,said,CT+,AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e23,payments,CT+,it_AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e23,payments,Uu,AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e24,staying,CT-,AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e24,staying,CT-,it_AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e25,reduce,CT+,it_AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e25,reduce,Uu,AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e3,acquisition,CT+,First_AUTHOR,First of America Bank Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e3,acquisition,Uu,AUTHOR,First of America Bank Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e5,announced,CT+,AUTHOR,First of America
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e6,agreement,CT+,AUTHOR,First of America
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e6,agreement,CT+,First_AUTHOR,First of America
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e8,acquire,CT+,AUTHOR,First of America
+https://w3id.org/provcorp/np/protected/text/wsj_0172.RAP96ap8FXJPugDqrafukIkAVQgNGrtt9rC6TM0ujHtUo#text,e8,acquire,CT+,First_AUTHOR,First of America
+https://w3id.org/provcorp/np/protected/text/wsj_0175.RAIALbm4wz4vJgi1s-dEFqNy4NI0WuArOx_3f7XIx5sjo#text,e11,effort,CT+,AUTHOR,Sony
+https://w3id.org/provcorp/np/protected/text/wsj_0175.RAIALbm4wz4vJgi1s-dEFqNy4NI0WuArOx_3f7XIx5sjo#text,e13,hire,Uu,AUTHOR,Sony
+https://w3id.org/provcorp/np/protected/text/wsj_0175.RAIALbm4wz4vJgi1s-dEFqNy4NI0WuArOx_3f7XIx5sjo#text,e15,run,Uu,AUTHOR,Sony
+https://w3id.org/provcorp/np/protected/text/wsj_0175.RAIALbm4wz4vJgi1s-dEFqNy4NI0WuArOx_3f7XIx5sjo#text,e4,formed,CT+,AUTHOR,a spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0175.RAIALbm4wz4vJgi1s-dEFqNy4NI0WuArOx_3f7XIx5sjo#text,e4,formed,CT+,spokesman_AUTHOR,a spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0175.RAIALbm4wz4vJgi1s-dEFqNy4NI0WuArOx_3f7XIx5sjo#text,e5,take,CT+,spokesman_AUTHOR,a spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0175.RAIALbm4wz4vJgi1s-dEFqNy4NI0WuArOx_3f7XIx5sjo#text,e5,take,Uu,AUTHOR,a spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0175.RAIALbm4wz4vJgi1s-dEFqNy4NI0WuArOx_3f7XIx5sjo#text,e6,ownership,CT+,spokesman_AUTHOR,a spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0175.RAIALbm4wz4vJgi1s-dEFqNy4NI0WuArOx_3f7XIx5sjo#text,e6,ownership,Uu,AUTHOR,a spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0175.RAIALbm4wz4vJgi1s-dEFqNy4NI0WuArOx_3f7XIx5sjo#text,e7,said,CT+,AUTHOR,a spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e1,told,CT+,AUTHOR,Xerox Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e10,spread,CT+,She_AUTHOR,She
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e10,spread,Uu,AUTHOR,She
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e2,laying,CT+,Corp._AUTHOR,Xerox Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e2,laying,Uu,AUTHOR,Xerox Corp.
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e3,said,CT+,AUTHOR,A spokeswoman for Crum & Forster
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e4,told,CT+,spokeswoman_AUTHOR,A spokeswoman for Crum & Forster
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e4,told,Uu,AUTHOR,A spokeswoman for Crum & Forster
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e6,centralized,CT+,GEN_spokeswoman_AUTHOR,A spokeswoman for Crum & Forster
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e6,centralized,Uu,AUTHOR,A spokeswoman for Crum & Forster
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e6,centralized,Uu,GEN_AUTHOR,A spokeswoman for Crum & Forster
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e6,centralized,Uu,spokeswoman_AUTHOR,A spokeswoman for Crum & Forster
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e7,said,CT+,AUTHOR,She
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e8,result,CT+,She_AUTHOR,She
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e8,result,Uu,AUTHOR,She
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e82,move,CT+,AUTHOR,She
+https://w3id.org/provcorp/np/protected/text/wsj_0176.RAEwWfvjYpTHQ-faEHq9Y7RGNrhFtYUxiIn9ZaO4v1JNY#text,e82,move,CT+,She_AUTHOR,She
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e1,said,CT+,AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e12,determine,Uu,AUTHOR,Upjohn officials they
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e12,determine,Uu,officials_AUTHOR,Upjohn officials they
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e14,participate,CT+,officials_AUTHOR,Upjohn officials they
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e14,participate,Uu,AUTHOR,Upjohn officials they
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e16,said,CT+,AUTHOR,the pharmaceutical company
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e17,anticipates,CT+,company_AUTHOR,the pharmaceutical company it
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e17,anticipates,Uu,AUTHOR,the pharmaceutical company it
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e2,offer,CT+,Co._AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e2,offer,Uu,AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e217,program,Uu,AUTHOR,Chairman Theodore Cooper
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e282,estimates,CT+,AUTHOR,Upjohn 's estimates
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e3,move,CT+,AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e3,move,CT+,Co._AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e31,called,CT+,AUTHOR,Chairman Theodore Cooper
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e34,questioned,CT+,AUTHOR,some analysts
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e35,impact,Uu,AUTHOR,some analysts
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e35,impact,Uu,analysts_AUTHOR,some analysts
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e36,have,Uu,AUTHOR,some analysts
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e36,have,Uu,analysts_AUTHOR,some analysts
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e361,target,CT+,AUTHOR,An Upjohn spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e361,target,Uu,spokesman_AUTHOR,An Upjohn spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e38,end,CT+,AUTHOR,some analysts
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e39,move,CT+,Co._AUTHOR,Jonathan S. Gelles of Wertheim Schroder & Co
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e39,move,Uu,AUTHOR,Jonathan S. Gelles of Wertheim Schroder & Co
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e398,size,CT+,AUTHOR,Upjohn officials they
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e398,size,CT+,officials_AUTHOR,Upjohn officials they
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e399,heard,CT-,spokesman_AUTHOR,An Upjohn spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e399,heard,Uu,AUTHOR,An Upjohn spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e40,said,CT+,AUTHOR,Jonathan S. Gelles of Wertheim Schroder & Co
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e42,take,Uu,AUTHOR,Upjohn 's estimates
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e43,estimated,CT+,AUTHOR,Upjohn 's estimates
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e44,leave,CT+,AUTHOR,Upjohn 's estimates
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e44,leave,CT+,Upjohn_AUTHOR,Upjohn 's estimates
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e46,replaced,PS+,Upjohn_AUTHOR,Upjohn 's estimates
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e46,replaced,Uu,AUTHOR,Upjohn 's estimates
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e5,expected,CT+,AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e5,expected,CT+,Co._AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e54,said,CT+,AUTHOR,An Upjohn spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e57,suggest,CT-,spokesman_AUTHOR,An Upjohn spokesman he
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e57,suggest,Uu,AUTHOR,An Upjohn spokesman he
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e58,spurred,PR-,spokesman_AUTHOR,An Upjohn spokesman he
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e58,spurred,Uu,AUTHOR,An Upjohn spokesman he
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e60,speculation,CT+,AUTHOR,An Upjohn spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e60,speculation,Uu,spokesman_AUTHOR,An Upjohn spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e64,said,CT+,AUTHOR,The spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e65,offered,CT+,spokesman_AUTHOR,The spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e65,offered,Uu,AUTHOR,The spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e66,moves,CT+,spokesman_AUTHOR,the spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e66,moves,Uu,AUTHOR,the spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e67,trimmed,CT+,spokesman_AUTHOR,the spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e67,trimmed,Uu,AUTHOR,the spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e69,said,CT+,AUTHOR,the spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e7,result,PR+,AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e7,result,PR+,Co._AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e7,result,PR+,GEN_AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e7,result,PR+,GEN_Co._AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e8,said,CT+,AUTHOR,Upjohn officials
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e80,charge,PR+,AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e80,charge,PR+,Co._AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e80,charge,PR+,GEN_AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e80,charge,PR+,GEN_Co._AUTHOR,Upjohn Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e81,charge,CT+,AUTHOR,Upjohn officials they
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e81,charge,CT+,officials_AUTHOR,Upjohn officials they
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e86,eliminated,CT+,AUTHOR,some analysts
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e87,advantage,Uu,AUTHOR,Upjohn 's estimates
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e9,estimate,CT-,officials_AUTHOR,Upjohn officials they
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e9,estimate,Uu,AUTHOR,Upjohn officials they
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e90,takeover,Uu,AUTHOR,An Upjohn spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e90,takeover,Uu,spokesman_AUTHOR,An Upjohn spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e91,offset,PR+,it=company_AUTHOR,the pharmaceutical company it
+https://w3id.org/provcorp/np/protected/text/wsj_0184.RALbLh8eQIvDEBdvzXmIaYSoGDZhPhgYAGtn646_efNfk#text,e91,offset,Uu,AUTHOR,the pharmaceutical company it
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e1,agreed,CT+,AUTHOR,The Finnish government
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e13,offered,CT+,officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e13,offered,Uu,AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e14,expected,CT+,officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e14,expected,Uu,AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e15,avert,PR+,GEN_officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e15,avert,PR+,officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e15,avert,Uu,AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e15,avert,Uu,GEN_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e16,said,CT+,AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e2,form,Uu,AUTHOR,The Finnish government
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e23,holding,CT+,AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e23,holding,CT+,GEN_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e23,holding,CT+,GEN_officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e23,holding,CT+,officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e232,presented,CT+,AUTHOR,Carnival
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e24,expected,CT+,officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e24,expected,Uu,AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e25,subscribe,PR+,GEN_officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e25,subscribe,PR+,officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e25,subscribe,Uu,AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e25,subscribe,Uu,GEN_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e27,said,CT+,AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e3,complete,Uu,AUTHOR,The Finnish government
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e4,attempt,CT+,participants_AUTHOR,participants
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e4,attempt,Uu,AUTHOR,participants
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e44,settlement,Uu,AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e44,settlement,Uu,officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e45,transition,CT+,GEN_officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e45,transition,CT+,officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e45,transition,Uu,AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e45,transition,Uu,GEN_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e46,exodus,PR-,GEN_officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e46,exodus,PR-,officials_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e46,exodus,Uu,AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e46,exodus,Uu,GEN_AUTHOR,government officials
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e5,limit,Uu,AUTHOR,participants
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e5,limit,Uu,participants_AUTHOR,participants
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e6,said,CT+,AUTHOR,participants
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e7,get,CT+,DUMMY_AUTHOR,"Christian Andersson , executive vice president of Oy Waertsilae former parent Marine"
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e7,get,Uu,AUTHOR,"Christian Andersson , executive vice president of Oy Waertsilae former parent Marine"
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e8,over,CT+,Andersson_AUTHOR,"Christian Andersson , executive vice president of Oy Waertsilae former parent Marine"
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e8,over,Uu,AUTHOR,"Christian Andersson , executive vice president of Oy Waertsilae former parent Marine"
+https://w3id.org/provcorp/np/protected/text/wsj_0187.RApNmorMpGE4aMhTj3EOvejW45HLHY0fnwfvXdiJNcwxs#text,e9,said,CT+,AUTHOR,"Christian Andersson , executive vice president of Oy Waertsilae former parent Marine"
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e1,reported,CT+,AUTHOR,Ralston Purina Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e10,said,CT+,AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e11,include,CT+,Ralston_AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e11,include,Uu,AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e14,closed,CT+,spokesman_AUTHOR,a spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e14,closed,Uu,AUTHOR,a spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e19,said,CT+,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e1991,decline,CT+,Co._AUTHOR,Ralston Purina Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e1991,decline,Uu,AUTHOR,Ralston Purina Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e1996,phase-out,CT+,Ralston_AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e1996,phase-out,Uu,AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e1997,closing,CT+,Ralston_AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e1997,closing,Uu,AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e1998,reduction,CT+,Ralston_AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e1998,reduction,Uu,AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e1999,costs,CT+,AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e1999,costs,CT+,Ralston_AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2,reflecting,CT+,AUTHOR,Ralston Purina Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2000,said,CT+,AUTHOR,a spokesman
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2007,increased,CT+,it_AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2007,increased,Uu,AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2008,sales,CT+,it_AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2008,sales,Uu,AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2009,problems,CT+,Ralston_AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2009,problems,Uu,AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2018,earnings,CT+,AUTHOR,Ralston Purina Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2018,earnings,CT+,Co._AUTHOR,Ralston Purina Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2033,costs,CT+,AUTHOR,Ralston Purina Co.
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2154,flat,CT+,company_AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e2154,flat,Uu,AUTHOR,the company
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e26,benefited,CT+,it_AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e26,benefited,Uu,AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e30,added,CT+,AUTHOR,it
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e31,said,CT+,AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e32,hurt,CT+,Ralston_AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e32,hurt,Uu,AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e33,continuing,CT+,Ralston_AUTHOR,Ralston
+https://w3id.org/provcorp/np/protected/text/wsj_0189.RAExiHkEQ2Kc8VAuABg9C_61GxPYZ9FkqW_RmxTFy4fIM#text,e33,continuing,Uu,AUTHOR,Ralston
