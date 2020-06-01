@@ -1,11 +1,11 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0675.RA-bFxQ93eOwRv7kZnjdsTykB11q0T8EnBDPxmjIIAjVo> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0675.RA-bFxQ93eOwRv7kZnjdsTykB11q0T8EnBDPxmjIIAjVo#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0675.RAJXmg8NryNjr_A2PS4fony_PXLXedMD89pcOKapu5mAA> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0675.RAJXmg8NryNjr_A2PS4fony_PXLXedMD89pcOKapu5mAA#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -20,7 +20,7 @@ sub:assertion {
     dct:identifier "WSJ891030-0020";
     dct:title "What's News -- @  Business and Finance";
     a foaf:Document;
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0675.RAEPqFccqn-ZKTEIR4uiG12GHo_r1WZNUMozXKCf6Y0e0#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0675.RAooLdWVNSfgBNIxQJfW4QPTtDYjyUjpu6WgDwowdVV74#text> .
 }
 
 sub:provenance {
@@ -28,7 +28,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-05-29T11:57:35.492+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T10:21:06.790+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

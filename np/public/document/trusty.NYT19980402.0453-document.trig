@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19980402.0453.RAq2RDx6sOrAJ0MIGsdoIrnKSjvKOKn4nhzdvdXbTIMDM> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19980402.0453.RAq2RDx6sOrAJ0MIGsdoIrnKSjvKOKn4nhzdvdXbTIMDM#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19980402.0453.RAm3QHn5eZOewROgI886P80Y1oHzFDaza63q9B-qGbFh8> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19980402.0453.RAm3QHn5eZOewROgI886P80Y1oHzFDaza63q9B-qGbFh8#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "TASK FORCE TO STUDY CASES OF 14 SLAIN WOMEN ";
     a foaf:Document;
     rdfs:comment "(lb) ampQL ampUR By DAVID M. HERSZENHORN ampLR  ampQC  ampQL ampUR c.1998 N.Y. Times News Service ampLR  ampQC  ampQL ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19980402.0453.RAZvUYjS2-YzY9yMzPXVWWjZ8rZGWmxBIY0GstPb3HngA#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19980402.0453.RA_A_WCYZzE_Jw83PY5fyrMAL_WUZ25ivS8VJLEYouag8#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-05-29T11:57:47.816+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T10:21:20.833+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

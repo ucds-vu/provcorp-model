@@ -1,9 +1,9 @@
-@prefix this: <https://w3id.org/provcorp/np/public/corpus/parc-annotations.RABannYyREi7UPzYoL6e3y7bJ6lY7egf7L1Knh8vK5V3s> .
-@prefix sub: <https://w3id.org/provcorp/np/public/corpus/parc-annotations.RABannYyREi7UPzYoL6e3y7bJ6lY7egf7L1Knh8vK5V3s#> .
+@prefix this: <https://w3id.org/provcorp/np/public/corpus/parc-annotations.RAkd0Fdy7E18rmA1QDz5LTQC3wWsmKMtNbHtHUMvvbyDw> .
+@prefix sub: <https://w3id.org/provcorp/np/public/corpus/parc-annotations.RAkd0Fdy7E18rmA1QDz5LTQC3wWsmKMtNbHtHUMvvbyDw#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/> .
+@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dcat: <http://www.w3.org/ns/dcat#> .
 
@@ -21,7 +21,7 @@ sub:assertion {
     a pvcp:AnnotationCorpus;
     rdfs:comment "WSJ corpus folders included: 0-1";
     rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf>;
-    dcat:distribution <https://w3id.org/provcorp/np/public/index/annotation-corpus/RAdITwApmv1eSqOwnOqLJwl9WlQ5INSjGDC36LAkl5JS8> .
+    dcat:distribution <https://w3id.org/provcorp/np/public/index/annotation-corpus/RAeSCDK2mNGoAdvl1CxXFvyS5-4noahNr7Gs5FOZOHWjM> .
 }
 
 sub:provenance {
@@ -30,9 +30,9 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-05-29T11:53:58.934+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T10:15:14.239+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
-    dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>;
+    dct:license <https://creativecommons.org/licenses/by/4.0/>;
     rdfs:comment "You are free to use this information when referencing the paper and creator." .
 }

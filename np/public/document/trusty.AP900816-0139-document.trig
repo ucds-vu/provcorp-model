@@ -1,11 +1,11 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/AP900816-0139.RAebg7ov6K45PXcDDqeFhNERePDHSk6gCXfdak-zI3vww> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/AP900816-0139.RAebg7ov6K45PXcDDqeFhNERePDHSk6gCXfdak-zI3vww#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/AP900816-0139.RAq9HQr8wrWSbfELfNlJaIEE3q0E26LnR457Awk77agxM> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/AP900816-0139.RAq9HQr8wrWSbfELfNlJaIEE3q0E26LnR457Awk77agxM#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -20,7 +20,7 @@ sub:assertion {
     dct:identifier "AP900816-0139";
     dct:title "Gulf Showdown Takes More Personal Tack: Saddam Calls Bush a `Liar'Eds: LEADS throughout to RECAST, ADDS background on oil reserves,food imports, UPDATES with State Department reax to Saddam, EDITSto trim. No pickup";
     a foaf:Document;
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/AP900816-0139.RAZO7qIOEv6-uUZSLArRzf6tzb7u0VVMRd47XYHp8-8dg#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/AP900816-0139.RAMm82gi-pSbg8HxKS0qsZo9kGQJNei4xdTFyaQgnlNXQ#text> .
 }
 
 sub:provenance {
@@ -28,7 +28,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-05-29T11:55:25.862+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T10:17:20.000+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

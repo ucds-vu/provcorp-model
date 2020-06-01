@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0904.RAIJeF7lWnR2Zd4g7_6_KuocslVqXDzzQkZO59POvq3Is> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0904.RAIJeF7lWnR2Zd4g7_6_KuocslVqXDzzQkZO59POvq3Is#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0904.RAuvT0V4PrfOXadbZ1Y7KUOBgnpJbgCjpAPY8L3ttx_hs> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0904.RAuvT0V4PrfOXadbZ1Y7KUOBgnpJbgCjpAPY8L3ttx_hs#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Technology amp Health: @  Compaq Computer @  Posts a 51% Surge @  In 3rd-Period Net @  ---- @  By Robert Tomsho @  Staff Reporter of The Wall Street Journal";
     a foaf:Document;
     rdfs:comment "CPQ  COMPUTERS AND INFORMATION TECHNOLOGY (CPR)EARNINGS (ERN)  HOUSTON ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0904.RA-mDFakQ4AZHhyjs1Ogy-NtgNGyH2AzhLLg7CSa78_Zg#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0904.RARqE5BG8JiIm9up2S7aLXiYuSxGTTvXSGKPUodoGlUXA#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-05-29T11:54:59.622+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T10:16:42.544+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

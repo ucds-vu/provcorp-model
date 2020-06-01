@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0329.RANbyNEuxXctJhgBnjWZY6GCYsX_-ZUoJOOT0BJOehio4> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0329.RANbyNEuxXctJhgBnjWZY6GCYsX_-ZUoJOOT0BJOehio4#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0329.RA1Nsw1TUSff1z8eQAWHRLhlP0LPyTqpO_vx3Iil7-lu4> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0329.RA1Nsw1TUSff1z8eQAWHRLhlP0LPyTqpO_vx3Iil7-lu4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Business Brief -- Coda Energy Inc.: @  Oil and Gas Firm Arranges @  $50 Million Credit Facility";
     a foaf:Document;
     rdfs:comment "CODA  BUYBACKS, REDEMPTIONS, SWAP OFFERS (BBK)TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0329.RAobPMx9i7IbhgPWsoRlTJiqaUUTj_vHm7sPgmT0nE-pQ#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0329.RAUF8dS76m1vI0ohTDqMLFcg7Ck5Vd3RDkr_5HkEdidu8#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-05-29T11:55:11.236+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T10:16:58.856+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

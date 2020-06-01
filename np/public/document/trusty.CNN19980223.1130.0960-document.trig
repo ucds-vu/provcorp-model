@@ -1,11 +1,11 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/CNN19980223.1130.0960.RAOPeM0K8P7SgwGWb0Z-DYqwKl6OrQAOFf3NwFNNoGO8w> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/CNN19980223.1130.0960.RAOPeM0K8P7SgwGWb0Z-DYqwKl6OrQAOFf3NwFNNoGO8w#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/CNN19980223.1130.0960.RAiAAD5TwH_88YYiSjoXchNlZQa8m3WK8-m40rg7eIWMQ> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/CNN19980223.1130.0960.RAiAAD5TwH_88YYiSjoXchNlZQa8m3WK8-m40rg7eIWMQ#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -20,7 +20,7 @@ sub:assertion {
     dct:identifier "CNN19980223.1130.0960";
     dct:title "NEWS STORY";
     a foaf:Document;
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/CNN19980223.1130.0960.RAmaFMZN_E5vjHgcG2EMblENbK40g7oBaPx0McGH0XSPg#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/CNN19980223.1130.0960.RAsGXJ5VAI9Px963PcJIlzGh7RdefFHWUbpafMM-XzcW0#text> .
 }
 
 sub:provenance {
@@ -28,7 +28,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-05-29T11:58:13.062+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T10:21:53.222+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

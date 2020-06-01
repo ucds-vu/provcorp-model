@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0027.RAEl4inVEbJQ32uPwr0Ky-wBMs-4Fu-3hHPU-RCbjpg1s> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0027.RAEl4inVEbJQ32uPwr0Ky-wBMs-4Fu-3hHPU-RCbjpg1s#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0027.RA4n-7_wakpPnibtr8JE7rOOz1Mfb4L082BfH4PrWP8a0> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0027.RA4n-7_wakpPnibtr8JE7rOOz1Mfb4L082BfH4PrWP8a0#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Who's News: @  Magna International's @  Financial Chief Quits; @  Chairman Stepping In";
     a foaf:Document;
     rdfs:comment "MAGAF WNEWS  TORONTO ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0027.RAhxULF3z0UFhqbAP5Td_VLWnuYGZ300CtrrzocIJKeP0#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0027.RAGiLDBuots6dxKAef-BhawEDZO8ktapMyY9hQPQkKqH0#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-05-29T11:52:17.230+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T10:12:17.923+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

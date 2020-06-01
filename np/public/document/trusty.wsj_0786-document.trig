@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0786.RA085K3fLLZbLaMRkr2uxpx6Q7YC36TRESqH5FAaRlE1c> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0786.RA085K3fLLZbLaMRkr2uxpx6Q7YC36TRESqH5FAaRlE1c#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0786.RApeMSphBvuOvoukjjV9BtrKII6mvAU8M8c0qg80bs3jQ> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0786.RApeMSphBvuOvoukjjV9BtrKII6mvAU8M8c0qg80bs3jQ#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "American Medical @  International Bought @  By IMA Holdings";
     a foaf:Document;
     rdfs:comment "AMI Z.CSU WNEWS  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)HEALTH CARE PROVIDERS, MEDICINE, DENTISTRY (HEA)  LOS ANGELES ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0786.RAU-WlbakEtPE5DVPuAJHs1zcIKojK-NOW_Nv3_6vfC4Y#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0786.RAJ9nk_rIuKlnG4WEucJqon4-Y1VmBRf5Uqf6xgG7iiYE#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-05-29T11:56:04.211+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T10:18:39.729+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
