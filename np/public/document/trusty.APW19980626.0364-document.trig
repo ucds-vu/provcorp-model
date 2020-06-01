@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/APW19980626.0364.RAPwUnCjG1qISASv-35JYvbbPIII_N7DvHedj5qcaCQ_k> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/APW19980626.0364.RAPwUnCjG1qISASv-35JYvbbPIII_N7DvHedj5qcaCQ_k#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/APW19980626.0364.RAyB7jvLwd4SvKV3wTeXLsHPdOU-WXtDSfWb3g2H0W4co> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/APW19980626.0364.RAyB7jvLwd4SvKV3wTeXLsHPdOU-WXtDSfWb3g2H0W4co#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -20,7 +20,7 @@ sub:assertion {
     dct:identifier "APW19980626.0364";
     dct:title "German far-right party fined for violating donor laws ";
     a foaf:Document;
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/APW19980626.0364.RAOIMiuE5PlHrpGEURPPVu58EzEeG5nVf3nwjdwV0jFyo#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/APW19980626.0364.RAnldevsqckbJUH33to6omEQ3jYTucnGr8RtHrLWG1Nuk#text> .
 }
 
 sub:provenance {
@@ -28,7 +28,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:17:09.106+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:13:29.274+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

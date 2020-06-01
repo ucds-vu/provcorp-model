@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/VOA19980303.1600.0917.RA3GPu_yc5EcUkkNmIAMGRDzMSXqaS9hHq9-NayyoWtRQ> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/VOA19980303.1600.0917.RA3GPu_yc5EcUkkNmIAMGRDzMSXqaS9hHq9-NayyoWtRQ#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/VOA19980303.1600.0917.RAnD_EW2BLyA4AHzsHfdwaYH_ySvQY15UtqDgAuapmUCM> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/VOA19980303.1600.0917.RAnD_EW2BLyA4AHzsHfdwaYH_ySvQY15UtqDgAuapmUCM#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -20,7 +20,7 @@ sub:assertion {
     dct:identifier "VOA19980303.1600.0917";
     dct:title "NEWS STORY";
     a foaf:Document;
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/VOA19980303.1600.0917.RAgqG5-syFFXPmKfLvxXNDpticawpIwWIlihKthJODPag#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/VOA19980303.1600.0917.RAHL_clHQ28REsuExYhzoP2btybKAKkqaaqLhUBXQ-X1Y#text> .
 }
 
 sub:provenance {
@@ -28,7 +28,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:20:03.287+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:15:34.382+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

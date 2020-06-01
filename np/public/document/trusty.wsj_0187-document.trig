@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0187.RA6TR1U3WqyRa5qnwveksv6iTyL5ocKVkRPrh93uQwS-U> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0187.RA6TR1U3WqyRa5qnwveksv6iTyL5ocKVkRPrh93uQwS-U#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0187.RADRQhV_HkauVNPQ4V0IKGJt_q8ki1fSYXJip2RWM4Lq8> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0187.RADRQhV_HkauVNPQ4V0IKGJt_q8ki1fSYXJip2RWM4Lq8#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "International: @  Finland, Big Creditors @  To Set Up Company @  To Complete Ships";
     a foaf:Document;
     rdfs:comment "EUROP CCL BANKRUPTCIES (BCY)TRANSPORTATION, TRUCK AND SHIP LINES, RAILROADS (TRA) STOCKHOLM ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0187.RA8hDmnFxvr1wHAQpaDBkz6bZiDKCKpMCA66k2kobWnFg#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0187.RARFb1ll7_Wg6_1ALI5wafq6Z9UILb1wEiOqQCCom_zWI#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:13:20.931+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:11:08.533+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

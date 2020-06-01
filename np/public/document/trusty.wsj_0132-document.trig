@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0132.RADzl2gGpLgrussDu-XzxuSJJHU0waR4HSwdWmkpQ-lgU> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0132.RADzl2gGpLgrussDu-XzxuSJJHU0waR4HSwdWmkpQ-lgU#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0132.RA54cvTnl9R5FjRjC4IAStBb2j7EZkb7vbZzgJXIxPJUQ> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0132.RA54cvTnl9R5FjRjC4IAStBb2j7EZkb7vbZzgJXIxPJUQ#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "International Brief -- N.V. DSM: @  Third-Period Net Rose 63% @  Because of Lower Charges";
     a foaf:Document;
     rdfs:comment "EUROP N.DSM  EARNINGS (ERN)";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0132.RAps9eFIIbUujb3f8yZfMBYJqzSZwhAWd4jgdCFSNrHQs#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0132.RASL9vurCOhIITO3_2nqS0EoCGStcUZC3BodCVpJ1482E#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:13:48.097+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:11:22.293+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

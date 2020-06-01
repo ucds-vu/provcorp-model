@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/corpus/factbank-annotations.RADIR4iv6oZ1cM82-sABssaB7DJ9yKbyd3UuiA8VpEl5M> .
-@prefix sub: <https://w3id.org/provcorp/np/public/corpus/factbank-annotations.RADIR4iv6oZ1cM82-sABssaB7DJ9yKbyd3UuiA8VpEl5M#> .
+@prefix this: <https://w3id.org/provcorp/np/public/corpus/factbank-annotations.RAwSYEf5smQywdVuy5UBcHYVKKT-N5VDlbbTa9Q3EEGEI> .
+@prefix sub: <https://w3id.org/provcorp/np/public/corpus/factbank-annotations.RAwSYEf5smQywdVuy5UBcHYVKKT-N5VDlbbTa9Q3EEGEI#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
@@ -21,7 +21,7 @@ sub:assertion {
     a pvcp:AnnotationCorpus;
     rdfs:comment "FactBank 1.0 was built on top of TimeBank 1.2 and a fragment of the AQUAINT TimeML Corpus, both of which used the TimeML specification language. This resulted in a double-layered annotation of event factuality.";
     rdfs:seeAlso <https://catalog.ldc.upenn.edu/LDC2009T23>;
-    dcat:distribution <https://w3id.org/provcorp/np/public/index/annotation-corpus/RAf1i7sDvzDdN4wqXNRf_rGLnIDFU8wf7APOMYVd2pF7Q> .
+    dcat:distribution <https://w3id.org/provcorp/np/public/index/annotation-corpus/RA6wKqVobU1mkI8XJSRLZay2V9ayqp1Mul2w76PI2JOzE> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:24:11.319+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:18:41.159+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

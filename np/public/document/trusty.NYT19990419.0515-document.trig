@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19990419.0515.RA_84TrDACeCb4R2aNL4rBBP52NZV4LOxkzFU7K9qIYtg> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19990419.0515.RA_84TrDACeCb4R2aNL4rBBP52NZV4LOxkzFU7K9qIYtg#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19990419.0515.RA9YSZrEQ1O2ycWHpRlg4QbVvRzvMdWlCH1ujQyGSrmfM> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19990419.0515.RA9YSZrEQ1O2ycWHpRlg4QbVvRzvMdWlCH1ujQyGSrmfM#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "PROSECUTORS TO PRESENT CLINIC DOCTOR'S SLAYING TO GRAND JURY ";
     a foaf:Document;
     rdfs:comment "   (nk)  By JOSEPH BERGER  c.1999 N.Y. Times News Service ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19990419.0515.RArJcQto1knzSZHB690DJVzhY5-Fd04qH85fFF4M4BR-Y#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19990419.0515.RAwee6M4d5NWN9hJD3svmI1CSQnSIowXFvHRB8pgVuwPs#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:23:37.400+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:18:08.723+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

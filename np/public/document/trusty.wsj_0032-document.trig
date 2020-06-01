@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0032.RAQWsKlSfolDpY1SakvYGGCYeQ-Jb0rxw2-9FKTwMc5-M> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0032.RAQWsKlSfolDpY1SakvYGGCYeQ-Jb0rxw2-9FKTwMc5-M#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0032.RAQ0nm8lDEn2dkJ9oDsuUuQ_8KhKvOp3g9kyXCdXqjzVY> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0032.RAQ0nm8lDEn2dkJ9oDsuUuQ_8KhKvOp3g9kyXCdXqjzVY#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Montedison Bid for Erbamont";
     a foaf:Document;
     rdfs:comment "MNT ERB  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)DRUG MANUFACTURERS (DRG)  NEW YORK ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0032.RADbjgGC7BsePEEwJE0JwqAXz_gx-Gn37Sq2KEm-NpBXA#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0032.RAlaDXATpW36HtGDrPxB-R3i2mVPu1WQAI3wBv8pq5Kn4#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:12:02.624+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:10:26.770+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

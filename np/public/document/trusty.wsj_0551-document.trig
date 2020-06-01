@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0551.RAGjVOPt7FaRUgElQQSUGFwfFc-WRD3UuIP8HSU83S-Xw> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0551.RAGjVOPt7FaRUgElQQSUGFwfFc-WRD3UuIP8HSU83S-Xw#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0551.RAuCXCIUctNBdkQDE6cFrl_bCd2bAW68s_dRGrlyJ_1gE> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0551.RAuCXCIUctNBdkQDE6cFrl_bCd2bAW68s_dRGrlyJ_1gE#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Trustcorp Inc. to Change Name";
     a foaf:Document;
     rdfs:comment "TTCO SOCI  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)BANKS (BNK)  TOLEDO, Ohio ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0551.RA771imxoUrRjLfM5O6_lflgTU77W9j2gm-GHCVyEKI-g#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0551.RA9XRf6JLATCmVddoDyuosP9DAkjhblA5wpKqm7-PzAAw#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:22:31.700+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:17:10.260+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

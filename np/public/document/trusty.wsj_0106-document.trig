@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0106.RAiP6I9XK2dfowUnZOqLHd081vgCmGzEDtgjbm8ym0AbA> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0106.RAiP6I9XK2dfowUnZOqLHd081vgCmGzEDtgjbm8ym0AbA#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0106.RAJnRh0nHYSxQ2vPeiNOrnKUB3I-ZE9RfUYF1kgo986Ws> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0106.RAJnRh0nHYSxQ2vPeiNOrnKUB3I-ZE9RfUYF1kgo986Ws#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Financing Business: @  Rogers Communications Inc.";
     a foaf:Document;
     rdfs:comment "RCI.B";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0106.RAjmIze48OI_gah3CgmyGXTq10h5E6Lz8jXSz7LnMg60w#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0106.RAcrv-HoxFf-xZZPtExVlKb4xzQRqaaOYbON-o3M82J2I#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:13:43.473+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:11:19.890+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

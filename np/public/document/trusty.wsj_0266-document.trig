@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0266.RAH-eQLhbnh25CnfvmYt80rYthYXqPT8eS7o3MS5WSEAU> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0266.RAH-eQLhbnh25CnfvmYt80rYthYXqPT8eS7o3MS5WSEAU#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0266.RACGO7z-sMVuEMSlgLVA-P776Wu9BkhoHi0Zis_KpZ2CY> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0266.RACGO7z-sMVuEMSlgLVA-P776Wu9BkhoHi0Zis_KpZ2CY#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Letters to the Editor: @  Innovators Overlooked";
     a foaf:Document;
     rdfs:comment "MUTUAL AND MONEY-MARKET FUNDS (FND)";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0266.RA70L7qn9UmMPvjltFnqALHVOaG1nBbY-Do0FcDIIIh1E#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0266.RALhC4LtxlKSZxK0LefSLACuEGKTbdpnLLsl58SETvU7k#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:18:01.551+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:14:08.049+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

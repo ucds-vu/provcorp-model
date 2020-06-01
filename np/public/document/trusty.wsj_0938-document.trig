@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0938.RAWKUsDwdb0CEFt7L7yi1bxhO4ngd9rNvvVvmLjNa9MtI> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0938.RAWKUsDwdb0CEFt7L7yi1bxhO4ngd9rNvvVvmLjNa9MtI#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0938.RAs5VymF-bw-6VRjZv-S_jCK2gR66D4Ww6K6TO6bB3RDk> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0938.RAs5VymF-bw-6VRjZv-S_jCK2gR66D4Ww6K6TO6bB3RDk#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Cineplex Chairman Drabinsky Considers @  Bid of $666 Million to Acquire Company @  ---- @  By Suzanne McGee @  Staff Reporter of The Wall Street Journal";
     a foaf:Document;
     rdfs:comment "CPX MCA RANKY TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)RECREATION, ENTERTAINMENT, TOYS, MOVIES, PHOTOGRAPHY, SPORTS (REC) TORONTO ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0938.RAE6r1Fz0dtrNkdLilV2RBik0P890O8aSxw_QswXMjxic#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0938.RA9EQHhIiAtO7BN5GONzSLaM37CcNLE4TB3fM7sL9Tiuc#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:20:10.102+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:15:39.690+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

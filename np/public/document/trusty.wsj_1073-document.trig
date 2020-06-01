@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_1073.RAUxYEiBZ2zNVGFZzxFLk2PUlYAwwRWXi-83kRNieWYb4> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_1073.RAUxYEiBZ2zNVGFZzxFLk2PUlYAwwRWXi-83kRNieWYb4#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_1073.RAaIdpZGL6ooYxWjzdsNzVoCSOVt7MsMJPgRPAEl4fOgM> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_1073.RAaIdpZGL6ooYxWjzdsNzVoCSOVt7MsMJPgRPAEl4fOgM#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Advanced Medical Makes Purchase";
     a foaf:Document;
     rdfs:comment "AMA HENG  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)MEDICAL AND BIOTECHNOLOGY (MTC)  SAN FRANCISCO ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_1073.RAuCaVOQysPqUE7wS0MhJyCv83u6QjHWl9xSfR8cztXtE#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_1073.RAYLCSooi3OEVmFwpQ7Xt2kd0c-8pxicZnju6aLyC6YtY#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:23:19.865+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:17:51.411+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

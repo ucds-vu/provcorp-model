@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0806.RA9L44YCtaZvDI8xjOTdDCW1tpUFhRH4slmhb1n6IdCQ0> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0806.RA9L44YCtaZvDI8xjOTdDCW1tpUFhRH4slmhb1n6IdCQ0#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0806.RARxUHzN33-07wRkm_UFVhD8QLnTHJ3MUwYYcJMk-i7ac> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0806.RARxUHzN33-07wRkm_UFVhD8QLnTHJ3MUwYYcJMk-i7ac#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Financing Business: @  Healthdyne Inc.";
     a foaf:Document;
     rdfs:comment "HDYN  STOCK MARKET, OFFERINGS (STK)INITIAL STOCK OFFERINGS (INI)";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0806.RAb2aJRmCmXswOTOe40jM-oIN9XcN6txxIYH53mNraQVM#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0806.RAYcNcNCSW0UyCUNlbO0s4peGqxfTEmCMM3dvGM_Y5VyI#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:23:15.380+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:17:46.713+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0026.RAZ9d9L5GPoXCmnFfmoxvEzpKK6GtywX4DAJqBL0JywOM> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0026.RAZ9d9L5GPoXCmnFfmoxvEzpKK6GtywX4DAJqBL0JywOM#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0026.RAd9IioBiWK-6JRCTZ1kimqYNLTRqvUIFqXdParws1YH8> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0026.RAd9IioBiWK-6JRCTZ1kimqYNLTRqvUIFqXdParws1YH8#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Duty-Free Status Cleared @  For Certain Watch Imports";
     a foaf:Document;
     rdfs:comment "MONETARY NEWS, FOREIGN EXCHANGE, TRADE (MON) EXECUTIVE (EXE) WASHINGTON ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0026.RAmDCbXj98m0KCxHjPX0VlspRqOJ-8qAFxVxjMssth7B4#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0026.RAcOJeaNS-C6MR5vVB_GurB-P1AfTv7XzZV1cn6xVdOoQ#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:12:06.392+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:10:29.304+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/PRI19980115.2000.0186.RA_4SZHITOXxtnCcmVuxDjmpwZXOJbDmza8m_9c6uwfHo> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/PRI19980115.2000.0186.RA_4SZHITOXxtnCcmVuxDjmpwZXOJbDmza8m_9c6uwfHo#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/PRI19980115.2000.0186.RAffGmzC-zkgDOcGUsFlX_EWyZoRHgs6Z2SBftl1WJG94> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/PRI19980115.2000.0186.RAffGmzC-zkgDOcGUsFlX_EWyZoRHgs6Z2SBftl1WJG94#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -20,7 +20,7 @@ sub:assertion {
     dct:identifier "PRI19980115.2000.0186";
     dct:title "NEWS STORY";
     a foaf:Document;
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/PRI19980115.2000.0186.RAXmabKDacI7-pXT6UcZvhFxvqynGARAnf3R8BA7C_NTI#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/PRI19980115.2000.0186.RAYTOHv1QxI6H3LDoZlg55gbKOClBmLsYXWG3F3tjc9rI#text> .
 }
 
 sub:provenance {
@@ -28,7 +28,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:16:03.032+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:12:44.795+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

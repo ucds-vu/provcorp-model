@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0135.RAg-_8nBnFM8gKoEfzX8RuKVu-DzBwF9WPWXbwbRPBsfQ> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0135.RAg-_8nBnFM8gKoEfzX8RuKVu-DzBwF9WPWXbwbRPBsfQ#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0135.RA2K_xoPA3t3e17gika6HNYI6Wd8J80EQsK8bw5qWdiDA> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0135.RA2K_xoPA3t3e17gika6HNYI6Wd8J80EQsK8bw5qWdiDA#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Business Brief -- Elco Industries Inc.: @  Fastener Maker Expects Net @  In '90 to Be Below Forecast";
     a foaf:Document;
     rdfs:comment "ELCN";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0135.RArVfwiJYtEwVkB-KS12rQxryYJEu95qnCrxxDP3E3-7k#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0135.RAD0QIo1RALmgBQUb2UIcVmM3RYeV5NpGfKVBzQfC9ur4#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:15:02.260+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:12:04.216+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

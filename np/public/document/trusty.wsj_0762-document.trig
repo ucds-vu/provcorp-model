@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0762.RAMVND8KqO1Hyd80iVxc9MQg4-nbSdynZC-UKTGBL9ZFE> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0762.RAMVND8KqO1Hyd80iVxc9MQg4-nbSdynZC-UKTGBL9ZFE#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0762.RAqtIV8sNjpLeBQyFn9EGXOdA1KMEHHc7WNQywZDcd7x4> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0762.RAqtIV8sNjpLeBQyFn9EGXOdA1KMEHHc7WNQywZDcd7x4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Dividend News: @  Cambrex Corp.";
     a foaf:Document;
     rdfs:comment "CBAM  DIVIDENDS (DIV)";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0762.RADR-_0Ca9_jqa14ICvyTYzC5nrN8pLIIJcKDCZIJ_vqo#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0762.RAopeADhlWOkiWSJYDy9whxwwP7Tuu63BShw6CYvAUljw#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:15:55.371+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:12:39.503+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

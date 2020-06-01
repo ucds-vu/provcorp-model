@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0751.RAxu_vEbAExlf6Wq3Aa7NlWt-eNPvetPAOTTT6gNTRJCk> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0751.RAxu_vEbAExlf6Wq3Aa7NlWt-eNPvetPAOTTT6gNTRJCk#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0751.RAGGJ0e8nnLi8C2Fe9lapRj20wHWi9V3BAS0ryU_UO5Xw> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0751.RAGGJ0e8nnLi8C2Fe9lapRj20wHWi9V3BAS0ryU_UO5Xw#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Dime Savings Bank Purchase";
     a foaf:Document;
     rdfs:comment "DME STPT  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)SAVINGS AND LOANS, THRIFTS, CREDIT UNIONS (SAL)  GARDEN CITY, N.Y. ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0751.RAVwzmtwNL0AOPlGkFiSJ8c6g6wbtDETuqEPX26GYMGKs#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0751.RAeEVaszPbJmILOaU6qQI4KyzI3igo7uhcoIiX7WEUQOo#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:21:18.998+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:16:22.628+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

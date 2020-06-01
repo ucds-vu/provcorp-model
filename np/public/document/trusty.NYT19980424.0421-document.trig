@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19980424.0421.RAqjOBmxuS-2RPgqHRjZVkjxB9vFHdulJD2ghGKDHaHYc> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19980424.0421.RAqjOBmxuS-2RPgqHRjZVkjxB9vFHdulJD2ghGKDHaHYc#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19980424.0421.RApuEMyLkNMr0IKLn-tswGctmuMIJzWSU00aScVqtHEes> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19980424.0421.RApuEMyLkNMr0IKLn-tswGctmuMIJzWSU00aScVqtHEes#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "EDITORIAL: THE COURT RETREATS ON STEREOTYPES ";
     a foaf:Document;
     rdfs:comment "UR (af) LR  QL UR c.1998 N.Y. Times News Service QC  LR  QL ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19980424.0421.RAzblj-4fjsySxRFdwDqmIjj3gZpeExpgJ2Uxfw-PclKQ#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19980424.0421.RA7eWaAsXqKcTCVJNOrmWUHkgO43cRnEs1PlNczBpJNcc#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:18:24.900+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:14:20.355+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

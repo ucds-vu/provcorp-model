@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19980206.0460.RA3XRZ9vo6Spg5dXKnMvH8Fs7Ox6J7OKB00QMKjlmCw0M> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19980206.0460.RA3XRZ9vo6Spg5dXKnMvH8Fs7Ox6J7OKB00QMKjlmCw0M#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19980206.0460.RAtgYncNFlgbRDS_c3xZ-n4wbAGkWYlwN2zlTEf35sCQk> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19980206.0460.RAtgYncNFlgbRDS_c3xZ-n4wbAGkWYlwN2zlTEf35sCQk#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "(REPEATING to correct coding) ";
     a foaf:Document;
     rdfs:comment "UR JANUARY JOB TOTALS UP AT A ROBUST CLIP LR  QL UR (ART ADV: Graphic is being sent to NYT graphic clients. Non-subscribers can make individual purchase by calling 212-556-4204.) LR  QL UR (JT LR ) QL UR By RICHARD W. STEVENSON LR  QC   QL UR c.1998 N.Y. Times News Service LR  QC   QL ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19980206.0460.RACXw__OKIDl70pSUh2ea8JhVIe4RoMfYeGTgqqDcYb20#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19980206.0460.RAZJB1XTzm7_kOXizoIhSH_XpG6qhgEzNpUaei84wPIzo#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:16:25.611+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:13:00.069+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

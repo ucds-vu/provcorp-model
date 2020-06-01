@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0760.RAItVm1j-k-rfz6O1AyfEvYpTuhUr-xV5OsnQFuoWhV9g> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0760.RAItVm1j-k-rfz6O1AyfEvYpTuhUr-xV5OsnQFuoWhV9g#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0760.RA9ez3hCFOmVHkBScSnBm0tLLWz8ttJaQoGu8Ll3Tdkt4> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0760.RA9ez3hCFOmVHkBScSnBm0tLLWz8ttJaQoGu8Ll3Tdkt4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Norton Net Declined @  6% in Third Quarter";
     a foaf:Document;
     rdfs:comment "NRT  EARNINGS (ERN)INDUSTRIAL EQUIPMENT, MACHINE TOOLS (IND)  WORCESTER, Mass. ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0760.RA1EaMYPulNRssap4eKcksqS0wac7hINpIt7cetGqGmJM#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0760.RAlbPzyO1lI3S0E2wtV6smuunAWhwBAiWd9l5nv8wDeXw#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:16:05.808+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:12:46.663+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

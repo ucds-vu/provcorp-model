@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0745.RAp_2CVWtmS0gTqh5QVq1D3P_3xKuSTgW9UzPi1bXfzP8> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0745.RAp_2CVWtmS0gTqh5QVq1D3P_3xKuSTgW9UzPi1bXfzP8#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0745.RA7qLEiWAY1r_xYO92szfG4JNwRwbQ5CPkAZ2Xo374azI> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0745.RA7qLEiWAY1r_xYO92szfG4JNwRwbQ5CPkAZ2Xo374azI#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "GM Seeks to Buy Up to 15% of Jaguar, @  Heating Up Its Skirmishing With Ford @  ---- @  By Joann S. Lublin @  Staff Reporter of The Wall Street Journal";
     a foaf:Document;
     rdfs:comment "GM JAGRY F EUROP TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)AUTOMOBILES (AUT) LONDON ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0745.RAdPYfX-AbMjJAYy_eXvkQGnT4nv6kyyXwCQ_vjwgkajY#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0745.RAK6XY3jaOhWRpfD6SuazNuHZbbilUzYhtQUNe0adfyL8#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:19:55.008+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:15:28.068+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

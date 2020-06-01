@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0555.RA962Kec6q1k_zBouKbdUe_jBiJDuJb0RBfzV6OS9JlQQ> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0555.RA962Kec6q1k_zBouKbdUe_jBiJDuJb0RBfzV6OS9JlQQ#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0555.RAWZjU-v9uEL4xY0DMl11RBEy7b6VUv0JUcuy99jgTl0k> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0555.RAWZjU-v9uEL4xY0DMl11RBEy7b6VUv0JUcuy99jgTl0k#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Waxman Industries Debentures";
     a foaf:Document;
     rdfs:comment "WAX  BUYBACKS, REDEMPTIONS, SWAP OFFERS (BBK)  BEDFORD HEIGHTS, Ohio ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0555.RA0hkXWd394l5jNfHqWYIfAKreio6eXltZcbuYJagUGlU#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0555.RA1zlNR5PEVbGn4CMGRwsrMruiXfciE0OkS4H_co1j8wc#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:22:38.637+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:17:14.271+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

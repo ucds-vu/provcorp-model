@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0713.RADsCTpdGiDQBrIdu0cvkruycXHoQXWG4_6Usak2dMiYM> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0713.RADsCTpdGiDQBrIdu0cvkruycXHoQXWG4_6Usak2dMiYM#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0713.RAO6VRyY4mFqApvBAl2BTh3E05Vv6si_jv6_KzObiTSmU> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0713.RAO6VRyY4mFqApvBAl2BTh3E05Vv6si_jv6_KzObiTSmU#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Dresdner Bank Acquisition";
     a foaf:Document;
     rdfs:comment "EUROP DRSDY F.SGF  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)BANKS (BNK)  FRANKFURT, West Germany ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0713.RADSYHW1535taJKLhk4Ch9wEyCifhFln129Pxm6MMgWmo#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0713.RAHj20qc2oLu5kCl9GxvVb8v4urjIeGcp2KWwonceAcJM#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:16:49.910+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:13:16.260+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

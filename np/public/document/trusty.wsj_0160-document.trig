@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0160.RA0E3pmXbLc3_eY31rW8XIw5gawEkvS8uyEa-3A5hrEx8> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0160.RA0E3pmXbLc3_eY31rW8XIw5gawEkvS8uyEa-3A5hrEx8#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0160.RA-2F1jYkoQdC7ExUP-yRtCXK9DsA5XNCwyKeca_oprCs> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0160.RA-2F1jYkoQdC7ExUP-yRtCXK9DsA5XNCwyKeca_oprCs#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Business Brief -- Savin Corp.: @  Office Products Firm Posts @  Net Loss for Third Quarter";
     a foaf:Document;
     rdfs:comment "SVB EARNINGS (ERN)";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0160.RAd1-mF-0n5ITdr70idzqMYJQeGbAhyGlv0Sakp-ekQmY#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0160.RAEmN7z7XmTkONcgONEOybgZevB4LROdsni3gyGIFBSUA#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:13:33.461+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:11:14.903+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

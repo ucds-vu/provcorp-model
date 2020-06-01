@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/APW19980213.1380.RAAy0fodeH70Nkmo4COYexW2NeaA2z9y_GvMqEXdYerO0> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/APW19980213.1380.RAAy0fodeH70Nkmo4COYexW2NeaA2z9y_GvMqEXdYerO0#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/APW19980213.1380.RAFxEmSeX1DOl8f0z4mbeGzHUTTo7h3vHcfe4HLcHwHA0> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/APW19980213.1380.RAFxEmSeX1DOl8f0z4mbeGzHUTTo7h3vHcfe4HLcHwHA0#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Police discover dismembered body of man kidnapped Wednesday ";
     a foaf:Document;
     rdfs:comment "UR By HILARIO DE LEON QC UR Associated Press Writer QC ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/APW19980213.1380.RAw8dTGbihqBDN3Y4w3UYdi_B_i9i5rigNLlNAfRvn-tY#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/APW19980213.1380.RAPJl8yjhzHN7L8ylzz1qfL6VzUB1IansRutiUDP-Nh_o#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:16:56.144+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:13:20.498+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0332.RAe0mp8STYYpwNGDcI29O_t31mK_cY7-wv_DtdSASWJp8> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0332.RAe0mp8STYYpwNGDcI29O_t31mK_cY7-wv_DtdSASWJp8#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0332.RAD3ppUnq6ldLkHolFMS81AhgzyXTWW8zjTG2ITXQPBsc> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0332.RAD3ppUnq6ldLkHolFMS81AhgzyXTWW8zjTG2ITXQPBsc#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "International Brief -- Coates Brothers PLC: @  Orkem Bids $7.43 a Share @  For Stake It Doesn't Own";
     a foaf:Document;
     rdfs:comment "F.ORK EUROP U.CTB  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)CHEMICALS, PLASTICS (CHM)";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0332.RA-pJyNFPrt6DcPQtnwh1D22lVL1CvUzVfKVAbgY218Jg#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0332.RAyks9UJGsjQViULXH5wVCKwTLfrIdsfkHi2lLMNi5Vxc#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:21:33.936+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:16:32.932+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

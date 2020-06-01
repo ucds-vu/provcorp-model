@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0575.RAKCDfG_vOAG-WyBz_WHT0fh_LOf0AzRO05Mon9QswJPc> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0575.RAKCDfG_vOAG-WyBz_WHT0fh_LOf0AzRO05Mon9QswJPc#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0575.RA0Y17STrEXaM2jWRVPCji7PlHTMkiCCEak-0zK3rwd3Y> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0575.RA0Y17STrEXaM2jWRVPCji7PlHTMkiCCEak-0zK3rwd3Y#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Control Data Says It May Repurchase @  Debt Soon, Seeks Alliances With Others @  ---- @  By Richard Gibson @  Staff Reporter of The Wall Street Journal";
     a foaf:Document;
     rdfs:comment "CDA COMPUTERS AND INFORMATION TECHNOLOGY (CPR)TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) MINNEAPOLIS ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0575.RA6037U2alvLyH7MmEIJBTo-v-bSqxzXLddtb-koq1Xb8#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0575.RA6kEf8AU_HD5F488cK62cGY9VsYl-5QNJ8asKcpWdzjE#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:20:45.373+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:16:00.214+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

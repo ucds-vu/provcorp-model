@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0679.RAJM1bIVLXhHs15xVMXzUlhW_i7nuFZpdRcsbzg21T_yE> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0679.RAJM1bIVLXhHs15xVMXzUlhW_i7nuFZpdRcsbzg21T_yE#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0679.RAFghN0Dd5NSXSrzDRqiJHEAiTw-2B7WApJycZ6h0ScAI> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0679.RAFghN0Dd5NSXSrzDRqiJHEAiTw-2B7WApJycZ6h0ScAI#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Business Brief -- Octel Communications Corp.: @  Hewlett-Packard Co. Raises @  Stake to 8.5% of Common";
     a foaf:Document;
     rdfs:comment "HWP OCTL  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0679.RA_e39ff2jvb-iMvwRy_KsGhnKWitqc26pWBgYnxetgyM#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0679.RAqmrosY6vhWjxi1MxnEBVKa9iKx894BLiy84BHwHxvlk#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:15:52.629+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:12:37.577+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

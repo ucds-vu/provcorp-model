@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0924.RAeoqEX2HdGSS4UNJkHBnNKKsMS1mY3DzaoE0RgB12Pqs> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0924.RAeoqEX2HdGSS4UNJkHBnNKKsMS1mY3DzaoE0RgB12Pqs#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0924.RAYUc2-tfK2xH1CcizPJDy0kpT0yfAcN-mBd3SO4zfvYg> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0924.RAYUc2-tfK2xH1CcizPJDy0kpT0yfAcN-mBd3SO4zfvYg#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Dominion Textile Rights Plan";
     a foaf:Document;
     rdfs:comment "T.DTX  EARNINGS (ERN)  MONTREAL ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0924.RAMhiECS5X7c25qDo4P1prreHTpGjLvYvyjZhVEePzqwg#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0924.RAvaoZC52vqouZd8TB-N7cTXwfAxhbHqX8EcvO3lMcZI0#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:15:57.646+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:12:41.117+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

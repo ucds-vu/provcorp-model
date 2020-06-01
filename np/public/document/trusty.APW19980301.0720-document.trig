@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/APW19980301.0720.RAbuz3R7a7DkK5KTWViO_YNGdgdauMKJ_OU-E1wjURC5g> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/APW19980301.0720.RAbuz3R7a7DkK5KTWViO_YNGdgdauMKJ_OU-E1wjURC5g#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/APW19980301.0720.RAAriXCGyWYz1dpVm2SjLWqz0l5UrjcJln-oRHdTf_inY> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/APW19980301.0720.RAAriXCGyWYz1dpVm2SjLWqz0l5UrjcJln-oRHdTf_inY#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Political momentum gathers for Israeli pullout from Lebanon ";
     a foaf:Document;
     rdfs:comment "UR Eds: INCORPORATES Israel-Syria; ADDS background and additional comment Sunday QL ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/APW19980301.0720.RAmtJNmPyurI7jsxGRQmm79ArnZqWsQTjGUexSUWwEam0#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/APW19980301.0720.RAhwbpAW5fYnZdqrAKUwkpgyTtL12ZkBEI0sjTNz_0WuE#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:19:50.872+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:15:24.559+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

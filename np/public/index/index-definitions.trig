@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/index/vocab/RAJGHY9wMb1f0tZkdA2546-C76tBRR96m1-qMvp6UVq3I> .
-@prefix sub: <https://w3id.org/provcorp/np/public/index/vocab/RAJGHY9wMb1f0tZkdA2546-C76tBRR96m1-qMvp6UVq3I#> .
+@prefix this: <https://w3id.org/provcorp/np/public/index/vocab/RAjSdg4vHdm9yVj2EP-UhEL7zzv4gsa3WLfti9yHi0oeg> .
+@prefix sub: <https://w3id.org/provcorp/np/public/index/vocab/RAjSdg4vHdm9yVj2EP-UhEL7zzv4gsa3WLfti9yHi0oeg#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix dce: <http://purl.org/dc/elements/1.1/> .
@@ -51,7 +51,7 @@ sub:provenance {
 sub:pubinfo {
   this: dce:description "Index nanopublication containing all definition nanopublication used in the other nanopublications.";
     dce:title "All definition nanopublications";
-    dct:created "2020-06-01T10:25:24.444+02:00"^^xsd:dateTime;
+    dct:created "2020-06-01T16:19:58.455+02:00"^^xsd:dateTime;
     pav:createdBy <https://orcid.org/0000-0002-3429-2879>;
     a npx:NanopubIndex .
 }

@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0685.RAb9Ln6uiFqwlBjTOWuRc34lc0-an0WXhZ2qeU4zx0CzE> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0685.RAb9Ln6uiFqwlBjTOWuRc34lc0-an0WXhZ2qeU4zx0CzE#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0685.RA3ee4thVI44egTzeN99kLLh9vji8TCME8gfJJmRhNmmg> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0685.RA3ee4thVI44egTzeN99kLLh9vji8TCME8gfJJmRhNmmg#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "CNW Acquisition Completed";
     a foaf:Document;
     rdfs:comment "CNW  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)TRANSPORTATION, TRUCK AND SHIP LINES, RAILROADS (TRA)  CHICAGO ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0685.RAkjKPqKAGpZ5bSBdiwDjuM7lRIrN9xpSvXT35VG2zrmU#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0685.RAUbLrz05r3tNIL2GqxGS0uc3j-1AQlL5tgOQXHrz9XWo#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:20:13.858+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:15:42.875+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

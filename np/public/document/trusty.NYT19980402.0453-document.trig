@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19980402.0453.RAm3QHn5eZOewROgI886P80Y1oHzFDaza63q9B-qGbFh8> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19980402.0453.RAm3QHn5eZOewROgI886P80Y1oHzFDaza63q9B-qGbFh8#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19980402.0453.RA6PXl6sqOplsXrhTV8JLUd9vGniEAvmFCiAfZyyFU5jY> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19980402.0453.RA6PXl6sqOplsXrhTV8JLUd9vGniEAvmFCiAfZyyFU5jY#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "TASK FORCE TO STUDY CASES OF 14 SLAIN WOMEN ";
     a foaf:Document;
     rdfs:comment "(lb) ampQL ampUR By DAVID M. HERSZENHORN ampLR  ampQC  ampQL ampUR c.1998 N.Y. Times News Service ampLR  ampQC  ampQL ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19980402.0453.RA_A_WCYZzE_Jw83PY5fyrMAL_WUZ25ivS8VJLEYouag8#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19980402.0453.RAIJ-fMNiW8bQMSlGtz6QW3vRTcx10OOsbw_vusufBGk4#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T10:21:20.833+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-01T16:16:24.109+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
