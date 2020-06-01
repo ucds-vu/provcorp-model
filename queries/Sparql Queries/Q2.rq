@@ -1,0 +1,24 @@
+# Q4
+# Which events have multiple factuality value annotations? 
+
+prefix pvcpf: <https://w3id.org/provcorp/np/public/vocab/factbank/>
+prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/>
+prefix oa: <http://www.w3.org/ns/oa#>
+prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+
+select ?event ?eID ?event_word ?fact_value (count(?fact_value) as ?fact_value_count){
+select *
+where {
+
+?fanno a oa:Annotation;
+    pvcpf:hasFactvalue ?fact_value;
+    pvcpf:hasTargetEvent ?event.
+?event oa:hasTarget ?textoffset;
+    pvcpf:hasEID ?eID.
+?textoffset nif:anchorOf ?event_word.
+
+}
+GROUP BY ?event ?eID ?event_word ?fact_value
+HAVING (count(?fact_value) > 1)
+}
+order by ?event
