@@ -1,0 +1,44 @@
+@prefix : <https://w3id.org/provcorp/np/public/corpus/factbank-texts> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/>.
+@prefix rdf: <http://www.w3.org/1999/02/22/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix nif:	<http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix npx: <http://purl.org/nanopub/x/>.
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  <https://w3id.org/provcorp/corpus/factbank-texts> dct:title "Factbank 1.0 Text corpus"^^xsd:string;
+  a pvcp:TextCorpus;
+  dct:description "A Corpus of Texts used in Factbank 1.0"^^xsd:string;
+  dct:language "en"^^xsd:string;
+  rdfs:comment "Contains 194 documents"^^xsd:string;
+  rdfs:seeAlso <https://catalog.ldc.upenn.edu/LDC2009T23> ;
+  dcat:distribution <@index>.
+}
+
+:provenance {
+  :assertion dct:creator <https://sites.google.com/site/rosersauri/>, <http://jamespusto.com/>;
+  dct:bibliographicCitation <https://doi.org/10.1007/s10579-009-9089-9> .
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-5347-5750>, #Anna
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0002-8356-6469>. #Roser
+  : dct:created "@date"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+}

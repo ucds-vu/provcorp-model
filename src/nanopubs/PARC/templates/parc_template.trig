@@ -1,0 +1,49 @@
+@prefix : <https://w3id.org/provcorp/np/public/annotation-parc/@numberann.>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix np: <http://www.nanopub.org/nschema#>.
+@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/>.
+@prefix pvcpp: <https://w3id.org/provcorp/np/public/vocab/parc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22/22-rdf-syntax-ns#>.
+@prefix nif:	<http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>.
+@prefix oa: <http://www.w3.org/ns/oa#>.
+@prefix npx: <http://purl.org/nanopub/x/>.
+@prefix olia: <http://purl.org/olia/sfb632.owl#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix text: <https://w3id.org/provcorp/np/protected/text/@textDocument>.
+
+:Head {
+  : a np:Nanopublication;
+    np:hasAssertion :assertion;
+    np:hasProvenance :provenance;
+    np:hasPublicationInfo :pubinfo.
+}
+
+:assertion {
+  :annotation a oa:Annotation;
+  @contentBeginpvcpp:hasContentAnnotatedWord @contentWords; @contentEnd
+  @cueBeginpvcpp:hasCueAnnotatedWord @cueWords @cueEnd;
+  @sourceBeginpvcpp:hasSourceAnnotatedWord @sourceWords;  @sourceEnd
+  oa:hasBody : ;
+  pvcpp:hasAttrID "@attributionID"^^xsd:string; @endattributionID
+  dct:isPartOf <@corpus>.
+}
+
+:provenance {
+  :assertion dct:creator <@URIcreator>;
+  dct:created "@date"^^xsd:dateTime.
+}
+
+:pubinfo {
+  : dct:creator <https://orcid.org/0000-0002-3429-2879>, #Timo
+                  <https://orcid.org/0000-0002-5347-5750>, #Anna
+                  <https://orcid.org/0000-0002-1267-0234>, #Tobias
+                  <https://orcid.org/0000-0002-8356-6469>. #Roser
+
+
+  : dct:created "@datepub"^^xsd:dateTime.
+  : dct:license <https://creativecommons.org/licenses/by/4.0/>.
+  : rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf>.
+  : rdfs:comment "You are free to use this information when referencing the above paper and creator."^^xsd:string.
+}
