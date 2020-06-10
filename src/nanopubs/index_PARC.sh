@@ -18,5 +18,6 @@ rm ./parc-annotations_temp.trig
 
 cd PARC
 python3 ./generate-parc_corpus.py -a "${ANNOTATIONINDEX}" -t "${TEXTINDEX}"
-$NP mktrusty -r ./results/parc_text_corpus.trig
-$NP mktrusty -r ./results/parc_annotation_corpus.trig
+cd ../
+$NP mktrusty -r ./PARC/results/parc_text_corpus.trig
+$NP mktrusty -r ./PARC/results/parc_annotation_corpus.trig

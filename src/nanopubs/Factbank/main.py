@@ -7,7 +7,7 @@ def usage():
     -h / --help")
 
 def main():
-    libraryPath = "../"
+    libraryPath = "../../"
     annotations = False
     text = False
     sentences = []

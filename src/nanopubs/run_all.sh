@@ -3,11 +3,11 @@ NP="../np op filter --out-format nq"
 INDEX="../np"
 OUTPUT="../data/toLoad/"
 #Creating needed directories
-mkdir ../data/toLoad
-mkdir ./Factbank/results/text
-mkdir ./Facbank/results/annotations
-mkdir ./PARC/results/text
-mkdir ./PARC/results/annotations
+mkdir -p ../data/toLoad
+mkdir -p ./Factbank/results/texts
+mkdir -p ./Factbank/results/annotations
+mkdir -p ./PARC/results/texts
+mkdir -p ./PARC/results/annotations
 
 echo "DID YOU EMPTY THE FACTBANK TEXT FOLDER?"
 
@@ -26,10 +26,9 @@ rm ./fb-annotations_temp.trig
 
 cd Factbank
 python3 ./generate-factbank_corpus.py -a "${INDEXANNOTATION}" -t "${INDEXTEXT}"
-$INDEX mktrusty -r ./results/factbank_annotation_corpus.trig
-$INDEX mktrusty -r ./results/factbank_text_corpus.trig
-
 cd ../
+$INDEX mktrusty -r ./Factbank/results/factbank_annotation_corpus.trig
+$INDEX mktrusty -r ./Factbank/results/factbank_text_corpus.trig
 echo "Making NQuads..."
 # FACTBANK
 $NP ./Factbank/results/trusty.*corpus.trig > ${OUTPUT}factbank_corpus-nanopubs.nq
@@ -130,5 +129,5 @@ cat ../../np/public/vocab/trusty.*.trig > def_temp.trig
 $INDEX mkindex -t "All definition nanopublications" -d "Index nanopublication containing all definition nanopublication used in the other nanopublications." -c "https://orcid.org/0000-0002-3429-2879" -u "https://w3id.org/provcorp/np/public/index/vocab/" -o ./index-definitions.trig def_temp.trig
 rm ./def_temp.trig
 
-$NP .../../np/public/vocab/trusty.*.trig > ${OUTPUT}definition-nanopubs.nq
+$NP ../../np/public/vocab/trusty.*.trig > ${OUTPUT}definition-nanopubs.nq
 $NP ./index-definitions.trig > ${OUTPUT}definition_index-nanopub.nq

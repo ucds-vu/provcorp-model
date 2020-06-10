@@ -9,7 +9,7 @@ def usage():
     -h / --help")
 
 def main():
-    libraryPath = "../" #"/Users/Timo-PC/Dropbox/provcorp"
+    libraryPath = "../"
     annotations = False
     text = False
     recalculate = False
@@ -43,13 +43,15 @@ def main():
             sys.exit(2)
 
     #Get basic information
+    os.chdir("../../")
     try:
-        currentDate = subprocess.check_output(['./np', 'now'], cwd=libraryPath)
+        currentDate = subprocess.check_output(['./np', 'now'])
         currentDate = currentDate.decode('utf-8')[:-1]
     except:
         sys.stderr.write("ERROR: Path to nanopublication library is not found or working\nuse -p to change the path\n")
         sys.exit(1)
 
+    os.chdir("./nanopubs/PARC")
     # Preprocessing text
     if text:
         print("Preprocessing text...")

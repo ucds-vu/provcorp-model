@@ -5,7 +5,7 @@ def usage():
     -t / --text= (the text index nanopub)\n")
 
 def main():
-    libraryPath = "../" #"/Users/Timo-PC/Dropbox/provcorp"
+    libraryPath = "../../" 
     tag_index = "@index"
     tag_date = "@date"
     try:
