@@ -1,3 +1,10 @@
 *.pyc
 .DS_Store
 *.jar
+src/nanopubs/Factbank/results/*
+src/nanopubs/PARC/results/*
+src/nanopubs/corpora/*
+src/data/*
+src/nanopubs/index-definitions.trig
+
+

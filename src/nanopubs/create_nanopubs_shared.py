@@ -1,6 +1,7 @@
 import sys
 import os
 import subprocess
+import nltk
 
 PATH_TEXT = "./corpora/factbank_v1/data/original"
 PATH_PARC_ANN_00 = "./corpora/PARC3/00"
@@ -8,6 +9,7 @@ PATH_PARC_ANN_01 = "./corpora/PARC3/01"
 INCORRECT_DOCUMENTS = ["NYT19981026.0446", "wsj_0781", "NYT19981121.0173", "NYT19981025.0216", "APW19990607.0041", "NYT19990312.0271", "APW19990206.0090", "NYT19981120.0362", "APW19991024.0075", "wsj_1014", "APW19990312.0251"]
 
 def main():
+    nltk.download('punkt')
     total_overlap = []
     original_files = []
     for r, d, f in os.walk(PATH_TEXT):

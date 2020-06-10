@@ -13,7 +13,7 @@ This repository is part of the Provenance for Linguistic Corpora Through Nanopub
 * The code that is used to generate the nanopublications can be found in the 'src/nanopubs' directory.
 
 ## Getting Started
-NOTE: Since the np script of the java-nanopublication library is only working on Linux, the code also has to be executed on a Linux Operating System.
+NOTE: Since the np script of the java-nanopublication library is only working on Linux, the code also has to be executed on a Linux Operating System. Furthermore, 'curl' has to be installed.
 
 ### Step 0:
 To be able to use the code one need to have access to the factbank_v1 and PARC3 (WSJ folders 00 and 01) corpora. These folders need to be placed in a folder called 'corpora' inside the 'src/nanopubs' directory.
