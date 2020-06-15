@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/ProvcorpVocabParc/RADSygIwBheLmOUzzRlAbTaO2AAbOiSY8zNNUZBWHHRGQ> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/ProvcorpVocabParc/RADSygIwBheLmOUzzRlAbTaO2AAbOiSY8zNNUZBWHHRGQ#> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/ProvcorpVocabParc/RASQj4gE4rZp_0tI8RWwUdkevsz7P6ckrBUDsoX3uKWrY> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/ProvcorpVocabParc/RASQj4gE4rZp_0tI8RWwUdkevsz7P6ckrBUDsoX3uKWrY#> .
 @prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/ProvcorpVocabParc> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix pav: <http://purl.org/pav#> .
@@ -19,7 +19,7 @@ sub:Head {
 }
 
 sub:assertion {
-  pvcpp:ProvcorpVocabFactbank dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
+  pvcpp:ProvcorpVocabParc dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879,
       orcid:0000-0002-5347-5750, orcid:0000-0002-8356-6469;
     dct:description "This is the vocabulairy describing the PARC implementation choices of the provcorp nanopublications.";
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -161,9 +161,9 @@ sub:pubinfo {
       orcid:0000-0002-8356-6469;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasContentAnnotatedWords/RAcU8mAf5Q4ytr6JXKhfwYEvSWjy_aT_N5VrK5y8-p5H4> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasContentAnnotatedWords/RAcU8mAf5Q4ytr6JXKhfwYEvSWjy_aT_N5VrK5y8-p5H4#> .
-@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasContentAnnotatedWords> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasContentAnnotatedWord/RAL9rRS2PkfosiM5JLeEuRrB3vB5ZLszGx4mMXhwI7qLM> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasContentAnnotatedWord/RAL9rRS2PkfosiM5JLeEuRrB3vB5ZLszGx4mMXhwI7qLM#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasContentAnnotatedWord> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix pav: <http://purl.org/pav#> .
 @prefix dct: <http://purl.org/dc/terms/> .
@@ -183,10 +183,10 @@ sub:Head {
 }
 
 sub:assertion {
-  pvcpp:hasContentAnnotatedWords a owl:DatatypeProperty;
+  pvcpp:hasContentAnnotatedWord a owl:DatatypeProperty;
     rdfs:domain oa:Annotation;
     rdfs:isDefinedBy latest:;
-    rdfs:label "has content annotated words"@en;
+    rdfs:label "has content annotated word"@en;
     rdfs:subPropertyOf oa:hasTarget;
     skos:definition "This links to all the words that are part of the content of the attribution relation."@en .
 }
@@ -202,9 +202,9 @@ sub:pubinfo {
       orcid:0000-0002-8356-6469;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasCueAnnotatedWords/RAsd__ywfQJd5xThYTUlmh6tOnW6AwuCf_brahTuJ_UCw> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasCueAnnotatedWords/RAsd__ywfQJd5xThYTUlmh6tOnW6AwuCf_brahTuJ_UCw#> .
-@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasCueAnnotatedWords> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasCueAnnotatedWord/RA-8LzhGzqcxjaRLS6Qlt2QqD7qsJUIPxPMZSoQ8mNt2c> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasCueAnnotatedWord/RA-8LzhGzqcxjaRLS6Qlt2QqD7qsJUIPxPMZSoQ8mNt2c#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasCueAnnotatedWord> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix pav: <http://purl.org/pav#> .
 @prefix dct: <http://purl.org/dc/terms/> .
@@ -224,10 +224,10 @@ sub:Head {
 }
 
 sub:assertion {
-  pvcpp:hasCueAnnotatedWords a owl:DatatypeProperty;
+  pvcpp:hasCueAnnotatedWord a owl:DatatypeProperty;
     rdfs:domain oa:Annotation;
     rdfs:isDefinedBy latest:;
-    rdfs:label "has cue annotated words"@en;
+    rdfs:label "has cue annotated word"@en;
     rdfs:subPropertyOf oa:hasTarget;
     skos:definition "This links to all the words that are part of the cue of the attribution relation."@en .
 }
@@ -243,9 +243,9 @@ sub:pubinfo {
       orcid:0000-0002-8356-6469;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasSourceAnnotatedWords/RAl82yD0iMTXb24ELw4GVNy22T8__DYRvw2ExWMZv4AIs> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasSourceAnnotatedWords/RAl82yD0iMTXb24ELw4GVNy22T8__DYRvw2ExWMZv4AIs#> .
-@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasSourceAnnotatedWords> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/hasSourceAnnotatedWord/RAQO8t0bjR2GVkiP8Tg4yJvWz0XUacANA4LuKvR367J0M> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/hasSourceAnnotatedWord/RAQO8t0bjR2GVkiP8Tg4yJvWz0XUacANA4LuKvR367J0M#> .
+@prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/hasSourceAnnotatedWord> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix pav: <http://purl.org/pav#> .
 @prefix dct: <http://purl.org/dc/terms/> .
@@ -265,7 +265,7 @@ sub:Head {
 }
 
 sub:assertion {
-  pvcpp:hasSourceAnnotatedWords a owl:DatatypeProperty;
+  pvcpp:hasSourceAnnotatedWord a owl:DatatypeProperty;
     rdfs:domain oa:Annotation;
     rdfs:isDefinedBy latest:;
     rdfs:label "has source annotated words"@en;
