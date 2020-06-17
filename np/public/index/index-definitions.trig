@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/index/vocab/RA6f6Td8Ff3HqBJem2aE7ychfI1HYJzwN7CXvkaQe4tFc> .
-@prefix sub: <https://w3id.org/provcorp/np/public/index/vocab/RA6f6Td8Ff3HqBJem2aE7ychfI1HYJzwN7CXvkaQe4tFc#> .
+@prefix this: <https://w3id.org/provcorp/np/public/index/vocab/RA_1jSf56OhztrdR_DSAWDc8-S2bym7APWWRBeZ1kBDv8> .
+@prefix sub: <https://w3id.org/provcorp/np/public/index/vocab/RA_1jSf56OhztrdR_DSAWDc8-S2bym7APWWRBeZ1kBDv8#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix dce: <http://purl.org/dc/elements/1.1/> .
@@ -19,6 +19,7 @@ sub:assertion {
       <https://w3id.org/provcorp/np/public/vocab/factbank/DummyAsSourceAnnotation/RASNerrrCKplJl5d7p-MhbI0fx7JpHspWJpPp_TKJzLx4>,
       <https://w3id.org/provcorp/np/public/vocab/factbank/GenAsSourceAnnotation/RAeg7r8jzFrIE2EoyIBKlujmGw5mW94PCdW_vMjN7EvVQ>,
       <https://w3id.org/provcorp/np/public/vocab/factbank/ProvcorpVocabFactbank/RAoke33aU_N2plsrKHFUfJZuOniTNEka3RVrygzx_cd44>,
+      <https://w3id.org/provcorp/np/public/vocab/factbank/hasEID/RAlSbjuMqTBrmUyVo5EQTxR_6le-F_Y8PLxhpO9eQ5rJ0>,
       <https://w3id.org/provcorp/np/public/vocab/factbank/hasEiID/RAuEBvnyGoYxuJb0S_FIkgh1z8mNR9UvyCl-MWcsDHLi4>,
       <https://w3id.org/provcorp/np/public/vocab/factbank/hasFactvalue/RAIwOe49_ucgGh2f9JdOK_jI4d4HYokxc8PgMILOWKj3Q>,
       <https://w3id.org/provcorp/np/public/vocab/factbank/hasRelSourceID/RA2S8_83vlhXACVPg1RiC9V6poXcWsz_IF3FjLZemh-2I>,
@@ -51,7 +52,7 @@ sub:provenance {
 sub:pubinfo {
   this: dce:description "Index nanopublication containing all definition nanopublication used in the other nanopublications.";
     dce:title "All definition nanopublications";
-    dct:created "2020-06-16T12:08:36.882+02:00"^^xsd:dateTime;
+    dct:created "2020-06-17T12:01:34.678+02:00"^^xsd:dateTime;
     pav:createdBy <https://orcid.org/0000-0002-3429-2879>;
     a npx:NanopubIndex .
 }
