@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0679.RAFghN0Dd5NSXSrzDRqiJHEAiTw-2B7WApJycZ6h0ScAI> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0679.RAFghN0Dd5NSXSrzDRqiJHEAiTw-2B7WApJycZ6h0ScAI#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0679.RA0uGA1dOO_OxBGE4fq8iJrxZU5UUuPW8cXafeYHVZ2no> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0679.RA0uGA1dOO_OxBGE4fq8iJrxZU5UUuPW8cXafeYHVZ2no#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Business Brief -- Octel Communications Corp.: @  Hewlett-Packard Co. Raises @  Stake to 8.5% of Common";
     a foaf:Document;
     rdfs:comment "HWP OCTL  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0679.RAqmrosY6vhWjxi1MxnEBVKa9iKx894BLiy84BHwHxvlk#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0679.RAt0JCrDrn7Kd0fPiMCOjeNih7I6MfOPhBDvJcX1lmewU#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:12:37.577+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:53:22.697+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/ProvcorpVocabParc/RAlV55w_omG5K0xC7yDO_70cJ_oKQClawtAx0oD3UAT3s> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/ProvcorpVocabParc/RAlV55w_omG5K0xC7yDO_70cJ_oKQClawtAx0oD3UAT3s#> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/parc/ProvcorpVocabParc/RAQciZu3wEB-lbEnKPUe1-2XiMNSxyO_UjJwc_ULl15cc> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/parc/ProvcorpVocabParc/RAQciZu3wEB-lbEnKPUe1-2XiMNSxyO_UjJwc_ULl15cc#> .
 @prefix latest: <https://w3id.org/provcorp/np/public/vocab/parc/latest/ProvcorpVocabParc> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix npx: <http://purl.org/nanopub/x/> .
@@ -26,7 +26,7 @@ sub:assertion {
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
     dct:title "PARC definitions for provcorp nanopublications";
     vann:preferredNamespacePrefix "pvcpp";
-    vann:preferredNamespaceUri "https://w3id.org/provcorp/np/public/vocab/parc/";
+    vann:preferredNamespaceUri "https://w3id.org/provcorp/vocab/parc/";
     a owl:ontology;
     rdfs:isDefinedBy latest: .
 }

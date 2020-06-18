@@ -1,11 +1,11 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/XIE19990313.0229.RAYAgj1XtwUeK9exGVmRVZBoa6jO_F5A0aoWvpMLeDq_c> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/XIE19990313.0229.RAYAgj1XtwUeK9exGVmRVZBoa6jO_F5A0aoWvpMLeDq_c#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/XIE19990313.0229.RAEvihunBY09Dg5iHVZYUlzj9jWKoRxlnE1Bccz1SI8Hs> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/XIE19990313.0229.RAEvihunBY09Dg5iHVZYUlzj9jWKoRxlnE1Bccz1SI8Hs#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -20,7 +20,7 @@ sub:assertion {
     dct:identifier "XIE19990313.0229";
     dct:title "NEWS STORY Poland, Hungary, Czech Formally Join NATO ";
     a foaf:Document;
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/XIE19990313.0229.RA1G4LTK0yFcpZi6ovEY0lXNmm2-mkpqijp3-Ii7S30oA#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/XIE19990313.0229.RAYJ6E-Thit3YtulVtx496seMEyg_vgZCu5aVvDFgP65w#text> .
 }
 
 sub:provenance {
@@ -28,7 +28,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:12:21.479+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:53:06.213+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

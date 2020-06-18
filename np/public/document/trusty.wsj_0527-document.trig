@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0527.RAGO-xcsEETozGe4c_eFeoVg14_xax3GOQO7kRmBHz-eA> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0527.RAGO-xcsEETozGe4c_eFeoVg14_xax3GOQO7kRmBHz-eA#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0527.RAMnfGjT9MQkD1usq7yTuJvXX0bsr8ymJYxT5Dg9JpMqE> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0527.RAMnfGjT9MQkD1usq7yTuJvXX0bsr8ymJYxT5Dg9JpMqE#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Crossland Savings Stock Plunges as Firm @  Recommends Suspension of Dividends @  ---- @  By Udayan Gupta @  Staff Reporter of The Wall Street Journal";
     a foaf:Document;
     rdfs:comment "CRL  DIVIDENDS (DIV)FINANCIAL, ACCOUNTING, LEASING (FIN)EARNINGS (ERN)  NEW YORK ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0527.RARqAUKQQS7HOsgPn_RhpzP22wNFFRqin6xbMp8Pv5CMM#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0527.RAYPK34QIF9J7g4NGMqewQQ6Wev78CbfiQykqVFqnWDAk#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:13:06.123+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:53:52.918+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

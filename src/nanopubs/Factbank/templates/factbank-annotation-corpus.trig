@@ -3,7 +3,7 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix prov: <http://www.w3.org/ns/prov#>.
 @prefix np: <http://www.nanopub.org/nschema#>.
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/>.
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/>.
 @prefix rdf: <http://www.w3.org/1999/02/22/22-rdf-syntax-ns#>.
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix nif:	<http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>.

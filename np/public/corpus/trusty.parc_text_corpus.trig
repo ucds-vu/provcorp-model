@@ -1,9 +1,9 @@
-@prefix this: <https://w3id.org/provcorp/np/public/corpus/parc-texts.RAnciRpqDHXnUlbTj_NcGvDq7bgZD48Xf57YI27MaofMo> .
-@prefix sub: <https://w3id.org/provcorp/np/public/corpus/parc-texts.RAnciRpqDHXnUlbTj_NcGvDq7bgZD48Xf57YI27MaofMo#> .
+@prefix this: <https://w3id.org/provcorp/np/public/corpus/parc-texts.RAw86oNR4VxbKwDWnTWFyLiS4A-omSdxyYTrqj-SJn72k> .
+@prefix sub: <https://w3id.org/provcorp/np/public/corpus/parc-texts.RAw86oNR4VxbKwDWnTWFyLiS4A-omSdxyYTrqj-SJn72k#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dcat: <http://www.w3.org/ns/dcat#> .
 
@@ -21,7 +21,7 @@ sub:assertion {
     a pvcp:TextCorpus;
     rdfs:comment "WSJ corpus folders included: 0-1";
     rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf>;
-    dcat:distribution <https://w3id.org/provcorp/np/public/index/text-corpus/RAWI6M9NCY3PB5a4y9SnjRoC0h4-YVdM_rTqHFS6Br0zk> .
+    dcat:distribution <https://w3id.org/provcorp/np/public/index/text-corpus/RAW23pIb0_WCKVa1d3p4BHuiIQrEsmKARgl5oLmSzwM-Q> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:12:10.730+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:52:55.473+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/licenses/by/4.0/>;

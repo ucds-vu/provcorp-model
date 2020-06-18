@@ -1,11 +1,11 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/APW19980227.0489.RAGQ4B8Tl6PwXcgcA9a8CZk_L2tBD-lvVq9Of4WRaUZFI> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/APW19980227.0489.RAGQ4B8Tl6PwXcgcA9a8CZk_L2tBD-lvVq9Of4WRaUZFI#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/APW19980227.0489.RAR6G4X0gK9iAWMpRrmqUe8ZWlItlOJecAFMCraU7qUnw> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/APW19980227.0489.RAR6G4X0gK9iAWMpRrmqUe8ZWlItlOJecAFMCraU7qUnw#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -20,7 +20,7 @@ sub:assertion {
     dct:identifier "APW19980227.0489";
     dct:title "OAU to investigate Rwandan genocide ";
     a foaf:Document;
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/APW19980227.0489.RAZQLnYCv9KAwMoOPJgeZZ4p_emkouYM-O72AIlueKPE4#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/APW19980227.0489.RA_8EXbC7Jc1eoToUO9wk_DGQN-MeMYcIcpt64iZst1TI#text> .
 }
 
 sub:provenance {
@@ -28,7 +28,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:16:50.794+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:57:22.049+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

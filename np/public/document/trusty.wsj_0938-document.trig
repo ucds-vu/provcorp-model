@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0938.RAs5VymF-bw-6VRjZv-S_jCK2gR66D4Ww6K6TO6bB3RDk> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0938.RAs5VymF-bw-6VRjZv-S_jCK2gR66D4Ww6K6TO6bB3RDk#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0938.RAfIgsaGh7b-7-wq1B1HnboXIyYBh3TZXfMkpO0yZ77ho> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0938.RAfIgsaGh7b-7-wq1B1HnboXIyYBh3TZXfMkpO0yZ77ho#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Cineplex Chairman Drabinsky Considers @  Bid of $666 Million to Acquire Company @  ---- @  By Suzanne McGee @  Staff Reporter of The Wall Street Journal";
     a foaf:Document;
     rdfs:comment "CPX MCA RANKY TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)RECREATION, ENTERTAINMENT, TOYS, MOVIES, PHOTOGRAPHY, SPORTS (REC) TORONTO ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0938.RA9EQHhIiAtO7BN5GONzSLaM37CcNLE4TB3fM7sL9Tiuc#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0938.RAB2DrHIMTeOazV5mO_NWD0jtdAm3p_CCfHSDYwWH9Gng#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:15:39.690+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:56:10.908+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

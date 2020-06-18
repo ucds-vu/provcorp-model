@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19990419.0515.RA9YSZrEQ1O2ycWHpRlg4QbVvRzvMdWlCH1ujQyGSrmfM> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19990419.0515.RA9YSZrEQ1O2ycWHpRlg4QbVvRzvMdWlCH1ujQyGSrmfM#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19990419.0515.RAzlDykRe2A90csqq6mqFbn5F9Y1kkaujjrM1M_8Eesw4> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19990419.0515.RAzlDykRe2A90csqq6mqFbn5F9Y1kkaujjrM1M_8Eesw4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "PROSECUTORS TO PRESENT CLINIC DOCTOR'S SLAYING TO GRAND JURY ";
     a foaf:Document;
     rdfs:comment "   (nk)  By JOSEPH BERGER  c.1999 N.Y. Times News Service ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19990419.0515.RAwee6M4d5NWN9hJD3svmI1CSQnSIowXFvHRB8pgVuwPs#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19990419.0515.RAohpO1aShNcNmXv5k1EyM68FUKLo-dQpbHLdqW2Q31ak#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:18:08.723+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:58:25.854+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

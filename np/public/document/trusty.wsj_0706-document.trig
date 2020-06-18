@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0706.RAa6NTQh8j9CSDsCyPcUj_p7UpYzIuB34n6v1HcX9Otxs> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0706.RAa6NTQh8j9CSDsCyPcUj_p7UpYzIuB34n6v1HcX9Otxs#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0706.RA6fh4buMeuBWuEb1rGTXTMVC_T9Y1H3IR7I5C6v-dcKI> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0706.RA6fh4buMeuBWuEb1rGTXTMVC_T9Y1H3IR7I5C6v-dcKI#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Security Pacific Corp.";
     a foaf:Document;
     rdfs:comment "SPC LJC  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)BANKS (BNK)  LOS ANGELES ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0706.RAJxm_cXXfTw_bQSnUq2v0mrYY_7XT8LR9vCXKywnUG58#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0706.RAuoIWMxBHA2bwdMXlopw_BTzFnROEko0rHMlRXzBR6r8#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:17:32.361+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:57:57.068+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

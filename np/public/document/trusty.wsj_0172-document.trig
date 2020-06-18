@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0172.RATPMkmnIVyVE-2LgZ1BBTbEYh_TNr3BiBhyJbGVjPxJc> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0172.RATPMkmnIVyVE-2LgZ1BBTbEYh_TNr3BiBhyJbGVjPxJc#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0172.RAVKUd6e2iBPmN3gpb3vdUWBPIBonasrUlB3ZJ424ERlo> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0172.RAVKUd6e2iBPmN3gpb3vdUWBPIBonasrUlB3ZJ424ERlo#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Business Brief -- First of America Bank Corp.: @  Midwest Financial Group @  Acquired for $250 Million";
     a foaf:Document;
     rdfs:comment "FABK  TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)BANKS (BNK)";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0172.RA9a-30y587oWxSx9ZjL94pQVqHHDj6RfpQYSUFItFImA#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0172.RASLoHOeWf5NobJo613-tSrYtii9D_82t27yBhy7cvEgg#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:11:17.280+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:51:58.088+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

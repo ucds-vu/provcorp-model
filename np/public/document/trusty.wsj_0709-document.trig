@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0709.RAq2yc5oQQB2i89SCU8xo9mbVO5qi56zI4u0vgGismCGQ> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0709.RAq2yc5oQQB2i89SCU8xo9mbVO5qi56zI4u0vgGismCGQ#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0709.RA_AdO36sH6GIwsjm06UEP-UaIZnMD7q3KnbgP5t7CSg4> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0709.RA_AdO36sH6GIwsjm06UEP-UaIZnMD7q3KnbgP5t7CSg4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Service Corp. Earnings";
     a foaf:Document;
     rdfs:comment "SRV  EARNINGS (ERN)  HOUSTON ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0709.RAiJUZVb-bvJ398PSfCdf22wNnxFHkRwghmrVKjwmULzw#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0709.RAyjaS6PpRJ677jeeEBq1o-GaRt-UEkjgOgBBY_mWGwWM#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:13:19.130+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:54:07.452+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

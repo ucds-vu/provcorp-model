@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19980206.0466.RAZYFLekwP6_Skl9FNEhq-msWNjF3lVwxdU413pj3GbRU> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19980206.0466.RAZYFLekwP6_Skl9FNEhq-msWNjF3lVwxdU413pj3GbRU#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/NYT19980206.0466.RANf8fAopizDQt8J3MUWFHy4KMazyoUUFJPC3rhvigT3Y> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/NYT19980206.0466.RANf8fAopizDQt8J3MUWFHy4KMazyoUUFJPC3rhvigT3Y#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "STATEMENTS CONCERNING MRS. CURRIE ";
     a foaf:Document;
     rdfs:comment "UR (bl) LR  QL UR c.1998 N.Y. Times News Service LR  QC   QL ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19980206.0466.RAmAoyoV_JAjen5dqxeSoNxVuSQB5-tn1p9-mDIWNKgo4#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/NYT19980206.0466.RAKUsbrqH2mZWynJROBM5zhhHblZmXgnZ5dEYeh5NW-hk#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:17:18.946+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:57:48.491+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

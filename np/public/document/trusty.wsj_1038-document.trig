@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_1038.RAE-uHQon6tLaomwDwPqkq2m-2EqN5YNr7lmLBbtetBVY> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_1038.RAE-uHQon6tLaomwDwPqkq2m-2EqN5YNr7lmLBbtetBVY#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_1038.RApSgJlr4WMWUaAvPbFshTMSHV-i83cJcIfVGeef3uPxU> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_1038.RApSgJlr4WMWUaAvPbFshTMSHV-i83cJcIfVGeef3uPxU#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Business Brief -- Benjamin Franklin Federal SampL: @  Thrift Plans to Restructure @  After Loss in Third Quarter";
     a foaf:Document;
     rdfs:comment "BENJ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_1038.RARZWMwk6iiX00OQaX3NxarRu6-Uw01vqY-12S7c-7Q9o#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_1038.RA8-XgEsJ8FoflY6pUqi2FIKVYzWlY0Nhx9OlthkJ1-Y0#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:14:12.168+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:54:51.728+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

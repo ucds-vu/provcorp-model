@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_2.RAkWlcOmS1mcvAXzs73lKWtwY9qsZ57gVUOeRDinopmW0> .
-@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_2.RAkWlcOmS1mcvAXzs73lKWtwY9qsZ57gVUOeRDinopmW0#> .
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_2.RAEEtlkglvYO6Lu89yHTQH25K7vLVwe1qs-wkE6aukSsE> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_2.RAEEtlkglvYO6Lu89yHTQH25K7vLVwe1qs-wkE6aukSsE#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
-@prefix pvcpp: <https://w3id.org/provcorp/np/public/vocab/parc/> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
 @prefix oa: <http://www.w3.org/ns/oa#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0172.RA9a-30y587oWxSx9ZjL94pQVqHHDj6RfpQYSUFItFImA.offset.> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0172.RASLoHOeWf5NobJo613-tSrYtii9D_82t27yBhy7cvEgg.offset.> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -35,22 +35,22 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:11:17.673+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:51:58.535+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/licenses/by/4.0/>;
     rdfs:comment "You are free to use this information when referencing the above paper and creator.";
     rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_3.RAPmLH6oCh5YOpBvqM31qQYIjRbZrwMdQPnCZR-PKZkiY> .
-@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_3.RAPmLH6oCh5YOpBvqM31qQYIjRbZrwMdQPnCZR-PKZkiY#> .
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_3.RAaOCmi1F1YQ0eq0VwCYyNHXzDMXH4SIOGqO2o33ewkCQ> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_3.RAaOCmi1F1YQ0eq0VwCYyNHXzDMXH4SIOGqO2o33ewkCQ#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
-@prefix pvcpp: <https://w3id.org/provcorp/np/public/vocab/parc/> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
 @prefix oa: <http://www.w3.org/ns/oa#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0172.RA9a-30y587oWxSx9ZjL94pQVqHHDj6RfpQYSUFItFImA.offset.> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0172.RASLoHOeWf5NobJo613-tSrYtii9D_82t27yBhy7cvEgg.offset.> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -78,22 +78,22 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:11:17.673+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:51:58.535+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/licenses/by/4.0/>;
     rdfs:comment "You are free to use this information when referencing the above paper and creator.";
     rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_PDTB_annotation_level.xml_set_0.RAfbOYsXEToUnpRaXuIy_4O_7s0jYCZAtMf1_RXnZIBsg> .
-@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_PDTB_annotation_level.xml_set_0.RAfbOYsXEToUnpRaXuIy_4O_7s0jYCZAtMf1_RXnZIBsg#> .
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_PDTB_annotation_level.xml_set_0.RAKZJRFMTFvsCsZsWtguxC2dqyv1AzBk7XugYSEalhD3c> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_PDTB_annotation_level.xml_set_0.RAKZJRFMTFvsCsZsWtguxC2dqyv1AzBk7XugYSEalhD3c#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
-@prefix pvcpp: <https://w3id.org/provcorp/np/public/vocab/parc/> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
 @prefix oa: <http://www.w3.org/ns/oa#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0172.RA9a-30y587oWxSx9ZjL94pQVqHHDj6RfpQYSUFItFImA.offset.> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0172.RASLoHOeWf5NobJo613-tSrYtii9D_82t27yBhy7cvEgg.offset.> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -122,22 +122,22 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:11:17.673+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:51:58.535+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/licenses/by/4.0/>;
     rdfs:comment "You are free to use this information when referencing the above paper and creator.";
     rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_PDTB_annotation_level.xml_set_1.RADitc8Ai9h75pZt3rAGnIP8koz0zbAAjkt79wQSDPmxY> .
-@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_PDTB_annotation_level.xml_set_1.RADitc8Ai9h75pZt3rAGnIP8koz0zbAAjkt79wQSDPmxY#> .
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_PDTB_annotation_level.xml_set_1.RAuNhoZcWeJsRCu9gGIap1q4EcindG12AIsbyJPgvgewY> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_PDTB_annotation_level.xml_set_1.RAuNhoZcWeJsRCu9gGIap1q4EcindG12AIsbyJPgvgewY#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
-@prefix pvcpp: <https://w3id.org/provcorp/np/public/vocab/parc/> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
 @prefix oa: <http://www.w3.org/ns/oa#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0172.RA9a-30y587oWxSx9ZjL94pQVqHHDj6RfpQYSUFItFImA.offset.> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0172.RASLoHOeWf5NobJo613-tSrYtii9D_82t27yBhy7cvEgg.offset.> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -164,22 +164,22 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:11:17.673+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:51:58.535+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/licenses/by/4.0/>;
     rdfs:comment "You are free to use this information when referencing the above paper and creator.";
     rdfs:seeAlso <https://www.aclweb.org/anthology/L16-1619.pdf> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_4.RA3GVUuC0wnLAgMPcbwcHYj64xLHtgY-SIfZYWfKk6tGk> .
-@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_4.RA3GVUuC0wnLAgMPcbwcHYj64xLHtgY-SIfZYWfKk6tGk#> .
+@prefix this: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_4.RA5wLF2DQY_SUjHkCdUEnVhO_bTGe9mu-aeLeYKlkg1y4> .
+@prefix sub: <https://w3id.org/provcorp/np/public/annotation-parc/wsj_0172/wsj_0172_Attribution_relation_level.xml_set_4.RA5wLF2DQY_SUjHkCdUEnVhO_bTGe9mu-aeLeYKlkg1y4#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
-@prefix pvcpp: <https://w3id.org/provcorp/np/public/vocab/parc/> .
+@prefix pvcpp: <https://w3id.org/provcorp/vocab/parc/> .
 @prefix oa: <http://www.w3.org/ns/oa#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0172.RA9a-30y587oWxSx9ZjL94pQVqHHDj6RfpQYSUFItFImA.offset.> .
+@prefix textoffset: <https://w3id.org/provcorp/np/protected/text/wsj_0172.RASLoHOeWf5NobJo613-tSrYtii9D_82t27yBhy7cvEgg.offset.> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -211,7 +211,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:11:17.673+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:51:58.535+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/licenses/by/4.0/>;

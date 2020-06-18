@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/APW19980322.0749.RAWlYW4sm2Xj0kOvRuogC2lSMqFkiZ66KJd_ECT_-kwMI> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/APW19980322.0749.RAWlYW4sm2Xj0kOvRuogC2lSMqFkiZ66KJd_ECT_-kwMI#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/APW19980322.0749.RASvfVf0cI7l3OI9Gc-Y7sEzOFGxYjoa1kPxIsSMexTCU> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/APW19980322.0749.RASvfVf0cI7l3OI9Gc-Y7sEzOFGxYjoa1kPxIsSMexTCU#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Police find bomb on eve of Sinn Fein's return to peace talks ";
     a foaf:Document;
     rdfs:comment "UR Eds: NEW throughout; RAISES reference to bomb; UPDATES with protest against Protestant marches, comment from Sinn Fein leader; trims pvs QL UR By SHAWN POGATCHNIK QC UR Associated Press Writer QC ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/APW19980322.0749.RA5xCzcEigNc4YrrAoz1VOMWYgoYaYPuHNwLGYcFLIh3U#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/APW19980322.0749.RA8F9hwlp-b1c7il0Rtd2qeAQ6gfLsyO__MpWz9olverI#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:17:35.650+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:58:00.198+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

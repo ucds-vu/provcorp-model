@@ -1,5 +1,5 @@
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/ProvcorpVocab/RApLFe9Frfct7dKgfMxFN2g-lQUqof9mZRwmocAy6Ly2E> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/ProvcorpVocab/RApLFe9Frfct7dKgfMxFN2g-lQUqof9mZRwmocAy6Ly2E#> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/ProvcorpVocab/RAZO1fdmtLA26yoSCtEkuYI3eFAccqyd0fXsMxquR8288> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/ProvcorpVocab/RAZO1fdmtLA26yoSCtEkuYI3eFAccqyd0fXsMxquR8288#> .
 @prefix latest: <https://w3id.org/provcorp/np/public/vocab/general/latest/ProvcorpVocab> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix npx: <http://purl.org/nanopub/x/> .
@@ -10,7 +10,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix vann: <http://purl.org/vocab/vann/> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -26,7 +26,7 @@ sub:assertion {
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
     dct:title "General definitions for provcorp nanopublications";
     vann:preferredNamespacePrefix "pvcp";
-    vann:preferredNamespaceUri "https://w3id.org/provcorp/np/public/vocab/general/";
+    vann:preferredNamespaceUri "https://w3id.org/provcorp/vocab/general/";
     a owl:ontology;
     rdfs:isDefinedBy latest: .
 }
@@ -43,10 +43,11 @@ sub:pubinfo {
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
     npx:supersedes <https://w3id.org/provcorp/np/public/vocab/general/provcorpVocab/RAC24hgXp2AqqLaDGIt7LQCSFkYvAkjQ7y9IwZUqP2zjk> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/AnnotationCorpus/RA2MlJjrZ_ve1VqOz1PrwIrRr5K_ugvO1tHih_N24MIiU> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/AnnotationCorpus/RA2MlJjrZ_ve1VqOz1PrwIrRr5K_ugvO1tHih_N24MIiU#> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/AnnotationCorpus/RAf7cq4CPSWeCpd9wBtNIFw8j-7zhWepFxZ47Gk80neko> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/AnnotationCorpus/RAf7cq4CPSWeCpd9wBtNIFw8j-7zhWepFxZ47Gk80neko#> .
 @prefix latest: <https://w3id.org/provcorp/np/public/vocab/general/latest/AnnotationCorpus> .
 @prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
 @prefix pav: <http://purl.org/pav#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -54,7 +55,7 @@ sub:pubinfo {
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -76,15 +77,17 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+  this: dct:created "2020-06-16T11:58:51.605+02:00"^^xsd:dateTime;
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
       orcid:0000-0002-8356-6469;
-    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+    npx:supersedes <https://w3id.org/provcorp/np/public/vocab/general/AnnotationCorpus/RA2MlJjrZ_ve1VqOz1PrwIrRr5K_ugvO1tHih_N24MIiU> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/TextCorpus/RAdQd4C0-NimWYW3L5nLByHcOei4iKEy4bye9Dzz-fe1M> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/TextCorpus/RAdQd4C0-NimWYW3L5nLByHcOei4iKEy4bye9Dzz-fe1M#> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/TextCorpus/RAI506ILnrXrddFBeeX_KaQj5VqWn9-qT538JslfVkuEU> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/TextCorpus/RAI506ILnrXrddFBeeX_KaQj5VqWn9-qT538JslfVkuEU#> .
 @prefix latest: <https://w3id.org/provcorp/np/public/vocab/general/latest/TextCorpus> .
 @prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
 @prefix pav: <http://purl.org/pav#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -92,7 +95,7 @@ sub:pubinfo {
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -114,15 +117,17 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+  this: dct:created "2020-06-16T11:58:51.605+02:00"^^xsd:dateTime;
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
       orcid:0000-0002-8356-6469;
-    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+    npx:supersedes <https://w3id.org/provcorp/np/public/vocab/general/TextCorpus/RAdQd4C0-NimWYW3L5nLByHcOei4iKEy4bye9Dzz-fe1M> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/isPartOfText/RAcrnTmuif6e7zGpWKf1AcFWZfMVyLel6-Tv2fV9mFCE8> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/isPartOfText/RAcrnTmuif6e7zGpWKf1AcFWZfMVyLel6-Tv2fV9mFCE8#> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/isPartOfText/RAF3U2vuhHYsYRwjK1vtDKBT_f8ro6nr_sBFrbPCOX_jM> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/isPartOfText/RAF3U2vuhHYsYRwjK1vtDKBT_f8ro6nr_sBFrbPCOX_jM#> .
 @prefix latest: <https://w3id.org/provcorp/np/public/vocab/general/latest/isPartOfText> .
 @prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
 @prefix pav: <http://purl.org/pav#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -130,7 +135,7 @@ sub:pubinfo {
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 @prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
 
 sub:Head {
@@ -154,15 +159,17 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+  this: dct:created "2020-06-16T11:58:51.605+02:00"^^xsd:dateTime;
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
       orcid:0000-0002-8356-6469;
-    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+    npx:supersedes <https://w3id.org/provcorp/np/public/vocab/general/isPartOfText/RAcrnTmuif6e7zGpWKf1AcFWZfMVyLel6-Tv2fV9mFCE8> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/hasSentenceNumber/RA35dQYeunfRxOJwvtxh4YKIzjtWxvdDVQnmu0gFk1R44> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/hasSentenceNumber/RA35dQYeunfRxOJwvtxh4YKIzjtWxvdDVQnmu0gFk1R44#> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/hasSentenceNumber/RANrhZ3Z3BUad0q32qHfsbJiWKqsMH_72B0F74tf_TOg4> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/hasSentenceNumber/RANrhZ3Z3BUad0q32qHfsbJiWKqsMH_72B0F74tf_TOg4#> .
 @prefix latest: <https://w3id.org/provcorp/np/public/vocab/general/latest/hasSentenceNumber> .
 @prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
 @prefix pav: <http://purl.org/pav#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -170,7 +177,7 @@ sub:pubinfo {
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 @prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
 
 sub:Head {
@@ -194,15 +201,17 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+  this: dct:created "2020-06-16T11:58:51.605+02:00"^^xsd:dateTime;
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
       orcid:0000-0002-8356-6469;
-    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+    npx:supersedes <https://w3id.org/provcorp/np/public/vocab/general/hasSentenceNumber/RA35dQYeunfRxOJwvtxh4YKIzjtWxvdDVQnmu0gFk1R44> .
 }
-@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/hasText/RAUjB_i_iPhFhn0BMb5Bm8Mf-40gBRmJyovCfkur0M1AM> .
-@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/hasText/RAUjB_i_iPhFhn0BMb5Bm8Mf-40gBRmJyovCfkur0M1AM#> .
+@prefix this: <https://w3id.org/provcorp/np/public/vocab/general/hasText/RA3Q8lcuDjKblasb2SgiqqLOdf4erGVTSz-Lx5SvtzQb8> .
+@prefix sub: <https://w3id.org/provcorp/np/public/vocab/general/hasText/RA3Q8lcuDjKblasb2SgiqqLOdf4erGVTSz-Lx5SvtzQb8#> .
 @prefix latest: <https://w3id.org/provcorp/np/public/vocab/general/latest/hasText> .
 @prefix np: <http://www.nanopub.org/nschema#> .
+@prefix npx: <http://purl.org/nanopub/x/> .
 @prefix pav: <http://purl.org/pav#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -210,7 +219,7 @@ sub:pubinfo {
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix orcid: <https://orcid.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix pvcp: <https://w3id.org/provcorp/vocab/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
 sub:Head {
@@ -234,8 +243,9 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-01-28T19:17:09.468+01:00"^^xsd:dateTime;
+  this: dct:created "2020-06-16T11:58:51.605+02:00"^^xsd:dateTime;
     dct:creator orcid:0000-0002-1267-0234, orcid:0000-0002-3429-2879, orcid:0000-0002-5347-5750,
       orcid:0000-0002-8356-6469;
-    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+    npx:supersedes <https://w3id.org/provcorp/np/public/vocab/general/hasText/RAUjB_i_iPhFhn0BMb5Bm8Mf-40gBRmJyovCfkur0M1AM> .
 }

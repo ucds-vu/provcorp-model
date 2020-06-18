@@ -1,11 +1,11 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/XIE19990313.0173.RABzUlt5jP1QqDMA-oVHNtkdPLTUYEngAaimvWgigB_Vw> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/XIE19990313.0173.RABzUlt5jP1QqDMA-oVHNtkdPLTUYEngAaimvWgigB_Vw#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/XIE19990313.0173.RAxvdcw1V-J9xtjjEmxgOBjNVZ_omCyvO2NekyRGomuIo> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/XIE19990313.0173.RAxvdcw1V-J9xtjjEmxgOBjNVZ_omCyvO2NekyRGomuIo#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -20,7 +20,7 @@ sub:assertion {
     dct:identifier "XIE19990313.0173";
     dct:title "NEWS STORY Hungarian Leaders Hail Entry into NATO ";
     a foaf:Document;
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/XIE19990313.0173.RAoerK9ayuUbtxzrc6vI2m9T15EuRQw0XRIcQzl6wVoPg#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/XIE19990313.0173.RAPPZGsIicrFX5aaV_Qu54Mg8GlmBPAxcMQI1OY2BTn9I#text> .
 }
 
 sub:provenance {
@@ -28,7 +28,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:18:06.163+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:58:23.642+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

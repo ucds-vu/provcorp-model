@@ -1,11 +1,11 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/XIE19981203.0008.RAAhZKblbk9fkDrq1XPy_FeZyEh2iXcbOib4vBBqWyfBY> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/XIE19981203.0008.RAAhZKblbk9fkDrq1XPy_FeZyEh2iXcbOib4vBBqWyfBY#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/XIE19981203.0008.RAZ_Ho7WAzTP2NKr_rlA2lTBQHRUXeO8YdPjNShJNr_js> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/XIE19981203.0008.RAZ_Ho7WAzTP2NKr_rlA2lTBQHRUXeO8YdPjNShJNr_js#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -20,7 +20,7 @@ sub:assertion {
     dct:identifier "XIE19981203.0008";
     dct:title "NEWS STORY NATO Enlargement Ratification Process Concludes ";
     a foaf:Document;
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/XIE19981203.0008.RAGBZ0UiTcaV-T5ZCtr-dH03CRG0wfHTpudmYklzHHMvY#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/XIE19981203.0008.RAJyP8m1v888B5ASfbQHCY2Zd0SbvQgovYtBjV7JfR4G8#text> .
 }
 
 sub:provenance {
@@ -28,7 +28,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:12:23.751+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:53:08.193+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

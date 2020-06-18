@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0816.RA1cArGoUs0YgataOhrkvJWI-OZKlTj551RHUSt0KGhdk> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0816.RA1cArGoUs0YgataOhrkvJWI-OZKlTj551RHUSt0KGhdk#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0816.RA7oteLoR0xsp8SOKZXTkygPxVWewJ-AE1SJSa9vw_69c> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0816.RA7oteLoR0xsp8SOKZXTkygPxVWewJ-AE1SJSa9vw_69c#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Thursday's Markets: @  Earnings @  Data Cause @  Stock Fall @  --- @  Industrials Sink 39.55; @  Bonds Slip, but Dollar @  Soars Against Pound @  ---- @  By Douglas R. Sease @  Staff Reporter of The Wall Street Journal";
     a foaf:Document;
     rdfs:comment "MONETARY NEWS, FOREIGN EXCHANGE, TRADE (MON)STOCK INDEXES (NDX)STOCK MARKET, OFFERINGS (STK)FINANCIAL, ACCOUNTING, LEASING (FIN)BOND MARKET NEWS (BON)FOREIGN-EXCHANGE MARKETS (FRX)  TREASURY DEPARTMENT (TRE)";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0816.RAFIxFOeQ8yhjvWhx_lXCA60SUKGwAjY3pMssQ-XEjZpU#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0816.RAmU7HdEmG9K8dSzIW4rPH0pyFgunMZ9s31iKhKxWJ-VQ#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:15:08.271+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:55:39.376+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .

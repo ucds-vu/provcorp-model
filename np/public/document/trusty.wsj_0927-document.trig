@@ -1,12 +1,12 @@
-@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0927.RAu2YlPpPQ7nOkd-XFi9X72PMvbhSP6zLGiIVcQjpuY6Q> .
-@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0927.RAu2YlPpPQ7nOkd-XFi9X72PMvbhSP6zLGiIVcQjpuY6Q#> .
+@prefix this: <https://w3id.org/provcorp/np/public/document/wsj_0927.RAKtuDQIpYWDyKHBPIc2VLMqcG_L92p8y94ataqnvn_oU> .
+@prefix sub: <https://w3id.org/provcorp/np/public/document/wsj_0927.RAKtuDQIpYWDyKHBPIc2VLMqcG_L92p8y94ataqnvn_oU#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix pvcp: <https://w3id.org/provcorp/np/public/vocab/general/> .
+@prefix pvcp: <https://w3id.org/provcorp/vocab/general/> .
 
 sub:Head {
   this: np:hasAssertion sub:assertion;
@@ -22,7 +22,7 @@ sub:assertion {
     dct:title "Who's News: @  U.S. Trust Names @  Schwarz Chief, @  Maurer President @  ---- @  By James T. Areddy @  Staff Reporter of The Wall Street Journal";
     a foaf:Document;
     rdfs:comment "USTC WNEWS NEW YORK ";
-    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0927.RA7YP0COSC2ssokJpvpcPkGv-XmvE-QCuOsS-uKt22DtY#text> .
+    pvcp:hasText <https://w3id.org/provcorp/np/protected/text/wsj_0927.RApEfGFod8FdU7gm_OmJFXAfjKNPXPjm3_qmdcaytzhok#text> .
 }
 
 sub:provenance {
@@ -30,7 +30,7 @@ sub:provenance {
 }
 
 sub:pubinfo {
-  this: dct:created "2020-06-01T16:12:42.608+02:00"^^xsd:dateTime;
+  this: dct:created "2020-06-18T13:53:28.073+02:00"^^xsd:dateTime;
     dct:creator <https://orcid.org/0000-0002-1267-0234>, <https://orcid.org/0000-0002-3429-2879>,
       <https://orcid.org/0000-0002-5347-5750>, <https://orcid.org/0000-0002-8356-6469>;
     dct:license <https://creativecommons.org/share-your-work/public-domain/cc0/> .
