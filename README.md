@@ -26,6 +26,6 @@ On the first time that the np script is used it will download the most recent .j
 Once the bash file has been executed all the nanopublications will be saved as NQuads in the 'src/data/toLoad' directory. These can now be queried using Virtuoso. To launch Virtuoso you can type docker-compose up in the 'src' directory.
 NOTE: For Virtuoso container to work Docker has to be installed.
 
-### Step 3
+### Step 3:
 Once the container is active, you can go to 'localhost:8890/sparql' in the browser and execute the queries in the 'queries' directory.
 NOTE: Some queries make use of of specific Trusty URIs that can change when the nanopublications are generated again. The correct URIs can therefore be found in the trusty files in results folders of the 'src/nanopubs/Factbank' and 'src/nanopubs/PARC' directories.
